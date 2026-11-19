@@ -1,0 +1,714 @@
+{
+  "c01s03": {
+    "type": "compare",
+    "title": "Different questions",
+    "left": [
+      "Proximate",
+      "How does it work now?",
+      "Mechanism and development"
+    ],
+    "right": [
+      "Ultimate",
+      "How did it arise or persist?",
+      "History and proposed function"
+    ],
+    "caption": "A historical account is not a reading of a current intention."
+  },
+  "c01s03b": {
+    "type": "rows",
+    "title": "Four questions, distinct evidence",
+    "items": [
+      [
+        "Mechanism",
+        "What produces the action now?"
+      ],
+      [
+        "Development",
+        "How does it emerge in a lifetime?"
+      ],
+      [
+        "History and function",
+        "How did it evolve, and with what consequences?"
+      ]
+    ],
+    "caption": "The final row includes two distinct evolutionary questions."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "Turn a story into a hypothesis",
+    "items": [
+      [
+        "Specify",
+        "Which proposed function?"
+      ],
+      [
+        "Predict",
+        "What pattern should differ?"
+      ],
+      [
+        "Compare",
+        "Competing explanations and data"
+      ]
+    ],
+    "caption": "A plausible function is a research question rather than a settled fact."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "Choose the question before the answer",
+    "items": [
+      [
+        "Present",
+        "Mechanisms and intentions"
+      ],
+      [
+        "Lifetime",
+        "Development and learning"
+      ],
+      [
+        "Evolution",
+        "History and proposed function"
+      ]
+    ],
+    "caption": "Different explanations need different evidence."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "A selection explanation",
+    "items": [
+      [
+        "Variation",
+        "Individuals differ"
+      ],
+      [
+        "Inheritance",
+        "Some differences are transmitted"
+      ],
+      [
+        "Reproduction",
+        "Variants differ in outcomes"
+      ]
+    ],
+    "caption": "The process requires conditions, not an intention to improve the species."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Different meanings of better",
+    "left": [
+      "Fitness",
+      "Relative reproductive consequence",
+      "Context-specific"
+    ],
+    "right": [
+      "Human value",
+      "Health, happiness and ethics",
+      "Different standards"
+    ],
+    "caption": "Evolutionary terminology does not define what society should value."
+  },
+  "c02s04": {
+    "type": "rows",
+    "title": "Alternative processes",
+    "items": [
+      [
+        "Selection",
+        "Differential reproductive outcomes"
+      ],
+      [
+        "Drift",
+        "Random frequency change"
+      ],
+      [
+        "History",
+        "Constraints and inherited structure"
+      ]
+    ],
+    "caption": "Existence alone does not demonstrate adaptive function."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Check a selection story",
+    "items": [
+      [
+        "Variation",
+        "What differs and is inherited?"
+      ],
+      [
+        "Consequence",
+        "Which reproductive outcome?"
+      ],
+      [
+        "Alternative",
+        "Could another process explain it?"
+      ]
+    ],
+    "caption": "Selection is a mechanism to investigate, not a synonym for usefulness."
+  },
+  "c03s03": {
+    "type": "compare",
+    "title": "Present use and origin",
+    "left": [
+      "Current benefit",
+      "What does the feature do now?",
+      "Observed consequences"
+    ],
+    "right": [
+      "Historical explanation",
+      "Why did it arise?",
+      "Competing evolutionary accounts"
+    ],
+    "caption": "Current usefulness does not uniquely identify historical selection."
+  },
+  "c03s03b": {
+    "type": "flow",
+    "title": "Evaluate an adaptation claim",
+    "items": [
+      [
+        "Propose",
+        "Function and design predictions"
+      ],
+      [
+        "Compare",
+        "By-product and learning accounts"
+      ],
+      [
+        "Revise",
+        "When contrary evidence appears"
+      ]
+    ],
+    "caption": "The strength lies in discriminating evidence rather than narrative appeal."
+  },
+  "c03s04": {
+    "type": "compare",
+    "title": "A mismatch question",
+    "left": [
+      "Historical conditions",
+      "Specified evidence and uncertainty",
+      "Relevant to the hypothesis"
+    ],
+    "right": [
+      "Current conditions",
+      "A measurable change",
+      "Specified present outcome"
+    ],
+    "caption": "A contrast must be evidenced rather than imagined as a uniform ancestral life."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "A stronger origin argument",
+    "items": [
+      [
+        "Origin",
+        "Which competing hypotheses?"
+      ],
+      [
+        "Prediction",
+        "Which result separates them?"
+      ],
+      [
+        "Application",
+        "What needs separate testing?"
+      ]
+    ],
+    "caption": "A good evolutionary account is vulnerable to relevant evidence."
+  },
+  "c04s03": {
+    "type": "flow",
+    "title": "A capacity develops",
+    "items": [
+      [
+        "Biological resources",
+        "A developing organism"
+      ],
+      [
+        "Experience",
+        "Structured input and practice"
+      ],
+      [
+        "Phenotype",
+        "A measured outcome"
+      ]
+    ],
+    "caption": "The influences interact rather than contribute as separate personal percentages."
+  },
+  "c04s03b": {
+    "type": "compare",
+    "title": "Different questions",
+    "left": [
+      "Variation",
+      "Why do people in this sample differ?",
+      "A statistical estimate"
+    ],
+    "right": [
+      "Development",
+      "How does this outcome emerge?",
+      "A process over time"
+    ],
+    "caption": "A variance estimate is not a complete developmental mechanism."
+  },
+  "c04s04": {
+    "type": "rows",
+    "title": "A learning-origin claim",
+    "items": [
+      [
+        "Pattern",
+        "Which relation is learned?"
+      ],
+      [
+        "Comparison",
+        "Matched inputs and experience?"
+      ],
+      [
+        "Scope",
+        "Which populations and conditions?"
+      ]
+    ],
+    "caption": "Evidence for a learning bias needs more than a present preference."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Keep the levels distinct",
+    "items": [
+      [
+        "Development",
+        "How does the phenotype emerge?"
+      ],
+      [
+        "Variation",
+        "Why do measured people differ?"
+      ],
+      [
+        "History",
+        "Which evolutionary processes contributed?"
+      ]
+    ],
+    "caption": "Related questions still require different evidence."
+  },
+  "c05s03": {
+    "type": "flow",
+    "title": "A kin-selection question",
+    "items": [
+      [
+        "Action",
+        "Changes another’s outcome"
+      ],
+      [
+        "Association",
+        "Relevant genetic relatedness"
+      ],
+      [
+        "Consequence",
+        "Modelled effects across generations"
+      ]
+    ],
+    "caption": "The framework concerns evolutionary consequences rather than conscious arithmetic."
+  },
+  "c05s03b": {
+    "type": "compare",
+    "title": "Model quantities need definition",
+    "left": [
+      "Benefit and cost",
+      "Fitness consequences",
+      "Not just cash or effort"
+    ],
+    "right": [
+      "Relatedness",
+      "Relevant genetic association",
+      "Not simply social affection"
+    ],
+    "caption": "A symbolic rule is not an explanation until its quantities fit the case."
+  },
+  "c05s04": {
+    "type": "rows",
+    "title": "Avoid the only-cause claim",
+    "items": [
+      [
+        "Kin effects",
+        "One evolutionary framework"
+      ],
+      [
+        "Other processes",
+        "Reciprocity, norms and institutions"
+      ],
+      [
+        "Current motives",
+        "Care, duty and values"
+      ]
+    ],
+    "caption": "A partial explanation does not exclude other forms of helping."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "A bounded kin-selection explanation",
+    "items": [
+      [
+        "Model",
+        "Relevant assumptions and quantities"
+      ],
+      [
+        "Evidence",
+        "Fitness consequences and association"
+      ],
+      [
+        "Limit",
+        "No moral or intentional conclusion"
+      ]
+    ],
+    "caption": "A formal evolutionary account has a specific scope."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "Different cooperative settings",
+    "left": [
+      "Repeated partners",
+      "Future interaction possible",
+      "History can matter"
+    ],
+    "right": [
+      "One-shot model",
+      "No future encounter assumed",
+      "Different incentives"
+    ],
+    "caption": "Modelled conditions shape predictions; actual life may not match them."
+  },
+  "c06s03b": {
+    "type": "flow",
+    "title": "A possible reputation pathway",
+    "items": [
+      [
+        "Action",
+        "Conduct is observed"
+      ],
+      [
+        "Information",
+        "Others learn about it"
+      ],
+      [
+        "Choice",
+        "Later interaction may change"
+      ]
+    ],
+    "caption": "Reputation is one possible influence rather than a unique motive."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "Three possible contributions",
+    "items": [
+      [
+        "Partners",
+        "Repeated interaction"
+      ],
+      [
+        "Network",
+        "Reputation and choice"
+      ],
+      [
+        "Institution",
+        "Rules and accessible coordination"
+      ]
+    ],
+    "caption": "Cooperation can arise through several interacting processes."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "A cooperation claim needs conditions",
+    "items": [
+      [
+        "Interaction",
+        "Who meets again?"
+      ],
+      [
+        "Information",
+        "What is known about conduct?"
+      ],
+      [
+        "Rules",
+        "Which options and incentives exist?"
+      ]
+    ],
+    "caption": "Cooperation is a research problem rather than a single hidden motive."
+  },
+  "c07s03": {
+    "type": "rows",
+    "title": "Keep the model specific",
+    "items": [
+      [
+        "Population",
+        "Which organisms and conditions?"
+      ],
+      [
+        "Outcome",
+        "Which reproductive difference?"
+      ],
+      [
+        "Scope",
+        "What does the model leave out?"
+      ]
+    ],
+    "caption": "A reproductive model is not a complete account of human intimacy."
+  },
+  "c07s03b": {
+    "type": "compare",
+    "title": "Model and overgeneralization",
+    "left": [
+      "Conditional prediction",
+      "Specified costs and setting",
+      "Population-level pattern"
+    ],
+    "right": [
+      "Fixed stereotype",
+      "Every individual wants the same",
+      "Ignores variation and context"
+    ],
+    "caption": "A model must retain its conditions and individual variability."
+  },
+  "c07s04": {
+    "type": "compare",
+    "title": "Average and individual",
+    "left": [
+      "Group result",
+      "Effect size and overlap",
+      "Sample and uncertainty"
+    ],
+    "right": [
+      "One person",
+      "Preferences and context",
+      "Cannot be read from the average"
+    ],
+    "caption": "Population differences do not identify an individual’s choices."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "A responsible relationship claim",
+    "items": [
+      [
+        "Model",
+        "Conditional reproductive question"
+      ],
+      [
+        "Evidence",
+        "Variation and comparable measures"
+      ],
+      [
+        "Ethics",
+        "Separate descriptive and moral claims"
+      ]
+    ],
+    "caption": "Human relationships cannot be reduced to a universal ancestral script."
+  },
+  "c08s03": {
+    "type": "flow",
+    "title": "A transmitted practice",
+    "items": [
+      [
+        "Innovation",
+        "A technique is developed"
+      ],
+      [
+        "Transmission",
+        "Others learn it socially"
+      ],
+      [
+        "Change",
+        "Variants spread or are revised"
+      ]
+    ],
+    "caption": "Social transmission differs from genetic inheritance."
+  },
+  "c08s03b": {
+    "type": "rows",
+    "title": "Why might a practice spread?",
+    "items": [
+      [
+        "Frequency",
+        "Others commonly use it"
+      ],
+      [
+        "Model",
+        "A respected person displays it"
+      ],
+      [
+        "Content",
+        "The idea is memorable"
+      ]
+    ],
+    "caption": "Several transmission pathways can fit the same observed popularity."
+  },
+  "c08s04": {
+    "type": "compare",
+    "title": "Different timescales and evidence",
+    "left": [
+      "Cultural spread",
+      "A learned technique travels",
+      "Social transmission records"
+    ],
+    "right": [
+      "Genetic change",
+      "Variant frequencies change",
+      "Population genetic evidence"
+    ],
+    "caption": "The processes can interact without being identical."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "A cultural-evolution claim",
+    "items": [
+      [
+        "Variant",
+        "What information or practice changes?"
+      ],
+      [
+        "Transmission",
+        "Who learns from whom?"
+      ],
+      [
+        "Outcome",
+        "What consequence is independently measured?"
+      ]
+    ],
+    "caption": "Transmission and practical quality require separate evidence."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Sample and claimed scope",
+    "left": [
+      "Observed sample",
+      "One university",
+      "Specific tasks and institutions"
+    ],
+    "right": [
+      "Universal claim",
+      "All humans",
+      "Needs broader suitable evidence"
+    ],
+    "caption": "A broad origin claim cannot erase sampling limits."
+  },
+  "c09s03b": {
+    "type": "flow",
+    "title": "A stronger hypothesis test",
+    "items": [
+      [
+        "Before",
+        "State alternatives and predictions"
+      ],
+      [
+        "During",
+        "Use suitable measures and samples"
+      ],
+      [
+        "After",
+        "Report uncertainty and replication"
+      ]
+    ],
+    "caption": "Open methods improve scrutiny rather than guarantee truth."
+  },
+  "c09s04": {
+    "type": "rows",
+    "title": "Assess the whole evidence",
+    "items": [
+      [
+        "Prediction",
+        "Does it separate accounts?"
+      ],
+      [
+        "Method",
+        "Is the measure suitable?"
+      ],
+      [
+        "Literature",
+        "What replication and contrary findings exist?"
+      ]
+    ],
+    "caption": "Agreement with a plausible narrative is weaker than discriminating evidence."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "From story to credible test",
+    "items": [
+      [
+        "Alternatives",
+        "What else fits?"
+      ],
+      [
+        "Prediction",
+        "Which result distinguishes them?"
+      ],
+      [
+        "Scope",
+        "Who and what were measured?"
+      ]
+    ],
+    "caption": "Scientific confidence follows the quality and range of evidence."
+  },
+  "c10s03": {
+    "type": "compare",
+    "title": "Separate the claims",
+    "left": [
+      "Descriptive",
+      "What occurs and why?",
+      "Evidence and uncertainty"
+    ],
+    "right": [
+      "Normative",
+      "What should we do?",
+      "Ethical reasons and consequences"
+    ],
+    "caption": "An evolutionary account does not supply a moral permission slip."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "A responsible account",
+    "items": [
+      [
+        "Specify",
+        "Question and conditions"
+      ],
+      [
+        "Compare",
+        "Models and predictions"
+      ],
+      [
+        "Revise",
+        "Confidence and limits"
+      ]
+    ],
+    "caption": "An evolutionary explanation should remain testable and proportionate."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A practical decision check",
+    "items": [
+      [
+        "Evidence",
+        "Does the intervention help now?"
+      ],
+      [
+        "Ethics",
+        "Whose rights and welfare matter?"
+      ],
+      [
+        "Variation",
+        "Are individuals being stereotyped?"
+      ]
+    ],
+    "caption": "Current action needs empirical and ethical justification."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A final evolutionary check",
+    "items": [
+      [
+        "Science",
+        "Which claim is supported?"
+      ],
+      [
+        "Uncertainty",
+        "Which alternatives remain?"
+      ],
+      [
+        "Ethics",
+        "What justifies the action?"
+      ]
+    ],
+    "caption": "A useful explanation deepens inquiry without dictating human roles."
+  }
+}

@@ -1,0 +1,939 @@
+c01s01 Chapter 1: Why can mean several different questions
+At the café, people help a visitor lift a heavy table. Leo asks why they helped. Sam mentions concern, Maya mentions learned cooperation, and another visitor proposes an evolutionary benefit. Are they answering the same question?
+
+c01s02 Chapter 1: Make a first decision
+First, make a prediction about the café story.
+
+Which distinction helps the discussion?
+
+A. Current motives and evolutionary history answer different questions.
+
+B. An evolutionary hypothesis proves hidden selfish intent.
+
+C. A learned practice excludes all biological influence.
+
+Choose an option before checking the feedback.
+
+c01s02-feedback-0 Chapter 1: feedback 1
+The accounts can be complementary without identifying the same process.
+
+c01s02-feedback-1 Chapter 1: feedback 2
+Historical fitness consequences do not reveal conscious intent.
+
+c01s02-feedback-2 Chapter 1: feedback 3
+Learning and biology interact rather than exclude one another.
+
+c01s03 Chapter 1: Different why questions can complement each other.
+Proximate explanation: account of mechanisms and development. Ultimate explanation: account concerning evolutionary history or function. Level of explanation: the kind of question an account addresses.
+
+A present motive, a learning history and an evolutionary hypothesis can concern the same behaviour without being interchangeable.
+
+A person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person’s conscious purpose.
+
+c01s03b Chapter 1: Tinbergen distinguished four questions.
+Ontogeny: development within an individual lifetime. Phylogeny: evolutionary history across lineages.
+
+Tinbergen distinguished mechanism, development, evolutionary history and adaptive function. A complete research programme can investigate several questions with different methods.
+
+Do not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.
+
+c01s04 Chapter 1: A function claim needs testing.
+Adaptive function: proposed contribution to reproductive success in an evolutionary context. Alternative explanation: another account fitting some observations.
+
+A useful-looking action is not automatically an adaptation. A function hypothesis must specify a problem, predictions and alternatives.
+
+The café example is not evidence that table lifting evolved for one purpose. It can help formulate questions about learning, relationships and possible histories.
+
+c01s05 Chapter 1: What does the evidence allow?
+Evolution is an established biological framework. Specific claims about psychological adaptations vary in evidential support and require their own tests.
+
+Tinbergen’s questions organize inquiry; naming a level of explanation does not prove the answer proposed at that level.
+
+c01s06 Chapter 1: Apply the distinction
+Apply the idea to this new fictional case.
+
+A researcher explains cooperation by describing how a child learned local turn-taking practices.
+
+What kind of explanation is this?
+
+A. Phylogenetic history.
+
+B. Ontogenetic development.
+
+C. Proof of adaptive function.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c01s06-feedback-0 Chapter 1: feedback 1
+The statement concerns a person’s life rather than lineage history.
+
+c01s06-feedback-1 Chapter 1: feedback 2
+It describes how behaviour developed through experience.
+
+c01s06-feedback-2 Chapter 1: feedback 3
+A learning account does not establish evolutionary function.
+
+c01s07 Chapter 1: Explain it without the notes
+Try these questions without your notes.
+
+What does proximate explanation include?
+
+Why does an evolutionary account not reveal conscious intention?
+
+Reveal the suggested answers after trying.
+
+c01s07-answers Chapter 1: recall answers
+Mechanisms operating now and development over an individual lifetime.
+
+Historical consequences and present mental purposes are different explanatory questions.
+
+c01s08 Chapter 1: Take the idea into everyday life
+Use a fictional act of helping to write one mechanism question, one development question and one evolutionary question.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c02s01 Chapter 2: Selection has no foresight
+A visitor says humans evolved a preference because nature wanted people to be happy. Maya asks whether natural selection has intentions or whether a different process is being described.
+
+c02s02 Chapter 2: Make a first decision
+First, make a prediction about the café story.
+
+What corrects the visitor’s explanation?
+
+A. Nature plans future happiness.
+
+B. Selection is a population process without foresight.
+
+C. Every existing preference must be optimal.
+
+Choose an option before checking the feedback.
+
+c02s02-feedback-0 Chapter 2: feedback 1
+Selection does not have intentions or a future goal.
+
+c02s02-feedback-1 Chapter 2: feedback 2
+The explanation concerns heritable variation and reproductive consequences.
+
+c02s02-feedback-2 Chapter 2: feedback 3
+Constraints, trade-offs and non-selective processes remain relevant.
+
+c02s03 Chapter 2: Selection changes populations over generations.
+Variation: differences among individuals. Heritable variation: variation partly transmitted across generations. Natural selection: change associated with differential reproduction of heritable variants.
+
+When heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention.
+
+Individuals develop and learn during life; populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.
+
+c02s03b Chapter 2: Fitness is not health, virtue or happiness.
+Evolutionary fitness: relative contribution to subsequent generations in a context. Trade-off: benefit in one respect with a cost in another. Constraint: limitation on possible evolutionary change.
+
+Fitness is defined relative to reproductive contribution under conditions. It does not measure moral worth or guarantee happiness, health or an optimal design.
+
+Selection works with inherited structures and competing demands. A feature can have costs and still persist; some features persist for reasons other than selection.
+
+c02s04 Chapter 2: Change has more than one source.
+Genetic drift: random change in variant frequencies.
+
+Evolutionary change can involve selection, drift, mutation and gene flow. Developmental constraints and historical contingencies also matter.
+
+The observation that a feature exists today does not identify which process produced it. An adaptation claim needs more than a statement that the feature seems useful.
+
+c02s05 Chapter 2: What does the evidence allow?
+Natural selection is a general mechanism supported by converging biological evidence. A particular behavioural adaptation claim requires additional evidence about variation, inheritance, history and function.
+
+A modern preference or group difference does not identify its evolutionary origin by itself.
+
+c02s06 Chapter 2: Apply the distinction
+Apply the idea to this new fictional case.
+
+A widespread characteristic is observed, but no evidence about its origin or function is provided.
+
+Which conclusion follows?
+
+A. The trait is morally good.
+
+B. The trait must increase happiness.
+
+C. Its presence alone does not establish adaptation.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c02s06-feedback-0 Chapter 2: feedback 1
+A descriptive history does not settle moral value.
+
+c02s06-feedback-1 Chapter 2: feedback 2
+Fitness and happiness are distinct outcomes.
+
+c02s06-feedback-2 Chapter 2: feedback 3
+Alternative evolutionary and developmental accounts need comparison.
+
+c02s07 Chapter 2: Explain it without the notes
+Try these questions without your notes.
+
+Why does natural selection have no foresight?
+
+How does drift differ from selection?
+
+Reveal the suggested answers after trying.
+
+c02s07-answers Chapter 2: recall answers
+Frequency changes arise from current conditions and reproduction, not planning toward a goal.
+
+Drift concerns random frequency change; selection concerns differential reproductive consequences of variants.
+
+c02s08 Chapter 2: Take the idea into everyday life
+Rewrite a fictional nature-wanted-it claim using variation, inheritance and conditions, with no moral conclusion.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c03s01 Chapter 3: A useful feature is not automatically an adaptation
+People at the café enjoy music. Leo says enjoyment proves music evolved specifically for that function. Maya asks whether the pattern could involve cultural learning or capacities that evolved in other contexts.
+
+c03s02 Chapter 3: Make a first decision
+First, make a prediction about the café story.
+
+What is missing from Leo’s music claim?
+
+A. Predictions distinguishing adaptation from alternatives.
+
+B. The fact that some people enjoy music.
+
+C. The assumption that enjoyment proves historical selection.
+
+Choose an option before checking the feedback.
+
+c03s02-feedback-0 Chapter 3: feedback 1
+A current preference is compatible with several origins.
+
+c03s02-feedback-1 Chapter 3: feedback 2
+Enjoyment is already part of the observation and does not settle origin.
+
+c03s02-feedback-2 Chapter 3: feedback 3
+That is the unsupported inference being examined.
+
+c03s03 Chapter 3: Several origins can fit a present feature.
+Adaptation: feature shaped by selection for a particular effect. Exaptation: feature used for a role different from an earlier origin.
+
+A present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use, or emerge as a by-product.
+
+These hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the café anecdote can settle.
+
+c03s03b Chapter 3: Design claims need discriminating predictions.
+Special design: features fitting a proposed adaptive problem. Comparative evidence: comparisons across species or populations. Falsifiability: possibility of evidence counting against a claim.
+
+An adaptation hypothesis should predict a pattern that alternatives do not equally predict. Anatomy, development, comparative work and other evidence can contribute.
+
+If every possible outcome is explained after the fact, the account is difficult to test. Specify what would reduce confidence before inspecting only supportive cases.
+
+c03s04 Chapter 3: Mismatch needs a specified contrast.
+Evolutionary mismatch: a feature’s effects differ between relevant ancestral and current conditions. Current function: present effects under present conditions.
+
+Mismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle.
+
+A plausible mismatch does not prescribe a diet, relationship or social policy. Clinical and practical recommendations need their own outcome evidence.
+
+c03s05 Chapter 3: What does the evidence allow?
+Adaptation, by-product and mismatch hypotheses need independent evidence. Scholarly debate concerns how to distinguish them, not whether evolution occurred.
+
+The music case illustrates alternative explanations. No one origin claim is established by enjoyment or prevalence alone.
+
+c03s06 Chapter 3: Apply the distinction
+Apply the idea to this new fictional case.
+
+A headline attributes a modern difficulty to evolutionary mismatch.
+
+What should the researcher specify?
+
+A. One universal prehistoric lifestyle.
+
+B. The feature, historical contrast and predicted present effect.
+
+C. A moral rule derived from what seems natural.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c03s06-feedback-0 Chapter 3: feedback 1
+Ancestral conditions varied across time and place.
+
+c03s06-feedback-1 Chapter 3: feedback 2
+A mismatch hypothesis needs a defined and evidenced contrast.
+
+c03s06-feedback-2 Chapter 3: feedback 3
+A descriptive origin claim does not establish an ethical rule.
+
+c03s07 Chapter 3: Explain it without the notes
+Try these questions without your notes.
+
+How does a by-product differ from an adaptation?
+
+Why does mismatch not imply a treatment?
+
+Reveal the suggested answers after trying.
+
+c03s07-answers Chapter 3: recall answers
+An adaptation was shaped for a particular effect; a by-product arises alongside other processes.
+
+A historical explanation does not show that an intervention produces benefit in current conditions.
+
+c03s08 Chapter 3: Take the idea into everyday life
+Choose a fictional adaptation headline. Write one alternative account and one result that would weaken the headline.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c04s01 Chapter 4: Genes and learning do not take turns
+Jo learns a local greeting quickly. Leo says it must be cultural and therefore not biological. Another visitor says an evolved capacity must appear without learning. Maya questions both claims.
+
+c04s02 Chapter 4: Make a first decision
+First, make a prediction about the café story.
+
+Which statement best corrects both visitors?
+
+A. An evolved capacity can develop through learned cultural input.
+
+B. Culture means biology is absent.
+
+C. Evolution requires a behaviour to appear without experience.
+
+Choose an option before checking the feedback.
+
+c04s02-feedback-0 Chapter 4: feedback 1
+Development integrates biological resources and experience.
+
+c04s02-feedback-1 Chapter 4: feedback 2
+Culture is learned by biological organisms.
+
+c04s02-feedback-2 Chapter 4: feedback 3
+Many biological capacities depend on appropriate developmental input.
+
+c04s03 Chapter 4: Development constructs the phenotype.
+Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions.
+
+Genes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input.
+
+The question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.
+
+c04s03b Chapter 4: Heritability is a population statement.
+Reaction norm: pattern of outcomes across environments for a genotype. Gene–environment interaction: genetic effects differing across environments.
+
+Heritability depends on the population, environmental range and measure. It does not say what percentage of one person’s behaviour is genetic.
+
+A trait can be heritable and responsive to changed conditions. Conversely, a widely shared developmental mechanism may generate little measured variation in one sample.
+
+c04s04 Chapter 4: Learning can be part of an evolved solution.
+Preparedness: differential ease of learning some relations under conditions. Learning bias: systematic tendency in acquiring information.
+
+Learning is a biological capability expressed in environments. Research can test whether some associations are acquired differently under controlled conditions.
+
+Such findings do not establish that every current fear or preference is innate. Prior experience, measurement and cultural input remain alternatives to examine.
+
+c04s05 Chapter 4: What does the evidence allow?
+Evolved and learned are not mutually exclusive categories. Developmental and genetic evidence must be interpreted at their appropriate levels.
+
+Heritability does not establish immutability, adaptation or the cause of a specific person’s behaviour.
+
+c04s06 Chapter 4: Apply the distinction
+Apply the idea to this new fictional case.
+
+A study reports heritability for a measured trait in one population.
+
+What does the estimate establish?
+
+A. A percentage of each individual’s behaviour.
+
+B. Variation in a specified population under a model.
+
+C. A proof that the trait cannot change.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c04s06-feedback-0 Chapter 4: feedback 1
+The estimate is not an individual decomposition.
+
+c04s06-feedback-1 Chapter 4: feedback 2
+Population, measure and conditions define its scope.
+
+c04s06-feedback-2 Chapter 4: feedback 3
+Modifiability is a separate empirical question.
+
+c04s07 Chapter 4: Explain it without the notes
+Try these questions without your notes.
+
+Why can an evolved capacity require learning?
+
+Why does heritability not prove adaptation?
+
+Reveal the suggested answers after trying.
+
+c04s07-answers Chapter 4: recall answers
+Developmental processes can use experience as essential input.
+
+It concerns variation, not evidence of historical selection for a particular function.
+
+c04s08 Chapter 4: Take the idea into everyday life
+Rewrite a fictional nature-versus-nurture argument as a question about interacting developmental processes.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c05s01 Chapter 5: Helping relatives has more than one explanation
+A visitor helps a sibling move a table, then helps an unrelated neighbour. Leo says kin selection proves people care only about relatives. Maya asks what the theory actually predicts.
+
+c05s02 Chapter 5: Make a first decision
+First, make a prediction about the café story.
+
+What is wrong with Leo’s conclusion?
+
+A. Kin selection is a theory of conscious gene counting.
+
+B. One framework does not imply all care is restricted to kin.
+
+C. Helping non-kin proves evolution never matters.
+
+Choose an option before checking the feedback.
+
+c05s02-feedback-0 Chapter 5: feedback 1
+The framework does not require that mental calculation.
+
+c05s02-feedback-1 Chapter 5: feedback 2
+Other motives and social processes can support care.
+
+c05s02-feedback-2 Chapter 5: feedback 3
+That observation does not settle every evolutionary contribution.
+
+c05s03 Chapter 5: Fitness consequences can extend through relatives.
+Kin selection: selection influenced by effects on relatives’ reproductive outcomes. Inclusive fitness: framework including direct and relatedness-weighted effects. Relatedness: genetic association relevant to an evolutionary model.
+
+An action affecting relatives can influence the propagation of shared genetic variants. Kin-selection models formalize these effects under stated assumptions.
+
+They do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.
+
+c05s03b Chapter 5: Hamilton’s rule is conditional.
+Hamilton’s rule: condition comparing relatedness-weighted benefit with cost. Fitness cost: reduction in reproductive outcome within a model. Fitness benefit: increase in reproductive outcome within a model.
+
+The familiar rule compares relatedness times benefit with cost under a specified model. Cost and benefit concern fitness, not simply money or felt effort.
+
+Real applications need appropriate definitions and evidence. A casual act of family help does not measure the terms or prove the model caused it.
+
+c05s04 Chapter 5: Non-kin care is not a contradiction.
+Direct benefit: effect on the actor’s own reproductive outcome in a model. Social norm: shared expectation influencing conduct.
+
+Care can involve attachment, norms, reciprocity, institutions and personal values. Several evolutionary and proximate processes may contribute.
+
+The existence of care for non-relatives does not by itself refute kin selection, nor does kin selection explain every act of care. Ethical obligations need independent reasoning.
+
+c05s05 Chapter 5: What does the evidence allow?
+Kin selection is a formal evolutionary framework with extensive biological applications. Applying it to a particular human act requires model assumptions and relevant evidence.
+
+Relatedness does not determine whom someone should help, and a fitness account does not prove selfish conscious motivation.
+
+c05s06 Chapter 5: Apply the distinction
+Apply the idea to this new fictional case.
+
+A commentator applies Hamilton’s rule to a family favour using only its monetary cost.
+
+What needs clarification?
+
+A. The model’s fitness benefits, costs and relatedness.
+
+B. Only whether the person felt generous.
+
+C. A moral obligation to favour relatives.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c05s06-feedback-0 Chapter 5: feedback 1
+The formal terms need case-appropriate definitions and evidence.
+
+c05s06-feedback-1 Chapter 5: feedback 2
+A subjective motive does not specify the model’s quantities.
+
+c05s06-feedback-2 Chapter 5: feedback 3
+The descriptive model does not establish that obligation.
+
+c05s07 Chapter 5: Explain it without the notes
+Try these questions without your notes.
+
+Why does inclusive fitness not imply conscious selfishness?
+
+Why are monetary and fitness costs different?
+
+Reveal the suggested answers after trying.
+
+c05s07-answers Chapter 5: recall answers
+Evolutionary consequences and conscious purposes are separate explanatory levels.
+
+Fitness costs concern reproductive outcomes under a model, not necessarily money or effort.
+
+c05s08 Chapter 5: Take the idea into everyday life
+Use a fictional act of family help to write a proximate account and a separate evolutionary question, without assigning a motive.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c06s01 Chapter 6: Cooperation can depend on the game
+At the café, volunteers share tools repeatedly, visitors see who helps, and clear checkout rules reduce losses. Leo explains all cooperation as an unconscious exchange of favours. Maya asks which conditions matter.
+
+c06s02 Chapter 6: Make a first decision
+First, make a prediction about the café story.
+
+What best improves Leo’s explanation?
+
+A. Separate repeated interaction, reputation and institutional rules.
+
+B. Assume every helpful act expects repayment.
+
+C. Treat a public act as proof of a conscious strategy.
+
+Choose an option before checking the feedback.
+
+c06s02-feedback-0 Chapter 6: feedback 1
+The conditions can support different, testable accounts.
+
+c06s02-feedback-1 Chapter 6: feedback 2
+The act is compatible with several motives and processes.
+
+c06s02-feedback-2 Chapter 6: feedback 3
+Public consequences do not uniquely identify intention.
+
+c06s03 Chapter 6: Repeated interaction can change incentives.
+Direct reciprocity: cooperation influenced by repeated interaction between partners. One-shot interaction: interaction modelled without future encounters.
+
+Helping now can affect future treatment when individuals interact again. Models depend on memory, opportunities and costs.
+
+Not all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.
+
+c06s03b Chapter 6: Reputation can affect a wider network.
+Indirect reciprocity: help influenced by information about others’ social behaviour. Partner choice: selecting whom to interact with.
+
+People can use reputation when choosing partners or helping. Information can be incomplete, mistaken or shaped by unequal visibility.
+
+A public act may affect reputation without proving that reputation was the actor’s conscious goal. Compare private and public conditions carefully before inferring motives.
+
+c06s04 Chapter 6: Institutions change the available relations.
+Institution: shared rules and practices structuring interaction. Public good: benefit difficult to restrict to contributors. Coordination: aligning actions toward a compatible outcome.
+
+Rules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity.
+
+Economic games isolate selected incentives, but their results depend on instructions, norms and sampling. A game score is not a complete measure of a person’s morality.
+
+c06s05 Chapter 6: What does the evidence allow?
+Reciprocity models generate conditional predictions. Human cooperation also involves development, norms and institutions, and experimental games simplify these conditions.
+
+A modern game result does not establish one ancestral origin or reveal a hidden selfish intention.
+
+c06s06 Chapter 6: Apply the distinction
+Apply the idea to this new fictional case.
+
+Tool losses fall after the café introduces a clear, accessible checkout system.
+
+Which conclusion is proportionate?
+
+A. Rules permanently changed everyone’s moral character.
+
+B. The system improved this coordination outcome under these conditions.
+
+C. The result proves one evolutionary origin.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c06s06-feedback-0 Chapter 6: feedback 1
+A local outcome does not establish a character transformation.
+
+c06s06-feedback-1 Chapter 6: feedback 2
+The conclusion matches the intervention and measured context.
+
+c06s06-feedback-2 Chapter 6: feedback 3
+An institution’s current effect does not identify historical origins.
+
+c06s07 Chapter 6: Explain it without the notes
+Try these questions without your notes.
+
+How does indirect reciprocity differ from direct reciprocity?
+
+Why can institutions matter independently of generosity?
+
+Reveal the suggested answers after trying.
+
+c06s07-answers Chapter 6: recall answers
+Indirect reciprocity uses social information or reputation; direct reciprocity concerns interactions between partners.
+
+Rules can change opportunities, trust and coordination even without changing preferences.
+
+c06s08 Chapter 6: Take the idea into everyday life
+For a fictional shared-resource problem, identify partner, network and rule-based influences without judging anyone’s morality.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c07s01 Chapter 7: Relationships are not an ancestral instruction manual
+A headline claims that one ancestral story explains what every person wants in a relationship. Maya asks about variation, cultural conditions and whether an average result can identify an individual preference.
+
+c07s02 Chapter 7: Make a first decision
+First, make a prediction about the café story.
+
+What is wrong with the universal headline?
+
+A. It treats a conditional population account as every individual’s preference.
+
+B. Evolutionary models never make predictions.
+
+C. Every observed group difference proves one genetic cause.
+
+Choose an option before checking the feedback.
+
+c07s02-feedback-0 Chapter 7: feedback 1
+The claim discards variation, context and alternative explanations.
+
+c07s02-feedback-1 Chapter 7: feedback 2
+Models can make testable conditional predictions.
+
+c07s02-feedback-2 Chapter 7: feedback 3
+A difference alone does not identify its developmental or historical cause.
+
+c07s03 Chapter 7: Sexual selection concerns reproductive differences.
+Sexual selection: selection associated with differences in mating or fertilization success. Mate choice: preferences or decisions affecting mating. Competition: interaction over limited opportunities or resources.
+
+Sexual-selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems.
+
+Human relationships also involve affection, learning, institutions and individual identity. A reproductive model does not capture every form or purpose of a relationship.
+
+c07s03b Chapter 7: Investment and constraints vary.
+Parental investment: resources benefiting offspring at a cost to other reproductive opportunities. Life-history trade-off: allocation among growth, maintenance and reproduction. Ecological condition: environmental resource or risk affecting outcomes.
+
+Models examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies.
+
+Do not turn a model average into a fixed claim about every woman, man or family. Sex, gender, sexuality, resources and social roles require careful distinction in human research.
+
+c07s04 Chapter 7: A difference needs a well-designed comparison.
+Within-group variation: differences among members of a group. Effect size: magnitude of a measured difference or relation. Measurement equivalence: evidence that a measure has comparable meaning across groups.
+
+Report the magnitude, overlap and uncertainty of a difference, and check sampling and cultural context. A group average is not an individual prediction.
+
+A descriptive evolutionary hypothesis does not justify coercion, discrimination or a prescribed relationship arrangement. Ethics and practical decisions need independent reasons.
+
+c07s05 Chapter 7: What does the evidence allow?
+Sexual-selection and life-history models are established frameworks; particular human preference hypotheses have varying support and active debate. Cross-cultural evidence and alternative accounts matter.
+
+This lesson provides neither dating advice nor a normative model for family life.
+
+c07s06 Chapter 7: Apply the distinction
+Apply the idea to this new fictional case.
+
+A survey reports an average preference difference between two sampled groups.
+
+What should be reported?
+
+A. Only whether the difference is statistically significant.
+
+B. Effect size, overlap, uncertainty and sampling limits.
+
+C. A rule assigning each person a preference.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c07s06-feedback-0 Chapter 7: feedback 1
+Significance alone does not show magnitude or individual predictability.
+
+c07s06-feedback-1 Chapter 7: feedback 2
+These details clarify how far the result can be interpreted.
+
+c07s06-feedback-2 Chapter 7: feedback 3
+A group summary cannot prescribe an individual choice.
+
+c07s07 Chapter 7: Explain it without the notes
+Try these questions without your notes.
+
+What does parental investment mean in the model?
+
+Why does a group difference not establish an individual preference?
+
+Reveal the suggested answers after trying.
+
+c07s07-answers Chapter 7: recall answers
+Resources benefiting offspring at a cost to other reproductive opportunities.
+
+Distributions can overlap and individuals differ in history, context and goals.
+
+c07s08 Chapter 7: Take the idea into everyday life
+Critique a fictional relationship headline for population, measurement, effect size and the jump from description to prescription.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c08s01 Chapter 8: Culture also changes across generations
+One café adopts a useful repair technique from a neighbour, then several others copy it. Leo says this must be a genetic change because the practice spread. Maya asks what was transmitted.
+
+c08s02 Chapter 8: Make a first decision
+First, make a prediction about the café story.
+
+What spread in the café example?
+
+A. A socially learned technique.
+
+B. Necessarily a new genetic variant.
+
+C. A proof that popular methods are always best.
+
+Choose an option before checking the feedback.
+
+c08s02-feedback-0 Chapter 8: feedback 1
+The observed transmission concerns information and practice.
+
+c08s02-feedback-1 Chapter 8: feedback 2
+Rapid social spread is not evidence of changing gene frequencies.
+
+c08s02-feedback-2 Chapter 8: feedback 3
+Popularity leaves quality and fairness open.
+
+c08s03 Chapter 8: Information can spread socially.
+Cultural transmission: socially mediated acquisition of information or practice. Social learning: learning influenced by observing or interacting with others.
+
+A technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them.
+
+Cultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.
+
+c08s03b Chapter 8: Copying can follow different cues.
+Conformist transmission: disproportionate copying of a common variant under a model. Prestige-biased transmission: copying influenced by a model’s social standing. Content bias: transmission influenced by features of the information.
+
+People may attend to common practices, respected models or memorable content. These are hypotheses about transmission that need appropriate comparison.
+
+A popular method may be effective, fashionable or simply more visible. Test actual outcomes rather than equating prevalence with quality.
+
+c08s04 Chapter 8: Genes and culture can influence each other.
+Gene–culture coevolution: interacting genetic and cultural changes over generations. Niche construction: organisms modify environments affecting subsequent development or selection. Cumulative culture: building on earlier socially transmitted contributions.
+
+Social practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales.
+
+Do not infer a genetic change from rapid cultural spread. A coevolution claim needs historical and biological evidence beyond a modern trend.
+
+c08s05 Chapter 8: What does the evidence allow?
+Cultural-evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality.
+
+A popular practice is not automatically adaptive, optimal or ethically desirable.
+
+c08s06 Chapter 8: Apply the distinction
+Apply the idea to this new fictional case.
+
+A repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked.
+
+What evidence would distinguish the accounts?
+
+A. The teacher’s confidence alone.
+
+B. Transmission patterns and independent outcomes of the technique.
+
+C. An assumption that every copied practice is beneficial.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c08s06-feedback-0 Chapter 8: feedback 1
+Confidence does not identify the transmission process or benefit.
+
+c08s06-feedback-1 Chapter 8: feedback 2
+Copying pathways and actual effectiveness are distinct measurable questions.
+
+c08s06-feedback-2 Chapter 8: feedback 3
+Spread does not guarantee utility.
+
+c08s07 Chapter 8: Explain it without the notes
+Try these questions without your notes.
+
+How does cultural transmission differ from genetic inheritance?
+
+Why does popularity not prove adaptation?
+
+Reveal the suggested answers after trying.
+
+c08s07-answers Chapter 8: recall answers
+It transmits information socially rather than genetic variants through reproduction.
+
+Practices can spread through visibility, biases or institutions without improving the relevant outcome.
+
+c08s08 Chapter 8: Take the idea into everyday life
+Use a fictional technique to describe how it spreads, why people copy it and how usefulness could be tested separately.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c09s01 Chapter 9: A universal claim needs varied evidence
+A study surveys students at one university and announces a universal human adaptation. Leo is persuaded by the evolutionary story. Maya asks whether the prediction distinguishes alternatives and whether other populations were studied.
+
+c09s02 Chapter 9: Make a first decision
+First, make a prediction about the café story.
+
+What is the main scope problem?
+
+A. A narrow sample is insufficient for the universal claim.
+
+B. Student research can never be informative.
+
+C. An evolutionary story removes the need for sampling.
+
+Choose an option before checking the feedback.
+
+c09s02-feedback-0 Chapter 9: feedback 1
+The finding can inform a bounded claim while broader evidence is sought.
+
+c09s02-feedback-1 Chapter 9: feedback 2
+A student sample can answer appropriately limited questions.
+
+c09s02-feedback-2 Chapter 9: feedback 3
+A theory does not make an unrepresentative sample universal.
+
+c09s03 Chapter 9: Sampling limits the conclusion.
+WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations.
+
+A convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting.
+
+Cross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.
+
+c09s03b Chapter 9: State a risky prediction in advance.
+Competing prediction: outcome distinguishing alternative accounts.
+
+A strong hypothesis states what pattern should occur and what would count against it. Compare adaptation, learning, institutional and by-product accounts where relevant.
+
+Preregistration can reduce selective storytelling but does not fix a poor measure. Replication and converging designs strengthen a claim when the tests address its actual prediction.
+
+c09s04 Chapter 9: Corroboration is more than a matching story.
+Converging evidence: support from different relevant methods. Publication bias: selective visibility of findings according to results. Researcher flexibility: choices in analysis that can affect conclusions.
+
+Comparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation.
+
+A modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature.
+
+c09s05 Chapter 9: What does the evidence allow?
+Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike.
+
+Evolution’s general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.
+
+c09s06 Chapter 9: Apply the distinction
+Apply the idea to this new fictional case.
+
+Researchers want to test a specific adaptation account against a learning-based alternative.
+
+Which result most strengthens the hypothesis?
+
+A. Any outcome reinterpreted after the event.
+
+B. A preregistered discriminating prediction replicated with suitable varied samples.
+
+C. Only supportive anecdotes selected from one setting.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c09s06-feedback-0 Chapter 9: feedback 1
+An account compatible with every result is difficult to test.
+
+c09s06-feedback-1 Chapter 9: feedback 2
+The design reduces some alternatives and supports the intended scope.
+
+c09s06-feedback-2 Chapter 9: feedback 3
+Selection can make several incompatible stories appear convincing.
+
+c09s07 Chapter 9: Explain it without the notes
+Try these questions without your notes.
+
+Why does translation not guarantee measurement equivalence?
+
+What makes a prediction discriminating?
+
+Reveal the suggested answers after trying.
+
+c09s07-answers Chapter 9: recall answers
+Words and tasks can have different meanings and social demands across settings.
+
+Alternative accounts predict different outcomes under the specified comparison.
+
+c09s08 Chapter 9: Take the idea into everyday life
+Draft a fictional research proposal with two competing accounts, a distinguishing prediction, sample limits and a possible disconfirming result.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c10s01 Chapter 10: An explanation is not an instruction
+The café drafts a public article about cooperation and conflict. Leo wants to conclude that any evolved behaviour is natural, unavoidable and morally acceptable. Maya asks which of those claims the evidence actually supports.
+
+c10s02 Chapter 10: Make a first decision
+First, make a prediction about the café story.
+
+Which conclusion is invalid?
+
+A. An evolved contribution can interact with learning.
+
+B. A historical explanation automatically makes an action acceptable.
+
+C. A practical policy needs evidence of current effects.
+
+Choose an option before checking the feedback.
+
+c10s02-feedback-0 Chapter 10: feedback 1
+Development and evolutionary influence are compatible.
+
+c10s02-feedback-1 Chapter 10: feedback 2
+Description does not establish a moral justification.
+
+c10s02-feedback-2 Chapter 10: feedback 3
+Current effectiveness is a separate empirical question.
+
+c10s03 Chapter 10: Natural does not mean good or inevitable.
+Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations.
+
+A historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions.
+
+Ethical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own.
+
+c10s03b Chapter 10: Use a bounded evolutionary account.
+Hypothesis scope: conditions and outcomes a claim addresses. Alternative model: another explanation with distinct assumptions. Revision: changing confidence or account in response to evidence.
+
+Specify the behaviour, level of explanation, proposed history and distinguishing predictions. Include development, culture and alternative evolutionary processes.
+
+A good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.
+
+c10s04 Chapter 10: Practical decisions need current evidence.
+Intervention evidence: data on the effect of a proposed change. Individual variation: differences within a population. Agency: capacity for meaningful choice and action.
+
+A hypothesis about cooperation may suggest a practical question, but changing a policy needs evidence about current outcomes and harms. Preserve individual rights and choice.
+
+Use this course to read research more carefully, not to assign hidden motives, rank groups or justify discrimination. An unfamiliar final case tests reasoning rather than professional authority.
+
+c10s05 Chapter 10: What does the evidence allow?
+Evolutionary psychology contains testable proposals, contested claims and methodological debates. Credibility depends on the evidence for each specific claim.
+
+This course does not establish one ancestral lifestyle, fixed human roles or a policy agenda. Its final case is a self-check, not certification.
+
+c10s06 Chapter 10: Apply the distinction
+Apply the idea to this new fictional case.
+
+A modern cooperation study fits several theories and has not evaluated a proposed policy.
+
+What should the article conclude?
+
+A. The observed pattern proves one universal adaptation.
+
+B. Biology makes institutions irrelevant.
+
+C. Several accounts remain; policy choices need current evidence and ethical reasons.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c10s06-feedback-0 Chapter 10: feedback 1
+The evidence does not resolve every origin account.
+
+c10s06-feedback-1 Chapter 10: feedback 2
+Institutions can influence development, incentives and outcomes.
+
+c10s06-feedback-2 Chapter 10: feedback 3
+The conclusion separates uncertain explanation from practical justification.
+
+c10s07 Chapter 10: Explain it without the notes
+Try these questions without your notes.
+
+Why does evolved not mean inevitable?
+
+What evidence would justify a practical change?
+
+Reveal the suggested answers after trying.
+
+c10s07-answers Chapter 10: recall answers
+Development, learning and institutions can alter expression and conditions.
+
+A suitable test of current meaningful outcomes and harms, considered alongside rights and preferences.
+
+c10s08 Chapter 10: Take the idea into everyday life
+Write a short critique of a fictional evolved-therefore-right claim, naming the empirical gap and the independent ethical question.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.

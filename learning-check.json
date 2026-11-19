@@ -1,0 +1,79 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The community sharing network",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A sharing network observes that relatives sometimes help each other, strangers cooperate under clear rules, and popular repair methods spread from respected visitors. A commentator gives all three one hidden selfish motive.",
+    "A student survey finds an average preference difference. It is described as a universal adaptation prescribing everyone’s relationship roles. The report gives no effect size, overlap or cross-cultural validation.",
+    "A new practice is called a genetic change because it spreads quickly. Enjoyment is treated as proof of adaptation, and a mismatch headline invokes one uniform ancestral lifestyle without historical evidence.",
+    "The network wants a fair practical policy, a credible account of the science and an evaluation of present outcomes."
+  ],
+  "tasks": [
+    {
+      "title": "Levels and evolutionary processes",
+      "chapters": [
+        1,
+        2
+      ],
+      "prompt": "Separate present motives, development and evolutionary hypotheses. Explain why selection has no intention.",
+      "answer": "Concern and learned norms concern present mechanisms and development. Historical fitness consequences answer different questions. Selection changes frequencies through heritable variation and reproductive outcomes without foresight; drift and constraints are alternatives for some features."
+    },
+    {
+      "title": "Origins and development",
+      "chapters": [
+        3,
+        4
+      ],
+      "prompt": "Critique enjoyment-as-adaptation, mismatch and fixed-genetic claims.",
+      "answer": "Present enjoyment does not identify historical origin; by-products, exaptation and learning need comparison. Mismatch requires a specified historical contrast. Evolved capacities can require experience, and heritability is neither an individual percentage nor immutability."
+    },
+    {
+      "title": "Helping and cultural spread",
+      "chapters": [
+        5,
+        6,
+        8
+      ],
+      "prompt": "Compare kin selection, reciprocity, institutions and cultural transmission.",
+      "answer": "Kin models concern fitness effects and relatedness, not conscious gene counting. Reciprocity and reputation require particular interaction conditions. Rules alter coordination. A socially learned technique can spread without genetic change, and popularity does not establish usefulness."
+    },
+    {
+      "title": "Preference evidence",
+      "chapters": [
+        7,
+        9
+      ],
+      "prompt": "Evaluate the universal relationship claim and propose a stronger test.",
+      "answer": "Report effect size, overlap, uncertainty and sample limits; check measurement comparability across varied populations. State competing predictions in advance and seek replication. A group average does not identify an individual preference or prescribe a role."
+    },
+    {
+      "title": "A proportionate policy",
+      "chapters": [
+        1,
+        9,
+        10
+      ],
+      "prompt": "Recommend a current evaluation without deriving ethics from evolutionary history.",
+      "answer": "Test a clear, accessible sharing procedure against meaningful outcomes and harms, respecting consent and rights. Keep origin hypotheses separate from current motives, efficacy and ethical reasons. Revise the policy and explanation when suitable evidence changes."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

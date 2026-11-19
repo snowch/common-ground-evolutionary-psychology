@@ -1,0 +1,111 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/1-2-history-of-psychology",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/1-2-history-of-psychology",
+      "title": "1.2 History of Psychology - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/10-3-sexual-behavior",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/10-3-sexual-behavior-sexuality-and-gender-identity",
+      "title": "10.3 Sexual Behavior, Sexuality, and Gender Identity - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/12-7-prosocial-behavior",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/12-7-prosocial-behavior",
+      "title": "12.7 Prosocial Behavior - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings",
+      "title": "2.3 Analyzing Findings - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/2-4-ethics",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/2-4-ethics",
+      "title": "2.4 Ethics - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/3-1-human-genetics",
+      "title": "3.1 Human Genetics - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+      "title": "6.4 Observational Learning (Modeling) - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/altruism-biological/",
+      "status": 200,
+      "final": "https://plato.stanford.edu/entries/altruism-biological/",
+      "title": "\nBiological Altruism (Stanford Encyclopedia of Philosophy)\n"
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/evolutionary-psychology/",
+      "status": 200,
+      "final": "https://plato.stanford.edu/entries/evolutionary-psychology/",
+      "title": "\nEvolutionary Psychology (Stanford Encyclopedia of Philosophy)\n"
+    }
+  ],
+  "doi_sources": [
+    {
+      "title": "Tinbergen (1963): On aims and methods of Ethology",
+      "url": "https://doi.org/10.1111/j.1439-0310.1963.tb01161.x",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gould, Lewontin (1979): The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme",
+      "url": "https://doi.org/10.1098/rspb.1979.0086",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gould, Lewontin (1979): The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme",
+      "url": "https://doi.org/10.1098/rspb.1979.0086",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Hamilton (1964): The genetical evolution of social behaviour. I",
+      "url": "https://doi.org/10.1016/0022-5193(64)90038-4",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Trivers (1971): The Evolution of Reciprocal Altruism",
+      "url": "https://doi.org/10.1086/406755",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Henrich, Heine, Norenzayan (2010): The weirdest people in the world?",
+      "url": "https://doi.org/10.1017/S0140525X0999152X",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Henrich, Heine, Norenzayan (2010): The weirdest people in the world?",
+      "url": "https://doi.org/10.1017/S0140525X0999152X",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Henrich, Heine, Norenzayan (2010): The weirdest people in the world?",
+      "url": "https://doi.org/10.1017/S0140525X0999152X",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Tinbergen (1963): On aims and methods of Ethology",
+      "url": "https://doi.org/10.1111/j.1439-0310.1963.tb01161.x",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gould, Lewontin (1979): The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme",
+      "url": "https://doi.org/10.1098/rspb.1979.0086",
+      "kind": "Scholarly source; publisher access may vary."
+    }
+  ]
+}

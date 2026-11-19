@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Why can mean several different questions",
+    "text": "At the café, people help a visitor lift a heavy table. Leo asks why they helped. Sam mentions concern, Maya mentions learned cooperation, and another visitor proposes an evolutionary benefit. Are they answering the same question?",
+    "say": "At the café, people help a visitor lift a heavy table. Leo asks why they helped. Sam mentions concern, [Maya](/mˈaɪə/) mentions learned cooperation, and another visitor proposes an evolutionary benefit. Are they answering the same question?"
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich distinction helps the discussion?\n\nA. Current motives and evolutionary history answer different questions.\n\nB. An evolutionary hypothesis proves hidden selfish intent.\n\nC. A learned practice excludes all biological influence.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which distinction helps the discussion? [pause 0.65] A. Current motives and evolutionary history answer different questions. [pause 0.65] B. An evolutionary hypothesis proves hidden selfish intent. [pause 0.65] C. A learned practice excludes all biological influence. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "The accounts can be complementary without identifying the same process.",
+    "say": "The accounts can be complementary without identifying the same process."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Historical fitness consequences do not reveal conscious intent.",
+    "say": "Historical fitness consequences do not reveal conscious intent."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "Learning and biology interact rather than exclude one another.",
+    "say": "Learning and biology interact rather than exclude one another."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Different why questions can complement each other.",
+    "text": "Proximate explanation: account of mechanisms and development. Ultimate explanation: account concerning evolutionary history or function. Level of explanation: the kind of question an account addresses.\n\nA present motive, a learning history and an evolutionary hypothesis can concern the same behaviour without being interchangeable.\n\nA person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person’s conscious purpose.",
+    "say": "Proximate explanation: account of mechanisms and development. Ultimate explanation: account concerning evolutionary history or function. Level of explanation: the kind of question an account addresses. [pause 0.65] A present motive, a learning history and an evolutionary hypothesis can concern the same behaviour without being interchangeable. [pause 0.65] A person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person’s conscious purpose."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: Tinbergen distinguished four questions.",
+    "text": "Ontogeny: development within an individual lifetime. Phylogeny: evolutionary history across lineages.\n\nTinbergen distinguished mechanism, development, evolutionary history and adaptive function. A complete research programme can investigate several questions with different methods.\n\nDo not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.",
+    "say": "Ontogeny: development within an individual lifetime. Phylogeny: evolutionary history across lineages. [pause 0.65] Tinbergen distinguished mechanism, development, evolutionary history and adaptive function. A complete research programme can investigate several questions with different methods. [pause 0.65] Do not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: A function claim needs testing.",
+    "text": "Adaptive function: proposed contribution to reproductive success in an evolutionary context. Alternative explanation: another account fitting some observations.\n\nA useful-looking action is not automatically an adaptation. A function hypothesis must specify a problem, predictions and alternatives.\n\nThe café example is not evidence that table lifting evolved for one purpose. It can help formulate questions about learning, relationships and possible histories.",
+    "say": "Adaptive function: proposed contribution to reproductive success in an evolutionary context. Alternative explanation: another account fitting some observations. [pause 0.65] A useful-looking action is not automatically an adaptation. A function hypothesis must specify a problem, predictions and alternatives. [pause 0.65] The café example is not evidence that table lifting evolved for one purpose. It can help formulate questions about learning, relationships and possible histories."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Evolution is an established biological framework. Specific claims about psychological adaptations vary in evidential support and require their own tests.\n\nTinbergen’s questions organize inquiry; naming a level of explanation does not prove the answer proposed at that level.",
+    "say": "Evolution is an established biological framework. Specific claims about psychological adaptations vary in evidential support and require their own tests. [pause 0.65] Tinbergen’s questions organize inquiry; naming a level of explanation does not prove the answer proposed at that level."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA researcher explains cooperation by describing how a child learned local turn-taking practices.\n\nWhat kind of explanation is this?\n\nA. Phylogenetic history.\n\nB. Ontogenetic development.\n\nC. Proof of adaptive function.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A researcher explains cooperation by describing how a child learned local turn-taking practices. [pause 0.65] What kind of explanation is this? [pause 0.65] A. Phylogenetic history. [pause 0.65] B. Ontogenetic development. [pause 0.65] C. Proof of adaptive function. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "The statement concerns a person’s life rather than lineage history.",
+    "say": "The statement concerns a person’s life rather than lineage history. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "It describes how behaviour developed through experience.",
+    "say": "It describes how behaviour developed through experience. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "A learning account does not establish evolutionary function.",
+    "say": "A learning account does not establish evolutionary function. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat does proximate explanation include?\n\nWhy does an evolutionary account not reveal conscious intention?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What does proximate explanation include? [pause 0.65] Why does an evolutionary account not reveal conscious intention? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "Mechanisms operating now and development over an individual lifetime.\n\nHistorical consequences and present mental purposes are different explanatory questions.",
+    "say": "Mechanisms operating now and development over an individual lifetime. [pause 0.65] Historical consequences and present mental purposes are different explanatory questions. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Use a fictional act of helping to write one mechanism question, one development question and one evolutionary question.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional act of helping to write one mechanism question, one development question and one evolutionary question. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: Selection has no foresight",
+    "text": "A visitor says humans evolved a preference because nature wanted people to be happy. Maya asks whether natural selection has intentions or whether a different process is being described.",
+    "say": "A visitor says humans evolved a preference because nature wanted people to be happy. [Maya](/mˈaɪə/) asks whether natural selection has intentions or whether a different process is being described."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat corrects the visitor’s explanation?\n\nA. Nature plans future happiness.\n\nB. Selection is a population process without foresight.\n\nC. Every existing preference must be optimal.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What corrects the visitor’s explanation? [pause 0.65] A. Nature plans future happiness. [pause 0.65] B. Selection is a population process without foresight. [pause 0.65] C. Every existing preference must be optimal. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Selection does not have intentions or a future goal.",
+    "say": "Selection does not have intentions or a future goal."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "The explanation concerns heritable variation and reproductive consequences.",
+    "say": "The explanation concerns heritable variation and reproductive consequences."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Constraints, trade-offs and non-selective processes remain relevant.",
+    "say": "Constraints, trade-offs and non-selective processes remain relevant."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Selection changes populations over generations.",
+    "text": "Variation: differences among individuals. Heritable variation: variation partly transmitted across generations. Natural selection: change associated with differential reproduction of heritable variants.\n\nWhen heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention.\n\nIndividuals develop and learn during life; populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.",
+    "say": "Variation: differences among individuals. Heritable variation: variation partly transmitted across generations. Natural selection: change associated with differential reproduction of heritable variants. [pause 0.65] When heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention. [pause 0.65] Individuals develop and learn during life; populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: Fitness is not health, virtue or happiness.",
+    "text": "Evolutionary fitness: relative contribution to subsequent generations in a context. Trade-off: benefit in one respect with a cost in another. Constraint: limitation on possible evolutionary change.\n\nFitness is defined relative to reproductive contribution under conditions. It does not measure moral worth or guarantee happiness, health or an optimal design.\n\nSelection works with inherited structures and competing demands. A feature can have costs and still persist; some features persist for reasons other than selection.",
+    "say": "Evolutionary fitness: relative contribution to subsequent generations in a context. Trade-off: benefit in one respect with a cost in another. Constraint: limitation on possible evolutionary change. [pause 0.65] Fitness is defined relative to reproductive contribution under conditions. It does not measure moral worth or guarantee happiness, health or an optimal design. [pause 0.65] Selection works with inherited structures and competing demands. A feature can have costs and still persist; some features persist for reasons other than selection."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Change has more than one source.",
+    "text": "Genetic drift: random change in variant frequencies.\n\nEvolutionary change can involve selection, drift, mutation and gene flow. Developmental constraints and historical contingencies also matter.\n\nThe observation that a feature exists today does not identify which process produced it. An adaptation claim needs more than a statement that the feature seems useful.",
+    "say": "Genetic drift: random change in variant frequencies. [pause 0.65] Evolutionary change can involve selection, drift, mutation and gene flow. Developmental constraints and historical contingencies also matter. [pause 0.65] The observation that a feature exists today does not identify which process produced it. An adaptation claim needs more than a statement that the feature seems useful."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioural adaptation claim requires additional evidence about variation, inheritance, history and function.\n\nA modern preference or group difference does not identify its evolutionary origin by itself.",
+    "say": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioural adaptation claim requires additional evidence about variation, inheritance, history and function. [pause 0.65] A modern preference or group difference does not identify its evolutionary origin by itself."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA widespread characteristic is observed, but no evidence about its origin or function is provided.\n\nWhich conclusion follows?\n\nA. The trait is morally good.\n\nB. The trait must increase happiness.\n\nC. Its presence alone does not establish adaptation.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A widespread characteristic is observed, but no evidence about its origin or function is provided. [pause 0.65] Which conclusion follows? [pause 0.65] A. The trait is morally good. [pause 0.65] B. The trait must increase happiness. [pause 0.65] C. Its presence alone does not establish adaptation. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "A descriptive history does not settle moral value.",
+    "say": "A descriptive history does not settle moral value. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Fitness and happiness are distinct outcomes.",
+    "say": "Fitness and happiness are distinct outcomes. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Alternative evolutionary and developmental accounts need comparison.",
+    "say": "Alternative evolutionary and developmental accounts need comparison. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does natural selection have no foresight?\n\nHow does drift differ from selection?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does natural selection have no foresight? [pause 0.65] How does drift differ from selection? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "Frequency changes arise from current conditions and reproduction, not planning toward a goal.\n\nDrift concerns random frequency change; selection concerns differential reproductive consequences of variants.",
+    "say": "Frequency changes arise from current conditions and reproduction, not planning toward a goal. [pause 0.65] Drift concerns random frequency change; selection concerns differential reproductive consequences of variants. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Rewrite a fictional nature-wanted-it claim using variation, inheritance and conditions, with no moral conclusion.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a fictional nature-wanted-it claim using variation, inheritance and conditions, with no moral conclusion. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: A useful feature is not automatically an adaptation",
+    "text": "People at the café enjoy music. Leo says enjoyment proves music evolved specifically for that function. Maya asks whether the pattern could involve cultural learning or capacities that evolved in other contexts.",
+    "say": "People at the café enjoy music. Leo says enjoyment proves music evolved specifically for that function. [Maya](/mˈaɪə/) asks whether the pattern could involve cultural learning or capacities that evolved in other contexts."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s music claim?\n\nA. Predictions distinguishing adaptation from alternatives.\n\nB. The fact that some people enjoy music.\n\nC. The assumption that enjoyment proves historical selection.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from Leo’s music claim? [pause 0.65] A. Predictions distinguishing adaptation from alternatives. [pause 0.65] B. The fact that some people enjoy music. [pause 0.65] C. The assumption that enjoyment proves historical selection. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "A current preference is compatible with several origins.",
+    "say": "A current preference is compatible with several origins."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Enjoyment is already part of the observation and does not settle origin.",
+    "say": "Enjoyment is already part of the observation and does not settle origin."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "That is the unsupported inference being examined.",
+    "say": "That is the unsupported inference being examined."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Several origins can fit a present feature.",
+    "text": "Adaptation: feature shaped by selection for a particular effect. Exaptation: feature used for a role different from an earlier origin.\n\nA present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use, or emerge as a by-product.\n\nThese hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the café anecdote can settle.",
+    "say": "Adaptation: feature shaped by selection for a particular effect. Exaptation: feature used for a role different from an earlier origin. [pause 0.65] A present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use, or emerge as a by-product. [pause 0.65] These hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the café anecdote can settle."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Design claims need discriminating predictions.",
+    "text": "Special design: features fitting a proposed adaptive problem. Comparative evidence: comparisons across species or populations. Falsifiability: possibility of evidence counting against a claim.\n\nAn adaptation hypothesis should predict a pattern that alternatives do not equally predict. Anatomy, development, comparative work and other evidence can contribute.\n\nIf every possible outcome is explained after the fact, the account is difficult to test. Specify what would reduce confidence before inspecting only supportive cases.",
+    "say": "Special design: features fitting a proposed adaptive problem. Comparative evidence: comparisons across species or populations. Falsifiability: possibility of evidence counting against a claim. [pause 0.65] An adaptation hypothesis should predict a pattern that alternatives do not equally predict. Anatomy, development, comparative work and other evidence can contribute. [pause 0.65] If every possible outcome is explained after the fact, the account is difficult to test. Specify what would reduce confidence before inspecting only supportive cases."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Mismatch needs a specified contrast.",
+    "text": "Evolutionary mismatch: a feature’s effects differ between relevant ancestral and current conditions. Current function: present effects under present conditions.\n\nMismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle.\n\nA plausible mismatch does not prescribe a diet, relationship or social policy. Clinical and practical recommendations need their own outcome evidence.",
+    "say": "Evolutionary mismatch: a feature’s effects differ between relevant ancestral and current conditions. Current function: present effects under present conditions. [pause 0.65] Mismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle. [pause 0.65] A plausible mismatch does not prescribe a diet, relationship or social policy. Clinical and practical recommendations need their own outcome evidence."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Adaptation, by-product and mismatch hypotheses need independent evidence. Scholarly debate concerns how to distinguish them, not whether evolution occurred.\n\nThe music case illustrates alternative explanations. No one origin claim is established by enjoyment or prevalence alone.",
+    "say": "Adaptation, by-product and mismatch hypotheses need independent evidence. Scholarly debate concerns how to distinguish them, not whether evolution occurred. [pause 0.65] The music case illustrates alternative explanations. No one origin claim is established by enjoyment or prevalence alone."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA headline attributes a modern difficulty to evolutionary mismatch.\n\nWhat should the researcher specify?\n\nA. One universal prehistoric lifestyle.\n\nB. The feature, historical contrast and predicted present effect.\n\nC. A moral rule derived from what seems natural.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A headline attributes a modern difficulty to evolutionary mismatch. [pause 0.65] What should the researcher specify? [pause 0.65] A. One universal prehistoric lifestyle. [pause 0.65] B. The feature, historical contrast and predicted present effect. [pause 0.65] C. A moral rule derived from what seems natural. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Ancestral conditions varied across time and place.",
+    "say": "Ancestral conditions varied across time and place. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "A mismatch hypothesis needs a defined and evidenced contrast.",
+    "say": "A mismatch hypothesis needs a defined and evidenced contrast. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "A descriptive origin claim does not establish an ethical rule.",
+    "say": "A descriptive origin claim does not establish an ethical rule. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does a by-product differ from an adaptation?\n\nWhy does mismatch not imply a treatment?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does a by-product differ from an adaptation? [pause 0.65] Why does mismatch not imply a treatment? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "An adaptation was shaped for a particular effect; a by-product arises alongside other processes.\n\nA historical explanation does not show that an intervention produces benefit in current conditions.",
+    "say": "An adaptation was shaped for a particular effect; a by-product arises alongside other processes. [pause 0.65] A historical explanation does not show that an intervention produces benefit in current conditions. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Choose a fictional adaptation headline. Write one alternative account and one result that would weaken the headline.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a fictional adaptation headline. Write one alternative account and one result that would weaken the headline. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Genes and learning do not take turns",
+    "text": "Jo learns a local greeting quickly. Leo says it must be cultural and therefore not biological. Another visitor says an evolved capacity must appear without learning. Maya questions both claims.",
+    "say": "Jo learns a local greeting quickly. Leo says it must be cultural and therefore not biological. Another visitor says an evolved capacity must appear without learning. [Maya](/mˈaɪə/) questions both claims."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich statement best corrects both visitors?\n\nA. An evolved capacity can develop through learned cultural input.\n\nB. Culture means biology is absent.\n\nC. Evolution requires a behaviour to appear without experience.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which statement best corrects both visitors? [pause 0.65] A. An evolved capacity can develop through learned cultural input. [pause 0.65] B. Culture means biology is absent. [pause 0.65] C. Evolution requires a behaviour to appear without experience. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Development integrates biological resources and experience.",
+    "say": "Development integrates biological resources and experience."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Culture is learned by biological organisms.",
+    "say": "Culture is learned by biological organisms."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Many biological capacities depend on appropriate developmental input.",
+    "say": "Many biological capacities depend on appropriate developmental input."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Development constructs the phenotype.",
+    "text": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions.\n\nGenes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input.\n\nThe question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.",
+    "say": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions. [pause 0.65] Genes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input. [pause 0.65] The question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Heritability is a population statement.",
+    "text": "Reaction norm: pattern of outcomes across environments for a genotype. Gene–environment interaction: genetic effects differing across environments.\n\nHeritability depends on the population, environmental range and measure. It does not say what percentage of one person’s behaviour is genetic.\n\nA trait can be heritable and responsive to changed conditions. Conversely, a widely shared developmental mechanism may generate little measured variation in one sample.",
+    "say": "Reaction norm: pattern of outcomes across environments for a genotype. Gene–environment interaction: genetic effects differing across environments. [pause 0.65] Heritability depends on the population, environmental range and measure. It does not say what percentage of one person’s behaviour is genetic. [pause 0.65] A trait can be heritable and responsive to changed conditions. Conversely, a widely shared developmental mechanism may generate little measured variation in one sample."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Learning can be part of an evolved solution.",
+    "text": "Preparedness: differential ease of learning some relations under conditions. Learning bias: systematic tendency in acquiring information.\n\nLearning is a biological capability expressed in environments. Research can test whether some associations are acquired differently under controlled conditions.\n\nSuch findings do not establish that every current fear or preference is innate. Prior experience, measurement and cultural input remain alternatives to examine.",
+    "say": "Preparedness: differential ease of learning some relations under conditions. Learning bias: systematic tendency in acquiring information. [pause 0.65] Learning is a biological capability expressed in environments. Research can test whether some associations are acquired differently under controlled conditions. [pause 0.65] Such findings do not establish that every current fear or preference is innate. Prior experience, measurement and cultural input remain alternatives to examine."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Evolved and learned are not mutually exclusive categories. Developmental and genetic evidence must be interpreted at their appropriate levels.\n\nHeritability does not establish immutability, adaptation or the cause of a specific person’s behaviour.",
+    "say": "Evolved and learned are not mutually exclusive categories. Developmental and genetic evidence must be interpreted at their appropriate levels. [pause 0.65] Heritability does not establish immutability, adaptation or the cause of a specific person’s behaviour."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA study reports heritability for a measured trait in one population.\n\nWhat does the estimate establish?\n\nA. A percentage of each individual’s behaviour.\n\nB. Variation in a specified population under a model.\n\nC. A proof that the trait cannot change.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A study reports heritability for a measured trait in one population. [pause 0.65] What does the estimate establish? [pause 0.65] A. A percentage of each individual’s behaviour. [pause 0.65] B. Variation in a specified population under a model. [pause 0.65] C. A proof that the trait cannot change. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "The estimate is not an individual decomposition.",
+    "say": "The estimate is not an individual decomposition. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Population, measure and conditions define its scope.",
+    "say": "Population, measure and conditions define its scope. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Modifiability is a separate empirical question.",
+    "say": "Modifiability is a separate empirical question. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy can an evolved capacity require learning?\n\nWhy does heritability not prove adaptation?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why can an evolved capacity require learning? [pause 0.65] Why does heritability not prove adaptation? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "Developmental processes can use experience as essential input.\n\nIt concerns variation, not evidence of historical selection for a particular function.",
+    "say": "Developmental processes can use experience as essential input. [pause 0.65] It concerns variation, not evidence of historical selection for a particular function. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Rewrite a fictional nature-versus-nurture argument as a question about interacting developmental processes.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a fictional nature-versus-nurture argument as a question about interacting developmental processes. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: Helping relatives has more than one explanation",
+    "text": "A visitor helps a sibling move a table, then helps an unrelated neighbour. Leo says kin selection proves people care only about relatives. Maya asks what the theory actually predicts.",
+    "say": "A visitor helps a sibling move a table, then helps an unrelated neighbour. Leo says kin selection proves people care only about relatives. [Maya](/mˈaɪə/) asks what the theory actually predicts."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is wrong with Leo’s conclusion?\n\nA. Kin selection is a theory of conscious gene counting.\n\nB. One framework does not imply all care is restricted to kin.\n\nC. Helping non-kin proves evolution never matters.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is wrong with Leo’s conclusion? [pause 0.65] A. Kin selection is a theory of conscious gene counting. [pause 0.65] B. One framework does not imply all care is restricted to kin. [pause 0.65] C. Helping non-kin proves evolution never matters. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The framework does not require that mental calculation.",
+    "say": "The framework does not require that mental calculation."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Other motives and social processes can support care.",
+    "say": "Other motives and social processes can support care."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "That observation does not settle every evolutionary contribution.",
+    "say": "That observation does not settle every evolutionary contribution."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Fitness consequences can extend through relatives.",
+    "text": "Kin selection: selection influenced by effects on relatives’ reproductive outcomes. Inclusive fitness: framework including direct and relatedness-weighted effects. Relatedness: genetic association relevant to an evolutionary model.\n\nAn action affecting relatives can influence the propagation of shared genetic variants. Kin-selection models formalize these effects under stated assumptions.\n\nThey do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.",
+    "say": "Kin selection: selection influenced by effects on relatives’ reproductive outcomes. Inclusive fitness: framework including direct and relatedness-weighted effects. Relatedness: genetic association relevant to an evolutionary model. [pause 0.65] An action affecting relatives can influence the propagation of shared genetic variants. Kin-selection models formalize these effects under stated assumptions. [pause 0.65] They do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: Hamilton’s rule is conditional.",
+    "text": "Hamilton’s rule: condition comparing relatedness-weighted benefit with cost. Fitness cost: reduction in reproductive outcome within a model. Fitness benefit: increase in reproductive outcome within a model.\n\nThe familiar rule compares relatedness times benefit with cost under a specified model. Cost and benefit concern fitness, not simply money or felt effort.\n\nReal applications need appropriate definitions and evidence. A casual act of family help does not measure the terms or prove the model caused it.",
+    "say": "Hamilton’s rule: condition comparing relatedness-weighted benefit with cost. Fitness cost: reduction in reproductive outcome within a model. Fitness benefit: increase in reproductive outcome within a model. [pause 0.65] The familiar rule compares relatedness times benefit with cost under a specified model. Cost and benefit concern fitness, not simply money or felt effort. [pause 0.65] Real applications need appropriate definitions and evidence. A casual act of family help does not measure the terms or prove the model caused it."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Non-kin care is not a contradiction.",
+    "text": "Direct benefit: effect on the actor’s own reproductive outcome in a model. Social norm: shared expectation influencing conduct.\n\nCare can involve attachment, norms, reciprocity, institutions and personal values. Several evolutionary and proximate processes may contribute.\n\nThe existence of care for non-relatives does not by itself refute kin selection, nor does kin selection explain every act of care. Ethical obligations need independent reasoning.",
+    "say": "Direct benefit: effect on the actor’s own reproductive outcome in a model. Social norm: shared expectation influencing conduct. [pause 0.65] Care can involve attachment, norms, reciprocity, institutions and personal values. Several evolutionary and proximate processes may contribute. [pause 0.65] The existence of care for non-relatives does not by itself refute kin selection, nor does kin selection explain every act of care. Ethical obligations need independent reasoning."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Kin selection is a formal evolutionary framework with extensive biological applications. Applying it to a particular human act requires model assumptions and relevant evidence.\n\nRelatedness does not determine whom someone should help, and a fitness account does not prove selfish conscious motivation.",
+    "say": "Kin selection is a formal evolutionary framework with extensive biological applications. Applying it to a particular human act requires model assumptions and relevant evidence. [pause 0.65] Relatedness does not determine whom someone should help, and a fitness account does not prove selfish conscious motivation."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA commentator applies Hamilton’s rule to a family favour using only its monetary cost.\n\nWhat needs clarification?\n\nA. The model’s fitness benefits, costs and relatedness.\n\nB. Only whether the person felt generous.\n\nC. A moral obligation to favour relatives.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A commentator applies Hamilton’s rule to a family favour using only its monetary cost. [pause 0.65] What needs clarification? [pause 0.65] A. The model’s fitness benefits, costs and relatedness. [pause 0.65] B. Only whether the person felt generous. [pause 0.65] C. A moral obligation to favour relatives. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The formal terms need case-appropriate definitions and evidence.",
+    "say": "The formal terms need case-appropriate definitions and evidence. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "A subjective motive does not specify the model’s quantities.",
+    "say": "A subjective motive does not specify the model’s quantities. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "The descriptive model does not establish that obligation.",
+    "say": "The descriptive model does not establish that obligation. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does inclusive fitness not imply conscious selfishness?\n\nWhy are monetary and fitness costs different?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does inclusive fitness not imply conscious selfishness? [pause 0.65] Why are monetary and fitness costs different? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "Evolutionary consequences and conscious purposes are separate explanatory levels.\n\nFitness costs concern reproductive outcomes under a model, not necessarily money or effort.",
+    "say": "Evolutionary consequences and conscious purposes are separate explanatory levels. [pause 0.65] Fitness costs concern reproductive outcomes under a model, not necessarily money or effort. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Use a fictional act of family help to write a proximate account and a separate evolutionary question, without assigning a motive.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional act of family help to write a proximate account and a separate evolutionary question, without assigning a motive. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: Cooperation can depend on the game",
+    "text": "At the café, volunteers share tools repeatedly, visitors see who helps, and clear checkout rules reduce losses. Leo explains all cooperation as an unconscious exchange of favours. Maya asks which conditions matter.",
+    "say": "At the café, volunteers share tools repeatedly, visitors see who helps, and clear checkout rules reduce losses. Leo explains all cooperation as an unconscious exchange of favours. [Maya](/mˈaɪə/) asks which conditions matter."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat best improves Leo’s explanation?\n\nA. Separate repeated interaction, reputation and institutional rules.\n\nB. Assume every helpful act expects repayment.\n\nC. Treat a public act as proof of a conscious strategy.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What best improves Leo’s explanation? [pause 0.65] A. Separate repeated interaction, reputation and institutional rules. [pause 0.65] B. Assume every helpful act expects repayment. [pause 0.65] C. Treat a public act as proof of a conscious strategy. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "The conditions can support different, testable accounts.",
+    "say": "The conditions can support different, testable accounts."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The act is compatible with several motives and processes.",
+    "say": "The act is compatible with several motives and processes."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Public consequences do not uniquely identify intention.",
+    "say": "Public consequences do not uniquely identify intention."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Repeated interaction can change incentives.",
+    "text": "Direct reciprocity: cooperation influenced by repeated interaction between partners. One-shot interaction: interaction modelled without future encounters.\n\nHelping now can affect future treatment when individuals interact again. Models depend on memory, opportunities and costs.\n\nNot all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.",
+    "say": "Direct reciprocity: cooperation influenced by repeated interaction between partners. One-shot interaction: interaction modelled without future encounters. [pause 0.65] Helping now can affect future treatment when individuals interact again. Models depend on memory, opportunities and costs. [pause 0.65] Not all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Reputation can affect a wider network.",
+    "text": "Indirect reciprocity: help influenced by information about others’ social behaviour. Partner choice: selecting whom to interact with.\n\nPeople can use reputation when choosing partners or helping. Information can be incomplete, mistaken or shaped by unequal visibility.\n\nA public act may affect reputation without proving that reputation was the actor’s conscious goal. Compare private and public conditions carefully before inferring motives.",
+    "say": "Indirect reciprocity: help influenced by information about others’ social behaviour. Partner choice: selecting whom to interact with. [pause 0.65] People can use reputation when choosing partners or helping. Information can be incomplete, mistaken or shaped by unequal visibility. [pause 0.65] A public act may affect reputation without proving that reputation was the actor’s conscious goal. Compare private and public conditions carefully before inferring motives."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Institutions change the available relations.",
+    "text": "Institution: shared rules and practices structuring interaction. Public good: benefit difficult to restrict to contributors. Coordination: aligning actions toward a compatible outcome.\n\nRules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity.\n\nEconomic games isolate selected incentives, but their results depend on instructions, norms and sampling. A game score is not a complete measure of a person’s morality.",
+    "say": "Institution: shared rules and practices structuring interaction. Public good: benefit difficult to restrict to contributors. Coordination: aligning actions toward a compatible outcome. [pause 0.65] Rules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity. [pause 0.65] Economic games isolate selected incentives, but their results depend on instructions, norms and sampling. A game score is not a complete measure of a person’s morality."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms and institutions, and experimental games simplify these conditions.\n\nA modern game result does not establish one ancestral origin or reveal a hidden selfish intention.",
+    "say": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms and institutions, and experimental games simplify these conditions. [pause 0.65] A modern game result does not establish one ancestral origin or reveal a hidden selfish intention."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nTool losses fall after the café introduces a clear, accessible checkout system.\n\nWhich conclusion is proportionate?\n\nA. Rules permanently changed everyone’s moral character.\n\nB. The system improved this coordination outcome under these conditions.\n\nC. The result proves one evolutionary origin.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Tool losses fall after the café introduces a clear, accessible checkout system. [pause 0.65] Which conclusion is proportionate? [pause 0.65] A. Rules permanently changed everyone’s moral character. [pause 0.65] B. The system improved this coordination outcome under these conditions. [pause 0.65] C. The result proves one evolutionary origin. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "A local outcome does not establish a character transformation.",
+    "say": "A local outcome does not establish a character transformation. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The conclusion matches the intervention and measured context.",
+    "say": "The conclusion matches the intervention and measured context. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "An institution’s current effect does not identify historical origins.",
+    "say": "An institution’s current effect does not identify historical origins. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does indirect reciprocity differ from direct reciprocity?\n\nWhy can institutions matter independently of generosity?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does indirect reciprocity differ from direct reciprocity? [pause 0.65] Why can institutions matter independently of generosity? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "Indirect reciprocity uses social information or reputation; direct reciprocity concerns interactions between partners.\n\nRules can change opportunities, trust and coordination even without changing preferences.",
+    "say": "Indirect reciprocity uses social information or reputation; direct reciprocity concerns interactions between partners. [pause 0.65] Rules can change opportunities, trust and coordination even without changing preferences. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "For a fictional shared-resource problem, identify partner, network and rule-based influences without judging anyone’s morality.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "For a fictional shared-resource problem, identify partner, network and rule-based influences without judging anyone’s morality. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: Relationships are not an ancestral instruction manual",
+    "text": "A headline claims that one ancestral story explains what every person wants in a relationship. Maya asks about variation, cultural conditions and whether an average result can identify an individual preference.",
+    "say": "A headline claims that one ancestral story explains what every person wants in a relationship. [Maya](/mˈaɪə/) asks about variation, cultural conditions and whether an average result can identify an individual preference."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is wrong with the universal headline?\n\nA. It treats a conditional population account as every individual’s preference.\n\nB. Evolutionary models never make predictions.\n\nC. Every observed group difference proves one genetic cause.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is wrong with the universal headline? [pause 0.65] A. It treats a conditional population account as every individual’s preference. [pause 0.65] B. Evolutionary models never make predictions. [pause 0.65] C. Every observed group difference proves one genetic cause. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "The claim discards variation, context and alternative explanations.",
+    "say": "The claim discards variation, context and alternative explanations."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Models can make testable conditional predictions.",
+    "say": "Models can make testable conditional predictions."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "A difference alone does not identify its developmental or historical cause.",
+    "say": "A difference alone does not identify its developmental or historical cause."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Sexual selection concerns reproductive differences.",
+    "text": "Sexual selection: selection associated with differences in mating or fertilization success. Mate choice: preferences or decisions affecting mating. Competition: interaction over limited opportunities or resources.\n\nSexual-selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems.\n\nHuman relationships also involve affection, learning, institutions and individual identity. A reproductive model does not capture every form or purpose of a relationship.",
+    "say": "Sexual selection: selection associated with differences in mating or fertilization success. Mate choice: preferences or decisions affecting mating. Competition: interaction over limited opportunities or resources. [pause 0.65] Sexual-selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems. [pause 0.65] Human relationships also involve affection, learning, institutions and individual identity. A reproductive model does not capture every form or purpose of a relationship."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Investment and constraints vary.",
+    "text": "Parental investment: resources benefiting offspring at a cost to other reproductive opportunities. Life-history trade-off: allocation among growth, maintenance and reproduction. Ecological condition: environmental resource or risk affecting outcomes.\n\nModels examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies.\n\nDo not turn a model average into a fixed claim about every woman, man or family. Sex, gender, sexuality, resources and social roles require careful distinction in human research.",
+    "say": "Parental investment: resources benefiting offspring at a cost to other reproductive opportunities. Life-history trade-off: allocation among growth, maintenance and reproduction. Ecological condition: environmental resource or risk affecting outcomes. [pause 0.65] Models examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies. [pause 0.65] Do not turn a model average into a fixed claim about every woman, man or family. Sex, gender, sexuality, resources and social roles require careful distinction in human research."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: A difference needs a well-designed comparison.",
+    "text": "Within-group variation: differences among members of a group. Effect size: magnitude of a measured difference or relation. Measurement equivalence: evidence that a measure has comparable meaning across groups.\n\nReport the magnitude, overlap and uncertainty of a difference, and check sampling and cultural context. A group average is not an individual prediction.\n\nA descriptive evolutionary hypothesis does not justify coercion, discrimination or a prescribed relationship arrangement. Ethics and practical decisions need independent reasons.",
+    "say": "Within-group variation: differences among members of a group. Effect size: magnitude of a measured difference or relation. Measurement equivalence: evidence that a measure has comparable meaning across groups. [pause 0.65] Report the magnitude, overlap and uncertainty of a difference, and check sampling and cultural context. A group average is not an individual prediction. [pause 0.65] A descriptive evolutionary hypothesis does not justify coercion, discrimination or a prescribed relationship arrangement. Ethics and practical decisions need independent reasons."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Sexual-selection and life-history models are established frameworks; particular human preference hypotheses have varying support and active debate. Cross-cultural evidence and alternative accounts matter.\n\nThis lesson provides neither dating advice nor a normative model for family life.",
+    "say": "Sexual-selection and life-history models are established frameworks; particular human preference hypotheses have varying support and active debate. Cross-cultural evidence and alternative accounts matter. [pause 0.65] This lesson provides neither dating advice nor a normative model for family life."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA survey reports an average preference difference between two sampled groups.\n\nWhat should be reported?\n\nA. Only whether the difference is statistically significant.\n\nB. Effect size, overlap, uncertainty and sampling limits.\n\nC. A rule assigning each person a preference.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A survey reports an average preference difference between two sampled groups. [pause 0.65] What should be reported? [pause 0.65] A. Only whether the difference is statistically significant. [pause 0.65] B. Effect size, overlap, uncertainty and sampling limits. [pause 0.65] C. A rule assigning each person a preference. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Significance alone does not show magnitude or individual predictability.",
+    "say": "Significance alone does not show magnitude or individual predictability. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "These details clarify how far the result can be interpreted.",
+    "say": "These details clarify how far the result can be interpreted. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "A group summary cannot prescribe an individual choice.",
+    "say": "A group summary cannot prescribe an individual choice. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat does parental investment mean in the model?\n\nWhy does a group difference not establish an individual preference?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What does parental investment mean in the model? [pause 0.65] Why does a group difference not establish an individual preference? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Resources benefiting offspring at a cost to other reproductive opportunities.\n\nDistributions can overlap and individuals differ in history, context and goals.",
+    "say": "Resources benefiting offspring at a cost to other reproductive opportunities. [pause 0.65] Distributions can overlap and individuals differ in history, context and goals. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Critique a fictional relationship headline for population, measurement, effect size and the jump from description to prescription.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Critique a fictional relationship headline for population, measurement, effect size and the jump from description to prescription. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Culture also changes across generations",
+    "text": "One café adopts a useful repair technique from a neighbour, then several others copy it. Leo says this must be a genetic change because the practice spread. Maya asks what was transmitted.",
+    "say": "One café adopts a useful repair technique from a neighbour, then several others copy it. Leo says this must be a genetic change because the practice spread. [Maya](/mˈaɪə/) asks what was transmitted."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat spread in the café example?\n\nA. A socially learned technique.\n\nB. Necessarily a new genetic variant.\n\nC. A proof that popular methods are always best.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What spread in the café example? [pause 0.65] A. A socially learned technique. [pause 0.65] B. Necessarily a new genetic variant. [pause 0.65] C. A proof that popular methods are always best. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "The observed transmission concerns information and practice.",
+    "say": "The observed transmission concerns information and practice."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Rapid social spread is not evidence of changing gene frequencies.",
+    "say": "Rapid social spread is not evidence of changing gene frequencies."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Popularity leaves quality and fairness open.",
+    "say": "Popularity leaves quality and fairness open."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: Information can spread socially.",
+    "text": "Cultural transmission: socially mediated acquisition of information or practice. Social learning: learning influenced by observing or interacting with others.\n\nA technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them.\n\nCultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.",
+    "say": "Cultural transmission: socially mediated acquisition of information or practice. Social learning: learning influenced by observing or interacting with others. [pause 0.65] A technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them. [pause 0.65] Cultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Copying can follow different cues.",
+    "text": "Conformist transmission: disproportionate copying of a common variant under a model. Prestige-biased transmission: copying influenced by a model’s social standing. Content bias: transmission influenced by features of the information.\n\nPeople may attend to common practices, respected models or memorable content. These are hypotheses about transmission that need appropriate comparison.\n\nA popular method may be effective, fashionable or simply more visible. Test actual outcomes rather than equating prevalence with quality.",
+    "say": "Conformist transmission: disproportionate copying of a common variant under a model. Prestige-biased transmission: copying influenced by a model’s social standing. Content bias: transmission influenced by features of the information. [pause 0.65] People may attend to common practices, respected models or memorable content. These are hypotheses about transmission that need appropriate comparison. [pause 0.65] A popular method may be effective, fashionable or simply more visible. Test actual outcomes rather than equating prevalence with quality."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Genes and culture can influence each other.",
+    "text": "Gene–culture coevolution: interacting genetic and cultural changes over generations. Niche construction: organisms modify environments affecting subsequent development or selection. Cumulative culture: building on earlier socially transmitted contributions.\n\nSocial practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales.\n\nDo not infer a genetic change from rapid cultural spread. A coevolution claim needs historical and biological evidence beyond a modern trend.",
+    "say": "Gene–culture coevolution: interacting genetic and cultural changes over generations. Niche construction: organisms modify environments affecting subsequent development or selection. Cumulative culture: building on earlier socially transmitted contributions. [pause 0.65] Social practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales. [pause 0.65] Do not infer a genetic change from rapid cultural spread. A coevolution claim needs historical and biological evidence beyond a modern trend."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Cultural-evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality.\n\nA popular practice is not automatically adaptive, optimal or ethically desirable.",
+    "say": "Cultural-evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality. [pause 0.65] A popular practice is not automatically adaptive, optimal or ethically desirable."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked.\n\nWhat evidence would distinguish the accounts?\n\nA. The teacher’s confidence alone.\n\nB. Transmission patterns and independent outcomes of the technique.\n\nC. An assumption that every copied practice is beneficial.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked. [pause 0.65] What evidence would distinguish the accounts? [pause 0.65] A. The teacher’s confidence alone. [pause 0.65] B. Transmission patterns and independent outcomes of the technique. [pause 0.65] C. An assumption that every copied practice is beneficial. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Confidence does not identify the transmission process or benefit.",
+    "say": "Confidence does not identify the transmission process or benefit. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Copying pathways and actual effectiveness are distinct measurable questions.",
+    "say": "Copying pathways and actual effectiveness are distinct measurable questions. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Spread does not guarantee utility.",
+    "say": "Spread does not guarantee utility. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does cultural transmission differ from genetic inheritance?\n\nWhy does popularity not prove adaptation?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does cultural transmission differ from genetic inheritance? [pause 0.65] Why does popularity not prove adaptation? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "It transmits information socially rather than genetic variants through reproduction.\n\nPractices can spread through visibility, biases or institutions without improving the relevant outcome.",
+    "say": "It transmits information socially rather than genetic variants through reproduction. [pause 0.65] Practices can spread through visibility, biases or institutions without improving the relevant outcome. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Use a fictional technique to describe how it spreads, why people copy it and how usefulness could be tested separately.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional technique to describe how it spreads, why people copy it and how usefulness could be tested separately. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: A universal claim needs varied evidence",
+    "text": "A study surveys students at one university and announces a universal human adaptation. Leo is persuaded by the evolutionary story. Maya asks whether the prediction distinguishes alternatives and whether other populations were studied.",
+    "say": "A study surveys students at one university and announces a universal human adaptation. Leo is persuaded by the evolutionary story. [Maya](/mˈaɪə/) asks whether the prediction distinguishes alternatives and whether other populations were studied."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the main scope problem?\n\nA. A narrow sample is insufficient for the universal claim.\n\nB. Student research can never be informative.\n\nC. An evolutionary story removes the need for sampling.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the main scope problem? [pause 0.65] A. A narrow sample is insufficient for the universal claim. [pause 0.65] B. Student research can never be informative. [pause 0.65] C. An evolutionary story removes the need for sampling. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "The finding can inform a bounded claim while broader evidence is sought.",
+    "say": "The finding can inform a bounded claim while broader evidence is sought."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "A student sample can answer appropriately limited questions.",
+    "say": "A student sample can answer appropriately limited questions."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "A theory does not make an unrepresentative sample universal.",
+    "say": "A theory does not make an unrepresentative sample universal."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Sampling limits the conclusion.",
+    "text": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations.\n\nA convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting.\n\nCross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
+    "say": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations. [pause 0.65] A convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting. [pause 0.65] Cross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: State a risky prediction in advance.",
+    "text": "Competing prediction: outcome distinguishing alternative accounts.\n\nA strong hypothesis states what pattern should occur and what would count against it. Compare adaptation, learning, institutional and by-product accounts where relevant.\n\nPreregistration can reduce selective storytelling but does not fix a poor measure. Replication and converging designs strengthen a claim when the tests address its actual prediction.",
+    "say": "Competing prediction: outcome distinguishing alternative accounts. [pause 0.65] A strong hypothesis states what pattern should occur and what would count against it. Compare adaptation, learning, institutional and by-product accounts where relevant. [pause 0.65] Preregistration can reduce selective storytelling but does not fix a poor measure. Replication and converging designs strengthen a claim when the tests address its actual prediction."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Corroboration is more than a matching story.",
+    "text": "Converging evidence: support from different relevant methods. Publication bias: selective visibility of findings according to results. Researcher flexibility: choices in analysis that can affect conclusions.\n\nComparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation.\n\nA modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature.",
+    "say": "Converging evidence: support from different relevant methods. Publication bias: selective visibility of findings according to results. Researcher flexibility: choices in analysis that can affect conclusions. [pause 0.65] Comparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation. [pause 0.65] A modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike.\n\nEvolution’s general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.",
+    "say": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike. [pause 0.65] Evolution’s general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nResearchers want to test a specific adaptation account against a learning-based alternative.\n\nWhich result most strengthens the hypothesis?\n\nA. Any outcome reinterpreted after the event.\n\nB. A preregistered discriminating prediction replicated with suitable varied samples.\n\nC. Only supportive anecdotes selected from one setting.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Researchers want to test a specific adaptation account against a learning-based alternative. [pause 0.65] Which result most strengthens the hypothesis? [pause 0.65] A. Any outcome reinterpreted after the event. [pause 0.65] B. A preregistered discriminating prediction replicated with suitable varied samples. [pause 0.65] C. Only supportive anecdotes selected from one setting. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "An account compatible with every result is difficult to test.",
+    "say": "An account compatible with every result is difficult to test. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "The design reduces some alternatives and supports the intended scope.",
+    "say": "The design reduces some alternatives and supports the intended scope. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Selection can make several incompatible stories appear convincing.",
+    "say": "Selection can make several incompatible stories appear convincing. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does translation not guarantee measurement equivalence?\n\nWhat makes a prediction discriminating?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does translation not guarantee measurement equivalence? [pause 0.65] What makes a prediction discriminating? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "Words and tasks can have different meanings and social demands across settings.\n\nAlternative accounts predict different outcomes under the specified comparison.",
+    "say": "Words and tasks can have different meanings and social demands across settings. [pause 0.65] Alternative accounts predict different outcomes under the specified comparison. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Draft a fictional research proposal with two competing accounts, a distinguishing prediction, sample limits and a possible disconfirming result.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Draft a fictional research proposal with two competing accounts, a distinguishing prediction, sample limits and a possible disconfirming result. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: An explanation is not an instruction",
+    "text": "The café drafts a public article about cooperation and conflict. Leo wants to conclude that any evolved behaviour is natural, unavoidable and morally acceptable. Maya asks which of those claims the evidence actually supports.",
+    "say": "The café drafts a public article about cooperation and conflict. Leo wants to conclude that any evolved behaviour is natural, unavoidable and morally acceptable. [Maya](/mˈaɪə/) asks which of those claims the evidence actually supports."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich conclusion is invalid?\n\nA. An evolved contribution can interact with learning.\n\nB. A historical explanation automatically makes an action acceptable.\n\nC. A practical policy needs evidence of current effects.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which conclusion is invalid? [pause 0.65] A. An evolved contribution can interact with learning. [pause 0.65] B. A historical explanation automatically makes an action acceptable. [pause 0.65] C. A practical policy needs evidence of current effects. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Development and evolutionary influence are compatible.",
+    "say": "Development and evolutionary influence are compatible."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "Description does not establish a moral justification.",
+    "say": "Description does not establish a moral justification."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Current effectiveness is a separate empirical question.",
+    "say": "Current effectiveness is a separate empirical question."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: Natural does not mean good or inevitable.",
+    "text": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations.\n\nA historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions.\n\nEthical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own.",
+    "say": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations. [pause 0.65] A historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions. [pause 0.65] Ethical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Use a bounded evolutionary account.",
+    "text": "Hypothesis scope: conditions and outcomes a claim addresses. Alternative model: another explanation with distinct assumptions. Revision: changing confidence or account in response to evidence.\n\nSpecify the behaviour, level of explanation, proposed history and distinguishing predictions. Include development, culture and alternative evolutionary processes.\n\nA good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.",
+    "say": "Hypothesis scope: conditions and outcomes a claim addresses. Alternative model: another explanation with distinct assumptions. Revision: changing confidence or account in response to evidence. [pause 0.65] Specify the behaviour, level of explanation, proposed history and distinguishing predictions. Include development, culture and alternative evolutionary processes. [pause 0.65] A good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Practical decisions need current evidence.",
+    "text": "Intervention evidence: data on the effect of a proposed change. Individual variation: differences within a population. Agency: capacity for meaningful choice and action.\n\nA hypothesis about cooperation may suggest a practical question, but changing a policy needs evidence about current outcomes and harms. Preserve individual rights and choice.\n\nUse this course to read research more carefully, not to assign hidden motives, rank groups or justify discrimination. An unfamiliar final case tests reasoning rather than professional authority.",
+    "say": "Intervention evidence: data on the effect of a proposed change. Individual variation: differences within a population. Agency: capacity for meaningful choice and action. [pause 0.65] A hypothesis about cooperation may suggest a practical question, but changing a policy needs evidence about current outcomes and harms. Preserve individual rights and choice. [pause 0.65] Use this course to read research more carefully, not to assign hidden motives, rank groups or justify discrimination. An unfamiliar final case tests reasoning rather than professional authority."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Evolutionary psychology contains testable proposals, contested claims and methodological debates. Credibility depends on the evidence for each specific claim.\n\nThis course does not establish one ancestral lifestyle, fixed human roles or a policy agenda. Its final case is a self-check, not certification.",
+    "say": "Evolutionary psychology contains testable proposals, contested claims and methodological debates. Credibility depends on the evidence for each specific claim. [pause 0.65] This course does not establish one ancestral lifestyle, fixed human roles or a policy agenda. Its final case is a self-check, not certification."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA modern cooperation study fits several theories and has not evaluated a proposed policy.\n\nWhat should the article conclude?\n\nA. The observed pattern proves one universal adaptation.\n\nB. Biology makes institutions irrelevant.\n\nC. Several accounts remain; policy choices need current evidence and ethical reasons.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A modern cooperation study fits several theories and has not evaluated a proposed policy. [pause 0.65] What should the article conclude? [pause 0.65] A. The observed pattern proves one universal adaptation. [pause 0.65] B. Biology makes institutions irrelevant. [pause 0.65] C. Several accounts remain; policy choices need current evidence and ethical reasons. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "The evidence does not resolve every origin account.",
+    "say": "The evidence does not resolve every origin account. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "Institutions can influence development, incentives and outcomes.",
+    "say": "Institutions can influence development, incentives and outcomes. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "The conclusion separates uncertain explanation from practical justification.",
+    "say": "The conclusion separates uncertain explanation from practical justification. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does evolved not mean inevitable?\n\nWhat evidence would justify a practical change?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does evolved not mean inevitable? [pause 0.65] What evidence would justify a practical change? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "Development, learning and institutions can alter expression and conditions.\n\nA suitable test of current meaningful outcomes and harms, considered alongside rights and preferences.",
+    "say": "Development, learning and institutions can alter expression and conditions. [pause 0.65] A suitable test of current meaningful outcomes and harms, considered alongside rights and preferences. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Write a short critique of a fictional evolved-therefore-right claim, naming the empirical gap and the independent ethical question.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write a short critique of a fictional evolved-therefore-right claim, naming the empirical gap and the independent ethical question. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "What kind of explanation is this?",
+    "options": [
+      "Phylogenetic history.",
+      "Ontogenetic development.",
+      "Proof of adaptive function."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The statement concerns a person’s life rather than lineage history.",
+      "It describes how behaviour developed through experience.",
+      "A learning account does not establish evolutionary function."
+    ],
+    "context": "A researcher explains cooperation by describing how a child learned local turn-taking practices.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "2": {
+    "prompt": "Which conclusion follows?",
+    "options": [
+      "The trait is morally good.",
+      "The trait must increase happiness.",
+      "Its presence alone does not establish adaptation."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A descriptive history does not settle moral value.",
+      "Fitness and happiness are distinct outcomes.",
+      "Alternative evolutionary and developmental accounts need comparison."
+    ],
+    "context": "A widespread characteristic is observed, but no evidence about its origin or function is provided.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "3": {
+    "prompt": "What should the researcher specify?",
+    "options": [
+      "One universal prehistoric lifestyle.",
+      "The feature, historical contrast and predicted present effect.",
+      "A moral rule derived from what seems natural."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Ancestral conditions varied across time and place.",
+      "A mismatch hypothesis needs a defined and evidenced contrast.",
+      "A descriptive origin claim does not establish an ethical rule."
+    ],
+    "context": "A headline attributes a modern difficulty to evolutionary mismatch.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "4": {
+    "prompt": "What does the estimate establish?",
+    "options": [
+      "A percentage of each individual’s behaviour.",
+      "Variation in a specified population under a model.",
+      "A proof that the trait cannot change."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The estimate is not an individual decomposition.",
+      "Population, measure and conditions define its scope.",
+      "Modifiability is a separate empirical question."
+    ],
+    "context": "A study reports heritability for a measured trait in one population.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "5": {
+    "prompt": "What needs clarification?",
+    "options": [
+      "The model’s fitness benefits, costs and relatedness.",
+      "Only whether the person felt generous.",
+      "A moral obligation to favour relatives."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The formal terms need case-appropriate definitions and evidence.",
+      "A subjective motive does not specify the model’s quantities.",
+      "The descriptive model does not establish that obligation."
+    ],
+    "context": "A commentator applies Hamilton’s rule to a family favour using only its monetary cost.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "6": {
+    "prompt": "Which conclusion is proportionate?",
+    "options": [
+      "Rules permanently changed everyone’s moral character.",
+      "The system improved this coordination outcome under these conditions.",
+      "The result proves one evolutionary origin."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A local outcome does not establish a character transformation.",
+      "The conclusion matches the intervention and measured context.",
+      "An institution’s current effect does not identify historical origins."
+    ],
+    "context": "Tool losses fall after the café introduces a clear, accessible checkout system.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "7": {
+    "prompt": "What should be reported?",
+    "options": [
+      "Only whether the difference is statistically significant.",
+      "Effect size, overlap, uncertainty and sampling limits.",
+      "A rule assigning each person a preference."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Significance alone does not show magnitude or individual predictability.",
+      "These details clarify how far the result can be interpreted.",
+      "A group summary cannot prescribe an individual choice."
+    ],
+    "context": "A survey reports an average preference difference between two sampled groups.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "8": {
+    "prompt": "What evidence would distinguish the accounts?",
+    "options": [
+      "The teacher’s confidence alone.",
+      "Transmission patterns and independent outcomes of the technique.",
+      "An assumption that every copied practice is beneficial."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Confidence does not identify the transmission process or benefit.",
+      "Copying pathways and actual effectiveness are distinct measurable questions.",
+      "Spread does not guarantee utility."
+    ],
+    "context": "A repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "9": {
+    "prompt": "Which result most strengthens the hypothesis?",
+    "options": [
+      "Any outcome reinterpreted after the event.",
+      "A preregistered discriminating prediction replicated with suitable varied samples.",
+      "Only supportive anecdotes selected from one setting."
+    ],
+    "correct": 1,
+    "feedback": [
+      "An account compatible with every result is difficult to test.",
+      "The design reduces some alternatives and supports the intended scope.",
+      "Selection can make several incompatible stories appear convincing."
+    ],
+    "context": "Researchers want to test a specific adaptation account against a learning-based alternative.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  },
+  "10": {
+    "prompt": "What should the article conclude?",
+    "options": [
+      "The observed pattern proves one universal adaptation.",
+      "Biology makes institutions irrelevant.",
+      "Several accounts remain; policy choices need current evidence and ethical reasons."
+    ],
+    "correct": 2,
+    "feedback": [
+      "The evidence does not resolve every origin account.",
+      "Institutions can influence development, incentives and outcomes.",
+      "The conclusion separates uncertain explanation from practical justification."
+    ],
+    "context": "A modern cooperation study fits several theories and has not evaluated a proposed policy.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "evolutionary-psychology-v1"
+  }
+}

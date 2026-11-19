@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Proximate explanation": "Account of mechanisms and development.",
+    "Ultimate explanation": "Account concerning evolutionary history or function.",
+    "Level of explanation": "The kind of question an account addresses.",
+    "Mechanism": "Processes producing behaviour now.",
+    "Ontogeny": "Development within an individual lifetime.",
+    "Phylogeny": "Evolutionary history across lineages.",
+    "Adaptive function": "Proposed contribution to reproductive success in an evolutionary context.",
+    "Hypothesis": "Testable proposed explanation.",
+    "Alternative explanation": "Another account fitting some observations."
+  },
+  "2": {
+    "Variation": "Differences among individuals.",
+    "Heritable variation": "Variation partly transmitted across generations.",
+    "Natural selection": "Change associated with differential reproduction of heritable variants.",
+    "Evolutionary fitness": "Relative contribution to subsequent generations in a context.",
+    "Trade-off": "Benefit in one respect with a cost in another.",
+    "Constraint": "Limitation on possible evolutionary change.",
+    "Genetic drift": "Random change in variant frequencies.",
+    "Mutation": "Change in genetic material.",
+    "Gene flow": "Movement of genetic variants between populations."
+  },
+  "3": {
+    "Adaptation": "Feature shaped by selection for a particular effect.",
+    "By-product": "Feature arising alongside other processes or structures.",
+    "Exaptation": "Feature used for a role different from an earlier origin.",
+    "Special design": "Features fitting a proposed adaptive problem.",
+    "Comparative evidence": "Comparisons across species or populations.",
+    "Falsifiability": "Possibility of evidence counting against a claim.",
+    "Evolutionary mismatch": "A feature’s effects differ between relevant ancestral and current conditions.",
+    "Ancestral environment": "Historical conditions relevant to a specified process.",
+    "Current function": "Present effects under present conditions."
+  },
+  "4": {
+    "Phenotype": "An observed characteristic.",
+    "Developmental system": "Interacting biological and environmental processes.",
+    "Plasticity": "Capacity for change across relevant conditions.",
+    "Heritability": "Model-based attribution of population variation to genetic differences.",
+    "Reaction norm": "Pattern of outcomes across environments for a genotype.",
+    "Gene–environment interaction": "Genetic effects differing across environments.",
+    "Preparedness": "Differential ease of learning some relations under conditions.",
+    "Learning bias": "Systematic tendency in acquiring information.",
+    "Cultural input": "Socially transmitted information and practices."
+  },
+  "5": {
+    "Kin selection": "Selection influenced by effects on relatives’ reproductive outcomes.",
+    "Inclusive fitness": "Framework including direct and relatedness-weighted effects.",
+    "Relatedness": "Genetic association relevant to an evolutionary model.",
+    "Hamilton’s rule": "Condition comparing relatedness-weighted benefit with cost.",
+    "Fitness cost": "Reduction in reproductive outcome within a model.",
+    "Fitness benefit": "Increase in reproductive outcome within a model.",
+    "Direct benefit": "Effect on the actor’s own reproductive outcome in a model.",
+    "Reciprocity": "Help contingent on social interactions over time.",
+    "Social norm": "Shared expectation influencing conduct."
+  },
+  "6": {
+    "Direct reciprocity": "Cooperation influenced by repeated interaction between partners.",
+    "Mutual benefit": "Outcome benefiting both participants.",
+    "One-shot interaction": "Interaction modelled without future encounters.",
+    "Indirect reciprocity": "Help influenced by information about others’ social behaviour.",
+    "Reputation": "Socially shared information about conduct.",
+    "Partner choice": "Selecting whom to interact with.",
+    "Institution": "Shared rules and practices structuring interaction.",
+    "Public good": "Benefit difficult to restrict to contributors.",
+    "Coordination": "Aligning actions toward a compatible outcome."
+  },
+  "7": {
+    "Sexual selection": "Selection associated with differences in mating or fertilization success.",
+    "Mate choice": "Preferences or decisions affecting mating.",
+    "Competition": "Interaction over limited opportunities or resources.",
+    "Parental investment": "Resources benefiting offspring at a cost to other reproductive opportunities.",
+    "Life-history trade-off": "Allocation among growth, maintenance and reproduction.",
+    "Ecological condition": "Environmental resource or risk affecting outcomes.",
+    "Within-group variation": "Differences among members of a group.",
+    "Effect size": "Magnitude of a measured difference or relation.",
+    "Measurement equivalence": "Evidence that a measure has comparable meaning across groups."
+  },
+  "8": {
+    "Cultural transmission": "Socially mediated acquisition of information or practice.",
+    "Cultural evolution": "Change in socially transmitted variants over time.",
+    "Social learning": "Learning influenced by observing or interacting with others.",
+    "Conformist transmission": "Disproportionate copying of a common variant under a model.",
+    "Prestige-biased transmission": "Copying influenced by a model’s social standing.",
+    "Content bias": "Transmission influenced by features of the information.",
+    "Gene–culture coevolution": "Interacting genetic and cultural changes over generations.",
+    "Niche construction": "Organisms modify environments affecting subsequent development or selection.",
+    "Cumulative culture": "Building on earlier socially transmitted contributions."
+  },
+  "9": {
+    "WEIRD sampling": "Sampling concentrated in Western, educated, industrialized, rich and democratic settings.",
+    "Generalizability": "Applicability beyond studied conditions.",
+    "Cross-cultural comparison": "Comparison across culturally situated populations.",
+    "Preregistration": "Recording hypotheses and analysis plans before observing outcomes.",
+    "Replication": "Testing a result with new data.",
+    "Competing prediction": "Outcome distinguishing alternative accounts.",
+    "Converging evidence": "Support from different relevant methods.",
+    "Publication bias": "Selective visibility of findings according to results.",
+    "Researcher flexibility": "Choices in analysis that can affect conclusions."
+  },
+  "10": {
+    "Is–ought gap": "Descriptive claims alone do not establish moral conclusions.",
+    "Biological determinism": "Treating biology as fixing an unavoidable outcome.",
+    "Moral reasoning": "Evaluating actions using ethical considerations.",
+    "Hypothesis scope": "Conditions and outcomes a claim addresses.",
+    "Alternative model": "Another explanation with distinct assumptions.",
+    "Revision": "Changing confidence or account in response to evidence.",
+    "Intervention evidence": "Data on the effect of a proposed change.",
+    "Individual variation": "Differences within a population.",
+    "Agency": "Capacity for meaningful choice and action."
+  }
+}
