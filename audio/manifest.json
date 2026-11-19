@@ -1,0 +1,1217 @@
+{
+  "voice": "af_heart",
+  "speed": 1.0,
+  "engine": {
+    "backend": "onnx",
+    "model": "Kokoro-82M v1.0",
+    "release": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/",
+    "sha256": {
+      "kokoro-v1.0.onnx": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+      "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+    },
+    "provider": "CPUExecutionProvider"
+  },
+  "encoding": {
+    "codec": "AAC",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bitrate": 160000,
+    "loudness_target_lufs": -16,
+    "true_peak_target_dbtp": -1.5
+  },
+  "clips": [
+    {
+      "id": "c01s01",
+      "file": "audio/clips/c01s01.m4a",
+      "duration": 15.2,
+      "bytes": 320359,
+      "sha256": "f58cb095ea97a542f3fb4c64edf86271f3fdea3d3e68e037a7be4d1f3d1f8429"
+    },
+    {
+      "id": "c01s02",
+      "file": "audio/clips/c01s02.m4a",
+      "duration": 22.7,
+      "bytes": 420380,
+      "sha256": "dae09594cecf00f1d5d1a85aa932812319304a3322c427906580ad01866f3401"
+    },
+    {
+      "id": "c01s02-feedback-0",
+      "file": "audio/clips/c01s02-feedback-0.m4a",
+      "duration": 4.1,
+      "bytes": 86640,
+      "sha256": "ede7e65a024af4db7c35ed6532daff57d82cc58731ef901e3e032400bad02a65"
+    },
+    {
+      "id": "c01s02-feedback-1",
+      "file": "audio/clips/c01s02-feedback-1.m4a",
+      "duration": 4.1,
+      "bytes": 87534,
+      "sha256": "06c0933319175a9db03e9cd6da861f8d983a4dcf8b69fabe4933003793d54c65"
+    },
+    {
+      "id": "c01s02-feedback-2",
+      "file": "audio/clips/c01s02-feedback-2.m4a",
+      "duration": 3.9,
+      "bytes": 83438,
+      "sha256": "2e19035a88b37f444680024ef0887e4a85dbde09876b6b34ecf96f60fb35e7e5"
+    },
+    {
+      "id": "c01s03",
+      "file": "audio/clips/c01s03.m4a",
+      "duration": 34.5,
+      "bytes": 696481,
+      "sha256": "83cb860c4cd00566728c8202589ae01eb8b73cc76ed7627bc9c54052eda92c5b"
+    },
+    {
+      "id": "c01s03b",
+      "file": "audio/clips/c01s03b.m4a",
+      "duration": 31.2,
+      "bytes": 634990,
+      "sha256": "eb5a934c65d82f9a5467605d752080889c6cad465b1b301322b26be699cc06fe"
+    },
+    {
+      "id": "c01s04",
+      "file": "audio/clips/c01s04.m4a",
+      "duration": 31.8,
+      "bytes": 645971,
+      "sha256": "02148e7ab5aa6de3f26f560e48ddec4200ba47e0237ceb7a95a7f2d1bb895f26"
+    },
+    {
+      "id": "c01s05",
+      "file": "audio/clips/c01s05.m4a",
+      "duration": 18.7,
+      "bytes": 382549,
+      "sha256": "66f464282b1d3444d5f41f809562c7c0a6dc3540fec77fc2e976800500e2589b"
+    },
+    {
+      "id": "c01s06",
+      "file": "audio/clips/c01s06.m4a",
+      "duration": 24.9,
+      "bytes": 432673,
+      "sha256": "17586e1c3266e5de8d9adbefeee6f949dc626f94da0eedc11e9351dbe013215c"
+    },
+    {
+      "id": "c01s06-feedback-0",
+      "file": "audio/clips/c01s06-feedback-0.m4a",
+      "duration": 4.9,
+      "bytes": 81661,
+      "sha256": "d9a82003fec2c2850cd4dfb8a5f76506a840743b0285e065f7464960eed8799b"
+    },
+    {
+      "id": "c01s06-feedback-1",
+      "file": "audio/clips/c01s06-feedback-1.m4a",
+      "duration": 4.2,
+      "bytes": 68382,
+      "sha256": "cf83fba8853b94553f53a8d37536667cf00c05104b4962acf5c7b069d6abcbee"
+    },
+    {
+      "id": "c01s06-feedback-2",
+      "file": "audio/clips/c01s06-feedback-2.m4a",
+      "duration": 4.6,
+      "bytes": 77071,
+      "sha256": "aa7c6c748ce43bdb73fdaed4f1e7d155e76e5e63da45472ee87078486ac0f2e7"
+    },
+    {
+      "id": "c01s07",
+      "file": "audio/clips/c01s07.m4a",
+      "duration": 14.2,
+      "bytes": 239401,
+      "sha256": "bc7becebe5c881442dfa5bf7951d91cad926746e017f441b3e6d233efc36c96a"
+    },
+    {
+      "id": "c01s07-answers",
+      "file": "audio/clips/c01s07-answers.m4a",
+      "duration": 12.0,
+      "bytes": 222769,
+      "sha256": "1b29e341bd8fee60557373798f78bb151884e2e976bd9ebb0e447e0cb9f62877"
+    },
+    {
+      "id": "c01s08",
+      "file": "audio/clips/c01s08.m4a",
+      "duration": 13.8,
+      "bytes": 278582,
+      "sha256": "e6f5305992971321286176a3c313da6bdf612514b8c0a3d51901a92029e5350b"
+    },
+    {
+      "id": "c02s01",
+      "file": "audio/clips/c02s01.m4a",
+      "duration": 11.3,
+      "bytes": 238114,
+      "sha256": "cbce78fa8522907729ff48ed3f1c197ecd627dd6c3a707a0b214a335bc820710"
+    },
+    {
+      "id": "c02s02",
+      "file": "audio/clips/c02s02.m4a",
+      "duration": 18.7,
+      "bytes": 330619,
+      "sha256": "de8446286cdce0e421afe6845d6b46a02a89e6e5aa61facd5442964e896def70"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "file": "audio/clips/c02s02-feedback-0.m4a",
+      "duration": 3.2,
+      "bytes": 66737,
+      "sha256": "1d90ef28f4a23d504fa08f19157e8604b1cc593fea495683889b77ae580d25af"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "file": "audio/clips/c02s02-feedback-1.m4a",
+      "duration": 5.0,
+      "bytes": 104833,
+      "sha256": "afffe48d27c0bac44fd101545a19a06f8497a6fa6a9c1de867ad9de12e0d4cf1"
+    },
+    {
+      "id": "c02s02-feedback-2",
+      "file": "audio/clips/c02s02-feedback-2.m4a",
+      "duration": 4.3,
+      "bytes": 91782,
+      "sha256": "b63c9240561cb973894e8c34484f4a8e04e0fa9f3853c4c1198cc95fe8d053dc"
+    },
+    {
+      "id": "c02s03",
+      "file": "audio/clips/c02s03.m4a",
+      "duration": 38.1,
+      "bytes": 774706,
+      "sha256": "f53863bc5a63e128083c46e55015a7e2175d1b4ed8a68da0cd0717eeceaaf94c"
+    },
+    {
+      "id": "c02s03b",
+      "file": "audio/clips/c02s03b.m4a",
+      "duration": 35.5,
+      "bytes": 723149,
+      "sha256": "23e9a936851269558f5143e879fd309b5f5df913abc58449177267d18d54fd2a"
+    },
+    {
+      "id": "c02s04",
+      "file": "audio/clips/c02s04.m4a",
+      "duration": 24.7,
+      "bytes": 492888,
+      "sha256": "2e0852d497dbc2d2b4844c611bee24b75dac01ddc34370bed2c66018c5e70db3"
+    },
+    {
+      "id": "c02s05",
+      "file": "audio/clips/c02s05.m4a",
+      "duration": 21.2,
+      "bytes": 438009,
+      "sha256": "2f4362859faf9e011aeb69c5e30f3335958b8d52865aabf36f253ceee55e857c"
+    },
+    {
+      "id": "c02s06",
+      "file": "audio/clips/c02s06.m4a",
+      "duration": 26.5,
+      "bytes": 470312,
+      "sha256": "765bdf5401c77907792726605947f872a51e78c43b9cd52738fa9438e7b8a370"
+    },
+    {
+      "id": "c02s06-feedback-0",
+      "file": "audio/clips/c02s06-feedback-0.m4a",
+      "duration": 4.1,
+      "bytes": 64710,
+      "sha256": "9b6f262f4dd7a2a081d3cd9be6541c00f2fc1a5df153f4c39babed2aa607248f"
+    },
+    {
+      "id": "c02s06-feedback-1",
+      "file": "audio/clips/c02s06-feedback-1.m4a",
+      "duration": 3.7,
+      "bytes": 58184,
+      "sha256": "e3d8bd0acec9b68d8d364d91cebca1d700c40fb38e85cf0b6845dce1ee2f53ce"
+    },
+    {
+      "id": "c02s06-feedback-2",
+      "file": "audio/clips/c02s06-feedback-2.m4a",
+      "duration": 5.6,
+      "bytes": 95951,
+      "sha256": "9dc8144a60027ef60b27036e3071712023262563574778e6d4818d111c17f824"
+    },
+    {
+      "id": "c02s07",
+      "file": "audio/clips/c02s07.m4a",
+      "duration": 12.7,
+      "bytes": 210551,
+      "sha256": "8e77286c7483eabe4d57bdcc5051dc2a4434c84151aadf7beed4af9d8dcc6885"
+    },
+    {
+      "id": "c02s07-answers",
+      "file": "audio/clips/c02s07-answers.m4a",
+      "duration": 15.6,
+      "bytes": 294358,
+      "sha256": "f61233552aea343ebffe55e1df9c1522c66dde775885c2de90b9eebe491781f2"
+    },
+    {
+      "id": "c02s08",
+      "file": "audio/clips/c02s08.m4a",
+      "duration": 13.5,
+      "bytes": 275612,
+      "sha256": "a60658eb7dffa20da06147c0d1614852d32516fa552e7d7303421a483f4b6ba8"
+    },
+    {
+      "id": "c03s01",
+      "file": "audio/clips/c03s01.m4a",
+      "duration": 14.2,
+      "bytes": 297237,
+      "sha256": "1e0127093fb6a7ea840c05fecc3a7a8ea76b2df8acd8779d598120bd479a1c26"
+    },
+    {
+      "id": "c03s02",
+      "file": "audio/clips/c03s02.m4a",
+      "duration": 20.4,
+      "bytes": 368472,
+      "sha256": "aa8c0567ffda6e314d00fc01bac5fda55e338e11eb2ac0b259e70b51da495cfa"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "file": "audio/clips/c03s02-feedback-0.m4a",
+      "duration": 3.3,
+      "bytes": 72004,
+      "sha256": "ed274ef019b298dd0f6838b73f83b1a19521c96b9533243b29df434f45528baa"
+    },
+    {
+      "id": "c03s02-feedback-1",
+      "file": "audio/clips/c03s02-feedback-1.m4a",
+      "duration": 4.6,
+      "bytes": 99326,
+      "sha256": "7026690620b49a12fc58e626c5ee7fe245a0b5e90e12e188c6ab36ef10cd693e"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "file": "audio/clips/c03s02-feedback-2.m4a",
+      "duration": 2.901,
+      "bytes": 62675,
+      "sha256": "989c68a46069c42da6a8ab47e03222fe9e23bb5f1143cbfc4b76ef4b1070ec01"
+    },
+    {
+      "id": "c03s03",
+      "file": "audio/clips/c03s03.m4a",
+      "duration": 28.8,
+      "bytes": 580698,
+      "sha256": "410a4b063a22b50a2033c02f8e5b725647498870ce50b24a4038b860849eb4f5"
+    },
+    {
+      "id": "c03s03b",
+      "file": "audio/clips/c03s03b.m4a",
+      "duration": 36.1,
+      "bytes": 734452,
+      "sha256": "739700b50fa0bec7cb8a727aafdecfa2d006337cd9c36ee4c46a3614944b7b1f"
+    },
+    {
+      "id": "c03s04",
+      "file": "audio/clips/c03s04.m4a",
+      "duration": 33.0,
+      "bytes": 670087,
+      "sha256": "95591747e14da1f2e32b781e5cfcb372f36896fa03a36ccf617c818e3a0604bb"
+    },
+    {
+      "id": "c03s05",
+      "file": "audio/clips/c03s05.m4a",
+      "duration": 19.1,
+      "bytes": 393855,
+      "sha256": "c7995109a0f76666e0cf42918e1c60dd2e93d346934ac5dd2c34f408170fe296"
+    },
+    {
+      "id": "c03s06",
+      "file": "audio/clips/c03s06.m4a",
+      "duration": 27.3,
+      "bytes": 490799,
+      "sha256": "6bc1f707497a738c64c9a4f9e9dcdcc876ab11b372108cddab4914e5c17a2008"
+    },
+    {
+      "id": "c03s06-feedback-0",
+      "file": "audio/clips/c03s06-feedback-0.m4a",
+      "duration": 4.3,
+      "bytes": 69073,
+      "sha256": "0c5c9b4ba130313082e407158d510af7974e68fb913178fb13a389f81cc18948"
+    },
+    {
+      "id": "c03s06-feedback-1",
+      "file": "audio/clips/c03s06-feedback-1.m4a",
+      "duration": 5.1,
+      "bytes": 87952,
+      "sha256": "c462b27c07ca0deea4101954dee98867c3fa966fa67ab74a59f4037f765e34c1"
+    },
+    {
+      "id": "c03s06-feedback-2",
+      "file": "audio/clips/c03s06-feedback-2.m4a",
+      "duration": 4.8,
+      "bytes": 80578,
+      "sha256": "3683b31e6c85090723334c1e442f55135acfbd1f71f377657ba26bafc6b41dd6"
+    },
+    {
+      "id": "c03s07",
+      "file": "audio/clips/c03s07.m4a",
+      "duration": 12.8,
+      "bytes": 211947,
+      "sha256": "4cf888d5481f3ab543912c71f0b793107ef9fd5a15e2c0870a5054ce08208123"
+    },
+    {
+      "id": "c03s07-answers",
+      "file": "audio/clips/c03s07-answers.m4a",
+      "duration": 14.3,
+      "bytes": 268013,
+      "sha256": "2075a75f4e42e3de790cdd6e1e1d5a5b9c9c47ce2d02d3e59eae29cc64f62623"
+    },
+    {
+      "id": "c03s08",
+      "file": "audio/clips/c03s08.m4a",
+      "duration": 13.4,
+      "bytes": 272319,
+      "sha256": "a940f99392c9353d9c4e28d515a0ad764c6cb326cfc3713924e95cedd592177a"
+    },
+    {
+      "id": "c04s01",
+      "file": "audio/clips/c04s01.m4a",
+      "duration": 13.0,
+      "bytes": 267507,
+      "sha256": "ed7d343627e8eb62699aa4d7cb1b66e50857cf92f78fc2840ff9d79c93471dd3"
+    },
+    {
+      "id": "c04s02",
+      "file": "audio/clips/c04s02.m4a",
+      "duration": 21.5,
+      "bytes": 393924,
+      "sha256": "f8412e769bda9b159f33b570212250caeb403bebde475c07eeea4bcf7554bcdc"
+    },
+    {
+      "id": "c04s02-feedback-0",
+      "file": "audio/clips/c04s02-feedback-0.m4a",
+      "duration": 4.1,
+      "bytes": 86992,
+      "sha256": "48b9ef1dc4bcede083f9798da41d37e5213cd19fcfbbe8f7d40151af109e7534"
+    },
+    {
+      "id": "c04s02-feedback-1",
+      "file": "audio/clips/c04s02-feedback-1.m4a",
+      "duration": 3.2,
+      "bytes": 69764,
+      "sha256": "cd7742e468e6c68fac32b44a7f711fa40d1824872163b64c2796a34dda5202ef"
+    },
+    {
+      "id": "c04s02-feedback-2",
+      "file": "audio/clips/c04s02-feedback-2.m4a",
+      "duration": 4.7,
+      "bytes": 100715,
+      "sha256": "b8a285b30a715bf47954f85e291b24b671647914774a3adea1d444647d89de17"
+    },
+    {
+      "id": "c04s03",
+      "file": "audio/clips/c04s03.m4a",
+      "duration": 31.3,
+      "bytes": 627883,
+      "sha256": "35ce566685cea7ed4c0a4bfdeeeec8889e69d4c40d54f76eaa35ba597ef61d43"
+    },
+    {
+      "id": "c04s03b",
+      "file": "audio/clips/c04s03b.m4a",
+      "duration": 31.3,
+      "bytes": 636258,
+      "sha256": "37902d98bc1143d355e890cccb7a3b54336637bb8ec6be436a18af9729acf4ef"
+    },
+    {
+      "id": "c04s04",
+      "file": "audio/clips/c04s04.m4a",
+      "duration": 30.6,
+      "bytes": 626278,
+      "sha256": "5c4b1e2f1e6f176594b8a140cb3d3ddd564f887d8269d5512ed16e2397193e5b"
+    },
+    {
+      "id": "c04s05",
+      "file": "audio/clips/c04s05.m4a",
+      "duration": 16.5,
+      "bytes": 334749,
+      "sha256": "d891478c76999bbaae859eaa7e71211610da90fa290e9011c165aeb41637992b"
+    },
+    {
+      "id": "c04s06",
+      "file": "audio/clips/c04s06.m4a",
+      "duration": 26.0,
+      "bytes": 458936,
+      "sha256": "d761a933a2d65eea0066da3e0205ea2334996844160a1d3c0518727bef2a049d"
+    },
+    {
+      "id": "c04s06-feedback-0",
+      "file": "audio/clips/c04s06-feedback-0.m4a",
+      "duration": 4.2,
+      "bytes": 66647,
+      "sha256": "246326ba97dbf732fa9ec2946ee9285565c64ff8ed53529aeeeadaf0aee482d8"
+    },
+    {
+      "id": "c04s06-feedback-1",
+      "file": "audio/clips/c04s06-feedback-1.m4a",
+      "duration": 4.3,
+      "bytes": 68368,
+      "sha256": "0bad779fcd723b49a8c0ac67794a3b5afa89a48733f0418e764044b4ea96d073"
+    },
+    {
+      "id": "c04s06-feedback-2",
+      "file": "audio/clips/c04s06-feedback-2.m4a",
+      "duration": 4.2,
+      "bytes": 69223,
+      "sha256": "6b98b8ebeb0303288684765ec12f81aa0abdabd0278108192a23122fa1f49019"
+    },
+    {
+      "id": "c04s07",
+      "file": "audio/clips/c04s07.m4a",
+      "duration": 13.3,
+      "bytes": 222131,
+      "sha256": "44c8d5b61c20048a4eb297f0c71ab82c59d5cb1103070fd208e450a120289a77"
+    },
+    {
+      "id": "c04s07-answers",
+      "file": "audio/clips/c04s07-answers.m4a",
+      "duration": 11.4,
+      "bytes": 205238,
+      "sha256": "ca2022a966bed322d486e547633a0df49719309f1cbd5e9fdba328a000aad69d"
+    },
+    {
+      "id": "c04s08",
+      "file": "audio/clips/c04s08.m4a",
+      "duration": 13.1,
+      "bytes": 265684,
+      "sha256": "62c93a41908627a6d39f67c79784beed587890a35ddc0eccbe40016e71b06fc3"
+    },
+    {
+      "id": "c05s01",
+      "file": "audio/clips/c05s01.m4a",
+      "duration": 12.0,
+      "bytes": 247957,
+      "sha256": "045baf754a46fd087a86d3b727e326925f89adfa922013fa7439cfa77a7ecb9b"
+    },
+    {
+      "id": "c05s02",
+      "file": "audio/clips/c05s02.m4a",
+      "duration": 21.0,
+      "bytes": 381946,
+      "sha256": "a97105a42b1ffa74f07d326dbf1f825623d2faa908a0048faaad74ae2176c01b"
+    },
+    {
+      "id": "c05s02-feedback-0",
+      "file": "audio/clips/c05s02-feedback-0.m4a",
+      "duration": 3.4,
+      "bytes": 70915,
+      "sha256": "6f31921f1d3d7a8f3704128d5a61b6101598302ef92b9c69c1ebc2a0eeab31a2"
+    },
+    {
+      "id": "c05s02-feedback-1",
+      "file": "audio/clips/c05s02-feedback-1.m4a",
+      "duration": 3.1,
+      "bytes": 65843,
+      "sha256": "e9363a76e76caf77bceda70a5a4cce70e6e9d783af5238f1d184c9eb656606f9"
+    },
+    {
+      "id": "c05s02-feedback-2",
+      "file": "audio/clips/c05s02-feedback-2.m4a",
+      "duration": 4.3,
+      "bytes": 88633,
+      "sha256": "0a28a03eaa3a425bb61d7577c3e8264a6a71fe1cf0effc2f4e7e1bbc2fd8b14e"
+    },
+    {
+      "id": "c05s03",
+      "file": "audio/clips/c05s03.m4a",
+      "duration": 37.4,
+      "bytes": 764118,
+      "sha256": "07eda206668d0d3d79f95f5ecf9127dc9ba858e1a65f7ee9bd72bc027e12e613"
+    },
+    {
+      "id": "c05s03b",
+      "file": "audio/clips/c05s03b.m4a",
+      "duration": 34.6,
+      "bytes": 705510,
+      "sha256": "811432cce7e52b7d5f3cb0029b022d5b4bf491086193687bc24d3cbef5e6e008"
+    },
+    {
+      "id": "c05s04",
+      "file": "audio/clips/c05s04.m4a",
+      "duration": 32.0,
+      "bytes": 643732,
+      "sha256": "67aad45fdec83be037b19f83ee1b98e9922c30b19c0f1a09657fb8e939ea613e"
+    },
+    {
+      "id": "c05s05",
+      "file": "audio/clips/c05s05.m4a",
+      "duration": 19.9,
+      "bytes": 409719,
+      "sha256": "9e8c402f0bdc84543952d600c9880ddc868bb87e51ed895cf8120bf13bf1f02d"
+    },
+    {
+      "id": "c05s06",
+      "file": "audio/clips/c05s06.m4a",
+      "duration": 27.1,
+      "bytes": 483400,
+      "sha256": "5790ee3250f8f3c9c03ce6e1d4569c70b31871eb7dee10b98aacac083c33dd9d"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "file": "audio/clips/c05s06-feedback-0.m4a",
+      "duration": 4.8,
+      "bytes": 82607,
+      "sha256": "1760ff11c14d3c5b5ec74c979081f1a66f73260d17457b50443a432736501172"
+    },
+    {
+      "id": "c05s06-feedback-1",
+      "file": "audio/clips/c05s06-feedback-1.m4a",
+      "duration": 4.8,
+      "bytes": 79457,
+      "sha256": "1f8fa60f312f46c6757545cf21a1e8de9f551db7a9457c644ef15f37e35d5e54"
+    },
+    {
+      "id": "c05s06-feedback-2",
+      "file": "audio/clips/c05s06-feedback-2.m4a",
+      "duration": 4.4,
+      "bytes": 71290,
+      "sha256": "4425166f46f76aa97f0e20e40f9c2dee1ed5177708fbd451ef3096136a8d84ed"
+    },
+    {
+      "id": "c05s07",
+      "file": "audio/clips/c05s07.m4a",
+      "duration": 14.0,
+      "bytes": 235934,
+      "sha256": "c8aae71b104d5288f0015d487aefdd5ada8f393da5d08071fe972ab2d14492d9"
+    },
+    {
+      "id": "c05s07-answers",
+      "file": "audio/clips/c05s07-answers.m4a",
+      "duration": 12.8,
+      "bytes": 238398,
+      "sha256": "33ad3df3906a30ce4c0a159b1f59c236e635eace26b478a8d520ef0089aa279c"
+    },
+    {
+      "id": "c05s08",
+      "file": "audio/clips/c05s08.m4a",
+      "duration": 14.0,
+      "bytes": 284279,
+      "sha256": "d25e72783a902faee62afdca365d11ee9750f2be4a1233e1cd63ddf0e7e598bc"
+    },
+    {
+      "id": "c06s01",
+      "file": "audio/clips/c06s01.m4a",
+      "duration": 14.4,
+      "bytes": 302496,
+      "sha256": "c97b81460519ad1df8de1f41396c803e6a9c6045aa7373cc2156c18a659c6a9d"
+    },
+    {
+      "id": "c06s02",
+      "file": "audio/clips/c06s02.m4a",
+      "duration": 21.4,
+      "bytes": 394307,
+      "sha256": "0dbebbb4e05506876f152af526fa358b60829478c399e9790f7aa3581c235475"
+    },
+    {
+      "id": "c06s02-feedback-0",
+      "file": "audio/clips/c06s02-feedback-0.m4a",
+      "duration": 2.965,
+      "bytes": 62411,
+      "sha256": "8de18335c5a589e25f9970f13d4ca7a27d6945e2d6d707e40926ffaf5e43e021"
+    },
+    {
+      "id": "c06s02-feedback-1",
+      "file": "audio/clips/c06s02-feedback-1.m4a",
+      "duration": 3.5,
+      "bytes": 72982,
+      "sha256": "8e651d7dc1f9af3e4d7e3cd7101b7d9ea953a75eb9073fb8db9be27cdfcadf23"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "file": "audio/clips/c06s02-feedback-2.m4a",
+      "duration": 4.0,
+      "bytes": 83240,
+      "sha256": "693276a731981c4d21c7620a5117e2da77beff691b833f03046a20d5df9dfdd8"
+    },
+    {
+      "id": "c06s03",
+      "file": "audio/clips/c06s03.m4a",
+      "duration": 29.4,
+      "bytes": 598417,
+      "sha256": "ca6c8fa7140b1575685319b56e62e71965c1badc63d3177cefbd82833d940efc"
+    },
+    {
+      "id": "c06s03b",
+      "file": "audio/clips/c06s03b.m4a",
+      "duration": 30.0,
+      "bytes": 605977,
+      "sha256": "55e8e88fefc4504fd699a7aa4b3354cde39372a27f557b7960d954ecdc9254e2"
+    },
+    {
+      "id": "c06s04",
+      "file": "audio/clips/c06s04.m4a",
+      "duration": 36.5,
+      "bytes": 742592,
+      "sha256": "7612bc2a6cdda0e7e90b4808c977eab7acdc6ab27d0f80ce0074de24c666b8be"
+    },
+    {
+      "id": "c06s05",
+      "file": "audio/clips/c06s05.m4a",
+      "duration": 19.4,
+      "bytes": 396382,
+      "sha256": "b0accdf67141e313283fe667d21d0d09db249c9aca1ad2eddb71174239c89df9"
+    },
+    {
+      "id": "c06s06",
+      "file": "audio/clips/c06s06.m4a",
+      "duration": 29.1,
+      "bytes": 525038,
+      "sha256": "a91c0a33ef8ada0ca4c49a15a1a8b93443ece9bb299e577579acb2d8659513b4"
+    },
+    {
+      "id": "c06s06-feedback-0",
+      "file": "audio/clips/c06s06-feedback-0.m4a",
+      "duration": 4.8,
+      "bytes": 80587,
+      "sha256": "1b1eb528c375b0bb3f3ba5fdbc355890bacacb515bd2d1994cde8117566908f1"
+    },
+    {
+      "id": "c06s06-feedback-1",
+      "file": "audio/clips/c06s06-feedback-1.m4a",
+      "duration": 4.6,
+      "bytes": 75987,
+      "sha256": "92ec8c453e566607c245ec8e269a61e1a06c21de87676166543b70ca57fa8880"
+    },
+    {
+      "id": "c06s06-feedback-2",
+      "file": "audio/clips/c06s06-feedback-2.m4a",
+      "duration": 5.5,
+      "bytes": 96814,
+      "sha256": "aa9061318b6bdc727cb5cfcc8ec86d9da537f56ef0283ab442fddc28b2ea4291"
+    },
+    {
+      "id": "c06s07",
+      "file": "audio/clips/c06s07.m4a",
+      "duration": 15.4,
+      "bytes": 269260,
+      "sha256": "0f23a1a3363726f3a6b0f072d79b139ec7e06fa7b399a3a732e7cd7d5cc9a456"
+    },
+    {
+      "id": "c06s07-answers",
+      "file": "audio/clips/c06s07-answers.m4a",
+      "duration": 15.9,
+      "bytes": 301866,
+      "sha256": "28d8df5de8c8d3d1055e70487c1ffb65f88c5fbdb1069000e688bbf01bdab796"
+    },
+    {
+      "id": "c06s08",
+      "file": "audio/clips/c06s08.m4a",
+      "duration": 14.5,
+      "bytes": 293705,
+      "sha256": "dbd26c950152948da81381e164d7005d2a4ddf289dff531cbca085bf4bdf6e28"
+    },
+    {
+      "id": "c07s01",
+      "file": "audio/clips/c07s01.m4a",
+      "duration": 13.7,
+      "bytes": 289563,
+      "sha256": "2a3653253a01d9182a1c7b6a3dc8831010b8d0b41d142bb834b30cee7d7cc3c4"
+    },
+    {
+      "id": "c07s02",
+      "file": "audio/clips/c07s02.m4a",
+      "duration": 22.1,
+      "bytes": 410271,
+      "sha256": "d99eab667484d4fa29682403a7bbf6824863ac3e3a4dac515eedb87b08e0fa13"
+    },
+    {
+      "id": "c07s02-feedback-0",
+      "file": "audio/clips/c07s02-feedback-0.m4a",
+      "duration": 4.6,
+      "bytes": 94943,
+      "sha256": "fd7e3b1b90d6da77d90c2c9533ce1e3c34a73961b1cbb12f7a0bd69c78cc7cb9"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "file": "audio/clips/c07s02-feedback-1.m4a",
+      "duration": 2.858,
+      "bytes": 61766,
+      "sha256": "262662fd2840824989cae9e3d8363b05a20ec6932519a029ad75b07f2fbc9eaa"
+    },
+    {
+      "id": "c07s02-feedback-2",
+      "file": "audio/clips/c07s02-feedback-2.m4a",
+      "duration": 5.1,
+      "bytes": 106253,
+      "sha256": "600101fb4578e54340fca856fbbc82c688508910c2024f3f94e003e43c8f0b9a"
+    },
+    {
+      "id": "c07s03",
+      "file": "audio/clips/c07s03.m4a",
+      "duration": 37.6,
+      "bytes": 761338,
+      "sha256": "aa1df29e9c1c0300d2a0d927384222c486e7807fbe400fdd84ce84cbd5c2be6b"
+    },
+    {
+      "id": "c07s03b",
+      "file": "audio/clips/c07s03b.m4a",
+      "duration": 41.5,
+      "bytes": 851352,
+      "sha256": "4e79caacf4ff44cb800fdacf42044c68d75628e42035f97820260df9a01703bc"
+    },
+    {
+      "id": "c07s04",
+      "file": "audio/clips/c07s04.m4a",
+      "duration": 37.0,
+      "bytes": 752514,
+      "sha256": "d0b47abce6c8fe948ad4a8a4a2c4f926a713f3948a1561c59308c2bdd3c47c2c"
+    },
+    {
+      "id": "c07s05",
+      "file": "audio/clips/c07s05.m4a",
+      "duration": 18.7,
+      "bytes": 387093,
+      "sha256": "cfef8f42821eabc32bcd72820792bb3167cd3b3cbb3ca4609bd57b5aab237c67"
+    },
+    {
+      "id": "c07s06",
+      "file": "audio/clips/c07s06.m4a",
+      "duration": 26.5,
+      "bytes": 468300,
+      "sha256": "4b4559b05250908ba4a0f70a6ef1d5968f75bfa3863ed1fa5baa030e90c55057"
+    },
+    {
+      "id": "c07s06-feedback-0",
+      "file": "audio/clips/c07s06-feedback-0.m4a",
+      "duration": 5.8,
+      "bytes": 102015,
+      "sha256": "2f7e49935dfb2c6f4b592057c8e53677a37f16ee2e6ff232edb0c4fa23a77f2b"
+    },
+    {
+      "id": "c07s06-feedback-1",
+      "file": "audio/clips/c07s06-feedback-1.m4a",
+      "duration": 4.6,
+      "bytes": 76288,
+      "sha256": "68c133fa71069c003f18546338ec9b9d3264cfb2c4eed9f5da72e5b4d5270081"
+    },
+    {
+      "id": "c07s06-feedback-2",
+      "file": "audio/clips/c07s06-feedback-2.m4a",
+      "duration": 4.2,
+      "bytes": 69047,
+      "sha256": "db80cca88ec2c70a05dccca69c7ea24c74fc4d1264213d329b5cbcdbea740031"
+    },
+    {
+      "id": "c07s07",
+      "file": "audio/clips/c07s07.m4a",
+      "duration": 13.9,
+      "bytes": 236559,
+      "sha256": "71e65b79bc50771db142b558d0ef6c0108592a10508d0ce98dbc30876fe806cb"
+    },
+    {
+      "id": "c07s07-answers",
+      "file": "audio/clips/c07s07-answers.m4a",
+      "duration": 11.6,
+      "bytes": 215157,
+      "sha256": "54cd1cceff623d5fddb2906d274355f003a5ae0969f12042d215c0cc73c35f48"
+    },
+    {
+      "id": "c07s08",
+      "file": "audio/clips/c07s08.m4a",
+      "duration": 14.3,
+      "bytes": 288752,
+      "sha256": "872acd4bb8efdb4e23191109d0be53c5c435530ed01be06d95ea590faf8d409b"
+    },
+    {
+      "id": "c08s01",
+      "file": "audio/clips/c08s01.m4a",
+      "duration": 11.9,
+      "bytes": 249419,
+      "sha256": "50756a1341ab875b3abcf2d4413b7ca3685bda4fef5f57f1db0909d90082bc83"
+    },
+    {
+      "id": "c08s02",
+      "file": "audio/clips/c08s02.m4a",
+      "duration": 17.7,
+      "bytes": 313612,
+      "sha256": "d1f31da8a9b96e1973ec4babd4325b5f002a3a85ae8fc20d11a3ce9a9eea2cb1"
+    },
+    {
+      "id": "c08s02-feedback-0",
+      "file": "audio/clips/c08s02-feedback-0.m4a",
+      "duration": 3.7,
+      "bytes": 77338,
+      "sha256": "b936a41a8163f69a5b5a2f7f740e4ba5caddf813c4d878d5fb76c411beb39f6e"
+    },
+    {
+      "id": "c08s02-feedback-1",
+      "file": "audio/clips/c08s02-feedback-1.m4a",
+      "duration": 4.2,
+      "bytes": 89384,
+      "sha256": "f421d2b1102f607bdee85a10803e630b4d52fb845e0f9f4d90cbd56dc649c77c"
+    },
+    {
+      "id": "c08s02-feedback-2",
+      "file": "audio/clips/c08s02-feedback-2.m4a",
+      "duration": 2.73,
+      "bytes": 56061,
+      "sha256": "1eb2421cb44b291e9eac3022b8a0d22e8de30dfcd39f421e2991f10ddb60fcf0"
+    },
+    {
+      "id": "c08s03",
+      "file": "audio/clips/c08s03.m4a",
+      "duration": 31.1,
+      "bytes": 633963,
+      "sha256": "adf1d4096e836db92a97d8da9cd2fd21ef1622718e3e65a3a973b86051c200e2"
+    },
+    {
+      "id": "c08s03b",
+      "file": "audio/clips/c08s03b.m4a",
+      "duration": 35.0,
+      "bytes": 716490,
+      "sha256": "d23fb1e52080c307df11a97abf15577a9d4e4421d77563feeb7beb008af0ff4a"
+    },
+    {
+      "id": "c08s04",
+      "file": "audio/clips/c08s04.m4a",
+      "duration": 40.6,
+      "bytes": 831730,
+      "sha256": "5533ee9b202604ac4f92c469521782a845ed77b87feaa51cdba557258bd44311"
+    },
+    {
+      "id": "c08s05",
+      "file": "audio/clips/c08s05.m4a",
+      "duration": 18.4,
+      "bytes": 376128,
+      "sha256": "cfab8d5757531645731fd9ff676651607a9b143e60a863f7fa89f4cf84526656"
+    },
+    {
+      "id": "c08s06",
+      "file": "audio/clips/c08s06.m4a",
+      "duration": 29.0,
+      "bytes": 523420,
+      "sha256": "c9586771e0edab7b1c5f5bd9946fdd9d997c56941e35c832b1c7dc801527f401"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "file": "audio/clips/c08s06-feedback-0.m4a",
+      "duration": 5.2,
+      "bytes": 89043,
+      "sha256": "1c52bac3134e0c43891e9641e10739928c3f42442f1ea7dd624a5631093a6434"
+    },
+    {
+      "id": "c08s06-feedback-1",
+      "file": "audio/clips/c08s06-feedback-1.m4a",
+      "duration": 5.7,
+      "bytes": 100863,
+      "sha256": "4f4a2efb4246811897f0b378cff47371927de4fa01799800715c1b94df6b00ee"
+    },
+    {
+      "id": "c08s06-feedback-2",
+      "file": "audio/clips/c08s06-feedback-2.m4a",
+      "duration": 3.1,
+      "bytes": 45539,
+      "sha256": "deffe52cc2c706240947eebdc28a4ac5b967772c6b0ec1ca4ac343b9acaef15f"
+    },
+    {
+      "id": "c08s07",
+      "file": "audio/clips/c08s07.m4a",
+      "duration": 14.3,
+      "bytes": 245412,
+      "sha256": "1851aba194b3ee7d9460e169abe98177ff840a0b88b994907e1f6d1bc77c264e"
+    },
+    {
+      "id": "c08s07-answers",
+      "file": "audio/clips/c08s07-answers.m4a",
+      "duration": 13.1,
+      "bytes": 242658,
+      "sha256": "6896ff9596621f2f6793d3f8b544d3377ceb54948aa33023ce233559da6a8a00"
+    },
+    {
+      "id": "c08s08",
+      "file": "audio/clips/c08s08.m4a",
+      "duration": 13.2,
+      "bytes": 269616,
+      "sha256": "28f821ba4af83ec2f5d92fa47d6515a48acb0f1ea11e61f75ee8e3a6e62f47d1"
+    },
+    {
+      "id": "c09s01",
+      "file": "audio/clips/c09s01.m4a",
+      "duration": 15.2,
+      "bytes": 316580,
+      "sha256": "d1797c513a1154a6e0cd009a12458a18d0f13aab6e2f6f7c6607cd8b4e23737b"
+    },
+    {
+      "id": "c09s02",
+      "file": "audio/clips/c09s02.m4a",
+      "duration": 20.3,
+      "bytes": 363999,
+      "sha256": "18f07398047724dd8440e058e5cca956e5426e8c6e579e305809673ecf739245"
+    },
+    {
+      "id": "c09s02-feedback-0",
+      "file": "audio/clips/c09s02-feedback-0.m4a",
+      "duration": 4.1,
+      "bytes": 87104,
+      "sha256": "67a9508090fff8d204569bc469dc5c59db35cb5fc0b5498bcf1a0e9cac1b8e49"
+    },
+    {
+      "id": "c09s02-feedback-1",
+      "file": "audio/clips/c09s02-feedback-1.m4a",
+      "duration": 3.7,
+      "bytes": 79277,
+      "sha256": "18167faddc9a1e2f976baa06c283888c012de632d21389bd50c07691b12d42a4"
+    },
+    {
+      "id": "c09s02-feedback-2",
+      "file": "audio/clips/c09s02-feedback-2.m4a",
+      "duration": 3.8,
+      "bytes": 80067,
+      "sha256": "e95464a217720267641561182fc3179fa71e485683921c4548f29ab0f239c95a"
+    },
+    {
+      "id": "c09s03",
+      "file": "audio/clips/c09s03.m4a",
+      "duration": 39.4,
+      "bytes": 801406,
+      "sha256": "bc29597f17273d62857e0cb60ccf6e4a6631bc032ae3736df4e7bb020dab7366"
+    },
+    {
+      "id": "c09s03b",
+      "file": "audio/clips/c09s03b.m4a",
+      "duration": 27.2,
+      "bytes": 547316,
+      "sha256": "961bcd0db40ca6f3a3cec2bd1f2aa0c800d8b26d02a755208ff5412c871e2c49"
+    },
+    {
+      "id": "c09s04",
+      "file": "audio/clips/c09s04.m4a",
+      "duration": 37.8,
+      "bytes": 776047,
+      "sha256": "c85a10352299eabe273ebc16d0ab421e61e15bdb90d155a253a39a1310fda343"
+    },
+    {
+      "id": "c09s05",
+      "file": "audio/clips/c09s05.m4a",
+      "duration": 21.2,
+      "bytes": 433052,
+      "sha256": "6f5dfe6a5b6b8e32511da3a207b06d35e32c261b47fbce4819bf9c9d7bcd775f"
+    },
+    {
+      "id": "c09s06",
+      "file": "audio/clips/c09s06.m4a",
+      "duration": 30.7,
+      "bytes": 560420,
+      "sha256": "12755ffae1b2f6353d2a3d8d8a4101cfc2e66125f2fde82929acc854e021a1e5"
+    },
+    {
+      "id": "c09s06-feedback-0",
+      "file": "audio/clips/c09s06-feedback-0.m4a",
+      "duration": 4.7,
+      "bytes": 79377,
+      "sha256": "b5e8f1f9d42c72bc869e70eca1439b08b7ff62fd169023b9c9714ecff4e3132e"
+    },
+    {
+      "id": "c09s06-feedback-1",
+      "file": "audio/clips/c09s06-feedback-1.m4a",
+      "duration": 5.1,
+      "bytes": 87627,
+      "sha256": "9c02b7bdd1235385b97912271a2fd1e0c2234ae0930345add4862c251ff7f3d3"
+    },
+    {
+      "id": "c09s06-feedback-2",
+      "file": "audio/clips/c09s06-feedback-2.m4a",
+      "duration": 5.1,
+      "bytes": 87304,
+      "sha256": "214ab934decf5e7a5456ef8880ff632fde53f08dbb819b2e29fe54099c42baac"
+    },
+    {
+      "id": "c09s07",
+      "file": "audio/clips/c09s07.m4a",
+      "duration": 13.4,
+      "bytes": 225232,
+      "sha256": "178fa85cdbe0355504d9ecee36a2be5b768674ebb1cf63b8019d3764f86c136c"
+    },
+    {
+      "id": "c09s07-answers",
+      "file": "audio/clips/c09s07-answers.m4a",
+      "duration": 11.0,
+      "bytes": 203699,
+      "sha256": "d486ed7cf39aef6c0ba9c6d00fc0b26b162e6a54153e0a25a8f3ea278a9960d3"
+    },
+    {
+      "id": "c09s08",
+      "file": "audio/clips/c09s08.m4a",
+      "duration": 15.3,
+      "bytes": 312587,
+      "sha256": "bd84691166ae536f915bcb54df0da49270a99a5871b7a0d4ce72ed3a8e21916d"
+    },
+    {
+      "id": "c10s01",
+      "file": "audio/clips/c10s01.m4a",
+      "duration": 15.0,
+      "bytes": 318396,
+      "sha256": "716908a2982027130eba4d02b62f4d4a9195025b5820a237d1ad515229d93745"
+    },
+    {
+      "id": "c10s02",
+      "file": "audio/clips/c10s02.m4a",
+      "duration": 21.8,
+      "bytes": 399216,
+      "sha256": "c4ddb2d034d0abfca97dbec4288a877159ded6e9d248d96425e67c498f68ee44"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "file": "audio/clips/c10s02-feedback-0.m4a",
+      "duration": 3.5,
+      "bytes": 72523,
+      "sha256": "19dc8aaed1ff8d0faa23a2ef5ae43d22c7ef6e55e3a4f9d9464a720843856a12"
+    },
+    {
+      "id": "c10s02-feedback-1",
+      "file": "audio/clips/c10s02-feedback-1.m4a",
+      "duration": 3.4,
+      "bytes": 71987,
+      "sha256": "b45287a7f5d72590d2f23e706064b40761c63c4f798848698e2012c25ff5e306"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "file": "audio/clips/c10s02-feedback-2.m4a",
+      "duration": 3.2,
+      "bytes": 68078,
+      "sha256": "cdb3e24d54b8e03a8be27868060598a316972d644759343207ad9637260a264f"
+    },
+    {
+      "id": "c10s03",
+      "file": "audio/clips/c10s03.m4a",
+      "duration": 38.8,
+      "bytes": 791896,
+      "sha256": "bec315428aee4f53b64384a4fb79c73bf6efbcf81115b0cbb0366be09b5b7b2f"
+    },
+    {
+      "id": "c10s03b",
+      "file": "audio/clips/c10s03b.m4a",
+      "duration": 33.9,
+      "bytes": 683332,
+      "sha256": "70df6abf0fccb546e7e258421cc4ace642341a0e3ce8b0d5765d16c25ae8c631"
+    },
+    {
+      "id": "c10s04",
+      "file": "audio/clips/c10s04.m4a",
+      "duration": 37.3,
+      "bytes": 755914,
+      "sha256": "54662ccd92bf3d9486c1d1ead19ab83d1b5923d17175575854b722ed5b0c94c7"
+    },
+    {
+      "id": "c10s05",
+      "file": "audio/clips/c10s05.m4a",
+      "duration": 21.1,
+      "bytes": 432698,
+      "sha256": "db5a9d00f16723381da13b623d55409ae06d22239a18e9b5c5dc6274fe97e28b"
+    },
+    {
+      "id": "c10s06",
+      "file": "audio/clips/c10s06.m4a",
+      "duration": 31.0,
+      "bytes": 560871,
+      "sha256": "ee66fba8be3d24d7714472b5e7933222820a7c3658c89936db495e04a86f166c"
+    },
+    {
+      "id": "c10s06-feedback-0",
+      "file": "audio/clips/c10s06-feedback-0.m4a",
+      "duration": 4.2,
+      "bytes": 68002,
+      "sha256": "5591c76275f2a0db0915e5ced66ea3589e3e1f431edfdef581842863fc90e695"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "file": "audio/clips/c10s06-feedback-1.m4a",
+      "duration": 5.0,
+      "bytes": 84032,
+      "sha256": "fb4689b33bcf7f6f1b1d1cbbe376b97ff5fbc4ab740aed86a6ad54dc172b5678"
+    },
+    {
+      "id": "c10s06-feedback-2",
+      "file": "audio/clips/c10s06-feedback-2.m4a",
+      "duration": 6.0,
+      "bytes": 105825,
+      "sha256": "eec506f518d5bc02fc2c6c796f48b5e79d673b54412a09b38917707b0dca3e47"
+    },
+    {
+      "id": "c10s07",
+      "file": "audio/clips/c10s07.m4a",
+      "duration": 12.9,
+      "bytes": 213657,
+      "sha256": "0621e50dced3742e310a294231d372e9b44cfe845eb31d2c9efb221b4add698d"
+    },
+    {
+      "id": "c10s07-answers",
+      "file": "audio/clips/c10s07-answers.m4a",
+      "duration": 12.4,
+      "bytes": 231215,
+      "sha256": "8410b9319d720c53b762c382006bbe065fd626505a58d100a515124f9a45175f"
+    },
+    {
+      "id": "c10s08",
+      "file": "audio/clips/c10s08.m4a",
+      "duration": 14.0,
+      "bytes": 284625,
+      "sha256": "6347dfef56da62aa9e3f51fd673ac91747dc29a0553eeaff1ff4a0c248f0101a"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Why can mean several different questions",
+      "file": "audio/chapters/chapter-01.m4a",
+      "duration": 244.7,
+      "sha256": "51df06a184103e8f61a2e27775f1617af326a3a259c2e21068ca1e242a592a26"
+    },
+    {
+      "chapter": 2,
+      "title": "Selection has no foresight",
+      "file": "audio/chapters/chapter-02.m4a",
+      "duration": 246.0,
+      "sha256": "6bebe99674a179c8ad31428b6715c649d6a1f7ee2af1ef5c9057b761d2fa09e1"
+    },
+    {
+      "chapter": 3,
+      "title": "A useful feature is not automatically an adaptation",
+      "file": "audio/chapters/chapter-03.m4a",
+      "duration": 245.1,
+      "sha256": "2d4909012561bab2fd21f80f7fd5edac86912c0937a8d8408a3d04afd0df0f12"
+    },
+    {
+      "chapter": 4,
+      "title": "Genes and learning do not take turns",
+      "file": "audio/chapters/chapter-04.m4a",
+      "duration": 233.7,
+      "sha256": "63ab4aaff8ee221d1b579dcc9995f3e3bb60a1e20c1518ffc09e20b8c8897e2f"
+    },
+    {
+      "chapter": 5,
+      "title": "Helping relatives has more than one explanation",
+      "file": "audio/chapters/chapter-05.m4a",
+      "duration": 250.1,
+      "sha256": "49df0f9aa71e996ecac4693b8f589a914bdc98fc18cc75e0a58aa999a47a7dd1"
+    },
+    {
+      "chapter": 6,
+      "title": "Cooperation can depend on the game",
+      "file": "audio/chapters/chapter-06.m4a",
+      "duration": 251.2,
+      "sha256": "28c13f1a3304714eebb5084deecc89137308cfe01525c33d8025e352e2d7effa"
+    },
+    {
+      "chapter": 7,
+      "title": "Relationships are not an ancestral instruction manual",
+      "file": "audio/chapters/chapter-07.m4a",
+      "duration": 263.6,
+      "sha256": "b1de65d26b46f58a5f526c1c98d66b779eb2a418f5fbbedaa9fac79b0e53598a"
+    },
+    {
+      "chapter": 8,
+      "title": "Culture also changes across generations",
+      "file": "audio/chapters/chapter-08.m4a",
+      "duration": 251.3,
+      "sha256": "cb8cce1fc3ce3ad1ace5877413b8a2fa6a70d35a33f6f25bf54ec6b794e43fea"
+    },
+    {
+      "chapter": 9,
+      "title": "A universal claim needs varied evidence",
+      "file": "audio/chapters/chapter-09.m4a",
+      "duration": 258.1,
+      "sha256": "a73e2a4b82397cb8b873eee0fbc2e01731bc792f2facbd0a461ea0a8fd3ae80d"
+    },
+    {
+      "chapter": 10,
+      "title": "An explanation is not an instruction",
+      "file": "audio/chapters/chapter-10.m4a",
+      "duration": 265.0,
+      "sha256": "3f188f6498c4637526bb9fee65787d05dc3d2d5a7c0d78eaa2c7bfd056d594f8"
+    }
+  ],
+  "review": "Independent ASR and phoneme screening; not a human listening review"
+}

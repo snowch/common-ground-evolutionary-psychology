@@ -1,0 +1,2004 @@
+{
+  "method": "Independent transcription of raw synthesized speech; not human listening approval.",
+  "clips": [
+    {
+      "id": "c01s01",
+      "expected": "At the café, people help a visitor lift a heavy table. Leo asks why they helped. Sam mentions concern, Maya mentions learned cooperation, and another visitor proposes an evolutionary benefit. Are they answering the same question?",
+      "heard": "At the cafe, people help a visitor lift a heavy table. Leo asks why they helped. Sam mentions concern, Maya mentions learned cooperation, and another visitor proposes an evolutionary benefit. Are they answering the same question?",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.189,
+      "wpm": 142.2,
+      "peak": 0.615203857421875,
+      "flags": [],
+      "raw_sha256": "c337ae290652ab08628474a013c6c941ae228092b066998dbdb8952c69dac754"
+    },
+    {
+      "id": "c01s02",
+      "expected": "First, make a prediction about the café story.\n\nWhich distinction helps the discussion?\n\nA. Current motives and evolutionary history answer different questions.\n\nB. An evolutionary hypothesis proves hidden selfish intent.\n\nC. A learned practice excludes all biological influence.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. Which distinction helps the discussion? A, current motives and evolutionary history answer different questions. B, an evolutionary hypothesis proves hidden selfish intent. C, a learned practice excludes all biological influence. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 22.621,
+      "wpm": 139.4,
+      "peak": 0.4822998046875,
+      "flags": [],
+      "raw_sha256": "54d8634cc8591757cab7df7416577aa9af862af187fbb682a3539ddec341d519"
+    },
+    {
+      "id": "c01s02-feedback-0",
+      "expected": "The accounts can be complementary without identifying the same process.",
+      "heard": "The accounts can be complimentary without identifying the same process.",
+      "ratio": 0.9,
+      "model": "tiny.en",
+      "duration": 4.075,
+      "wpm": 147.3,
+      "peak": 0.37164306640625,
+      "flags": [],
+      "raw_sha256": "3e9440a0253bde169b0dd9119e1088637d8dcf4ce7eace856a634e2567e539e0"
+    },
+    {
+      "id": "c01s02-feedback-1",
+      "expected": "Historical fitness consequences do not reveal conscious intent.",
+      "heard": "Historical fitness consequences do not reveal conscious intent.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.075,
+      "wpm": 117.8,
+      "peak": 0.341033935546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b6d3f434256ae0f433bff074f9bd6b0ea79c91f8fb1b66dc50beb49025ec5def"
+    },
+    {
+      "id": "c01s02-feedback-2",
+      "expected": "Learning and biology interact rather than exclude one another.",
+      "heard": "Learning and biology interact rather than exclude one another.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.861,
+      "wpm": 139.8,
+      "peak": 0.300201416015625,
+      "flags": [],
+      "raw_sha256": "5d05714463aa75a03742c98a5715835421f87cd564157012df336abbdcd08341"
+    },
+    {
+      "id": "c01s03",
+      "expected": "Proximate explanation: account of mechanisms and development. Ultimate explanation: account concerning evolutionary history or function. Level of explanation: the kind of question an account addresses.\n\nA present motive, a learning history and an evolutionary hypothesis can concern the same behaviour without being interchangeable.\n\nA person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person’s conscious purpose.",
+      "heard": "Proximate explanation, account of mechanisms and development, ultimate explanation, account concerning evolutionary history or function, level of explanation, the kind of question and account addresses. A present motive, a learning history and an evolutionary hypothesis can concern the same behavior without being interchangeable. A person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person's conscious purpose.",
+      "ratio": 0.9851,
+      "model": "tiny.en",
+      "duration": 34.452,
+      "wpm": 121.3,
+      "peak": 0.5179443359375,
+      "flags": [],
+      "raw_sha256": "74fce00522284295ba947c2ef3edc76f10fca7d2713f9156a007abd6e49cf82e"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "Ontogeny: development within an individual lifetime. Phylogeny: evolutionary history across lineages.\n\nTinbergen distinguished mechanism, development, evolutionary history and adaptive function. A complete research programme can investigate several questions with different methods.\n\nDo not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.",
+      "heard": "On Todgini, development within an individual lifetime, phylogeny, evolutionary history across lineages. Tinbergen, distinguished mechanism, development, evolutionary history, and adaptive function. A complete research program can investigate several questions with different methods. Do not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.",
+      "ratio": 0.9573,
+      "model": "tiny.en",
+      "duration": 31.145,
+      "wpm": 116.6,
+      "peak": 0.47796630859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a59aa6dfe163e21d9c7a9d027bba62380775e0405f441d92148516d51374270e"
+    },
+    {
+      "id": "c01s04",
+      "expected": "Adaptive function: proposed contribution to reproductive success in an evolutionary context. Alternative explanation: another account fitting some observations.\n\nA useful-looking action is not automatically an adaptation. A function hypothesis must specify a problem, predictions and alternatives.\n\nThe café example is not evidence that table lifting evolved for one purpose. It can help formulate questions about learning, relationships and possible histories.",
+      "heard": "Adaptive function proposed contribution to reproductive success in an evolutionary context, alternative explanation, another account fitting some observations. A useful looking action is not automatically an adaptation. A function hypothesis must specify a problem, predictions, and alternatives. The cafe example is not evidence that table lifting evolved for one purpose. It can help formulate questions about learning, relationships and possible histories.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.743,
+      "wpm": 120.2,
+      "peak": 0.550323486328125,
+      "flags": [],
+      "raw_sha256": "ec05778bed2744c5206974078b4845924052f9ea44f13ae22f1d0b4485fba00c"
+    },
+    {
+      "id": "c01s05",
+      "expected": "Evolution is an established biological framework. Specific claims about psychological adaptations vary in evidential support and require their own tests.\n\nTinbergen’s questions organize inquiry; naming a level of explanation does not prove the answer proposed at that level.",
+      "heard": "Evolution is an established biological framework. Specific claims about psychological adaptations vary in evidential support and require their own tests. Timbergen's questions organize inquiry. Naming a level of explanation does not prove the answer proposed at that level.",
+      "ratio": 0.9737,
+      "model": "tiny.en",
+      "duration": 18.677,
+      "wpm": 126.5,
+      "peak": 0.457183837890625,
+      "flags": [],
+      "raw_sha256": "3a1652a538cf718c20eb24eed7a8e468d4e0600f3304e2631f1b65b80dde0648"
+    },
+    {
+      "id": "c01s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA researcher explains cooperation by describing how a child learned local turn-taking practices.\n\nWhat kind of explanation is this?\n\nA. Phylogenetic history.\n\nB. Ontogenetic development.\n\nC. Proof of adaptive function.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A researcher explains cooperation by describing how a child learned local turn-taking practices. What kind of explanation is this? A, phylogenetic history. B, ontogenetic development. C, proof of adaptive function. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 24.825,
+      "wpm": 150.6,
+      "peak": 0.61920166015625,
+      "flags": [],
+      "raw_sha256": "6c04f32e36ee413a49d2dd6c441b25aec74b8c8c755ca6a46546c0216ddf358f"
+    },
+    {
+      "id": "c01s06-feedback-0",
+      "expected": "The statement concerns a person’s life rather than lineage history.",
+      "heard": "The statement concerns a person's life, rather than lineage history.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.883,
+      "wpm": 154.5,
+      "peak": 0.49932861328125,
+      "flags": [],
+      "raw_sha256": "14d8ee2b2b12839808d81bf47be956693752c0a503cc3a7c73f070ffb6b67e55"
+    },
+    {
+      "id": "c01s06-feedback-1",
+      "expected": "It describes how behaviour developed through experience.",
+      "heard": "It describes how behavior developed through experience.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.157,
+      "wpm": 133.0,
+      "peak": 0.36700439453125,
+      "flags": [],
+      "raw_sha256": "4070849da7c52ce9ff8323d15107a82d0825fb41f6bfed92f960d52d08db6c8b"
+    },
+    {
+      "id": "c01s06-feedback-2",
+      "expected": "A learning account does not establish evolutionary function.",
+      "heard": "A learning account does not establish evolutionary function.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.563,
+      "wpm": 134.7,
+      "peak": 0.43798828125,
+      "flags": [],
+      "raw_sha256": "36414c47e530433937a6b9b7ed33590d0986ad164cc0945cf834099b12bbf060"
+    },
+    {
+      "id": "c01s07",
+      "expected": "Try these questions without your notes.\n\nWhat does proximate explanation include?\n\nWhy does an evolutionary account not reveal conscious intention?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What does proximate explanation include? Why does an evolutionary account not reveal conscious intention? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.107,
+      "wpm": 139.8,
+      "peak": 0.467315673828125,
+      "flags": [],
+      "raw_sha256": "69bba6b0c0437d04c0c0cbd67fd4c218902cbe8e277b48b9d99cec83beb17f01"
+    },
+    {
+      "id": "c01s07-answers",
+      "expected": "Mechanisms operating now and development over an individual lifetime.\n\nHistorical consequences and present mental purposes are different explanatory questions.",
+      "heard": "mechanisms operating now and development over an individual lifetime. Historical consequences and present mental purposes are different explanatory questions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.954,
+      "wpm": 110.6,
+      "peak": 0.4239501953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "782478bd0e4b5bea6aa1637fe6c63352a7dfe3342ec233a1dc20b6f7f86d49aa"
+    },
+    {
+      "id": "c01s08",
+      "expected": "Use a fictional act of helping to write one mechanism question, one development question and one evolutionary question.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Use a fictional act of helping to write one mechanism question, one development question, and one evolutionary question. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.727,
+      "wpm": 156.0,
+      "peak": 0.505767822265625,
+      "flags": [],
+      "raw_sha256": "39b40e3d1bd929f4d24d12164b1a1bf25dfb233c97e98c0e1c909c70f7fd3f5a"
+    },
+    {
+      "id": "c02s01",
+      "expected": "A visitor says humans evolved a preference because nature wanted people to be happy. Maya asks whether natural selection has intentions or whether a different process is being described.",
+      "heard": "A visitor says humans evolved a preference because nature wanted people to be happy. Maya asks whether natural selection has intentions or whether a different process is being described.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.285,
+      "wpm": 154.2,
+      "peak": 0.54998779296875,
+      "flags": [],
+      "raw_sha256": "959bf88cef0407145be10ea2e8f62930aa028a2cfdc4e2e295142168f5c7cabd"
+    },
+    {
+      "id": "c02s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat corrects the visitor’s explanation?\n\nA. Nature plans future happiness.\n\nB. Selection is a population process without foresight.\n\nC. Every existing preference must be optimal.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What corrects the visitor's explanation? A, nature plans, future happiness. B, selection is a population process without foresight. C, every existing preference must be optimal. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.653,
+      "wpm": 155.8,
+      "peak": 0.420745849609375,
+      "flags": [],
+      "raw_sha256": "89c65a8b96c45aafdb9de633df2b9de81f28da1d74e04c9e6f922e6d44be0ed6"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "expected": "Selection does not have intentions or a future goal.",
+      "heard": "Selection does not have intentions or a future goal.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.115,
+      "wpm": 173.4,
+      "peak": 0.392242431640625,
+      "flags": [],
+      "raw_sha256": "5f401838201197c09a0aeaa6dfb3212768a0de4606435ee213e723371654bd23"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "expected": "The explanation concerns heritable variation and reproductive consequences.",
+      "heard": "The explanation concerns heritable variation and reproductive consequences.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.907,
+      "wpm": 97.8,
+      "peak": 0.39349365234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "34c84a140bc87e07cbf6bd99fd88bf67a32c17cec36160d333d98155d9ee0307"
+    },
+    {
+      "id": "c02s02-feedback-2",
+      "expected": "Constraints, trade-offs and non-selective processes remain relevant.",
+      "heard": "Constraints, trade-offs and non-selective processes remain relevant.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.267,
+      "wpm": 126.6,
+      "peak": 0.4468994140625,
+      "flags": [],
+      "raw_sha256": "b31dd503a782029e442c7331d809992c3bc35e76a41f961adf66d365b7e22c9d"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Variation: differences among individuals. Heritable variation: variation partly transmitted across generations. Natural selection: change associated with differential reproduction of heritable variants.\n\nWhen heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention.\n\nIndividuals develop and learn during life; populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.",
+      "heard": "Variation, differences among individuals, heritable variation, variation partly transmitted across generations. Natural selection, change associated with differential reproduction of heritable variance. When heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention. Individuals develop and learn during life. populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.",
+      "ratio": 0.9848,
+      "model": "tiny.en",
+      "duration": 38.079,
+      "wpm": 107.7,
+      "peak": 0.543609619140625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d754799dbfcfdd1dc864c6a09d89684c0c12d63c972424499c0337d2af689999"
+    },
+    {
+      "id": "c02s03b",
+      "expected": "Evolutionary fitness: relative contribution to subsequent generations in a context. Trade-off: benefit in one respect with a cost in another. Constraint: limitation on possible evolutionary change.\n\nFitness is defined relative to reproductive contribution under conditions. It does not measure moral worth or guarantee happiness, health or an optimal design.\n\nSelection works with inherited structures and competing demands. A feature can have costs and still persist; some features persist for reasons other than selection.",
+      "heard": "Evolutionary fitness, relative contribution to subsequent generations in a context, trade off, benefit in one respect with a cost in another. Constraint, limitation on possible evolutionary change. Fitness is defined relative to reproductive contribution under conditions. It does not measure moral worth or guarantee happiness, health, or an optimal design. Selection works with inherited structures and competing demands. A feature can have costs and still persist. Some features persist for reasons other than selection.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 35.497,
+      "wpm": 129.8,
+      "peak": 0.4942626953125,
+      "flags": [],
+      "raw_sha256": "348437866a4b2560c54f82839b4987c9a1bede8a208114b4ca44af8d518b713a"
+    },
+    {
+      "id": "c02s04",
+      "expected": "Genetic drift: random change in variant frequencies.\n\nEvolutionary change can involve selection, drift, mutation and gene flow. Developmental constraints and historical contingencies also matter.\n\nThe observation that a feature exists today does not identify which process produced it. An adaptation claim needs more than a statement that the feature seems useful.",
+      "heard": "Genetic drift, random change in variant frequencies. Evolutionary change can involve selection, drift, mutation, and gene flow. Developmental constraints and historical contingencies also matter. The observation that a feature exists today does not identify which process produced it. An adaptation claim needs more than a statement that the feature seems useful.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 24.66,
+      "wpm": 131.0,
+      "peak": 0.532440185546875,
+      "flags": [],
+      "raw_sha256": "bce2e9403d778d94b3cd36eb71b39a914cc1db73651a77a23f24c1cd2f0d0397"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioural adaptation claim requires additional evidence about variation, inheritance, history and function.\n\nA modern preference or group difference does not identify its evolutionary origin by itself.",
+      "heard": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioral adaptation claim requires additional evidence about variation, inheritance, history, and function. A modern preference or group difference does not identify its evolutionary origin by itself.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.173,
+      "wpm": 114.0,
+      "peak": 0.488037109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e44ba73a2655a235861ac68d9374d4c70829e6d62c9b3965a37d82efe69758ce"
+    },
+    {
+      "id": "c02s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA widespread characteristic is observed, but no evidence about its origin or function is provided.\n\nWhich conclusion follows?\n\nA. The trait is morally good.\n\nB. The trait must increase happiness.\n\nC. Its presence alone does not establish adaptation.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A widespread characteristic is observed, but no evidence about its origin or function is provided. Which conclusion follows? A, the trait is morally good. B, the trait must increase happiness. C, its presence alone, does not establish adaptation. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 26.489,
+      "wpm": 158.4,
+      "peak": 0.522125244140625,
+      "flags": [],
+      "raw_sha256": "628c196aa0230e898711242045ff80eac59809199d43d82acec9818ff81addf6"
+    },
+    {
+      "id": "c02s06-feedback-0",
+      "expected": "A descriptive history does not settle moral value.",
+      "heard": "A descriptive history does not settle moral value.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.029,
+      "wpm": 158.5,
+      "peak": 0.317108154296875,
+      "flags": [],
+      "raw_sha256": "2c52add63f593c9b1440f548aa62e5a7dbcf649700f5b2b52f31867d6f3a46b6"
+    },
+    {
+      "id": "c02s06-feedback-1",
+      "expected": "Fitness and happiness are distinct outcomes.",
+      "heard": "Fitness and happiness are distinct outcomes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.645,
+      "wpm": 136.1,
+      "peak": 0.436981201171875,
+      "flags": [],
+      "raw_sha256": "ae6cb3c9d54151d23f541ae1cfd1c56901c36df4eaef16a72196d60e345e0022"
+    },
+    {
+      "id": "c02s06-feedback-2",
+      "expected": "Alternative evolutionary and developmental accounts need comparison.",
+      "heard": "Alternative evolutionary and developmental accounts need comparison.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.523,
+      "wpm": 92.9,
+      "peak": 0.438446044921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "8cf4a580a928a35c576c854d672324954403a4876028305aabac8e88ccf83892"
+    },
+    {
+      "id": "c02s07",
+      "expected": "Try these questions without your notes.\n\nWhy does natural selection have no foresight?\n\nHow does drift differ from selection?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does natural selection have no foresight? How does drift differ from selection? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.678,
+      "wpm": 154.2,
+      "peak": 0.470245361328125,
+      "flags": [],
+      "raw_sha256": "cf07ac51c9f7632c398ef4acd3d37038f7e690a9fa6e817b2485ddab0ca5943e"
+    },
+    {
+      "id": "c02s07-answers",
+      "expected": "Frequency changes arise from current conditions and reproduction, not planning toward a goal.\n\nDrift concerns random frequency change. Selection concerns differences in survival and reproduction linked to inherited traits.",
+      "heard": "Frequency changes arise from current conditions and reproduction, not planning toward a goal. Drift concerns random frequency change. Selection concerns differences in survival and reproduction linked to inherited traits.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.538,
+      "wpm": 125.3,
+      "peak": 0.511749267578125,
+      "flags": [],
+      "raw_sha256": "68df250c4808f03a0bbf1bdba3e0ada311f0c592f87cd5eddf815568d042bf94"
+    },
+    {
+      "id": "c02s08",
+      "expected": "Rewrite a fictional nature-wanted-it claim using variation, inheritance and conditions, with no moral conclusion.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "We're right, a fictional nature wanted it claim using variation, inheritance, and conditions, with no moral conclusion. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 0.9538,
+      "model": "tiny.en",
+      "duration": 13.429,
+      "wpm": 150.3,
+      "peak": 0.430999755859375,
+      "flags": [],
+      "raw_sha256": "2ae0a2dab632dbe6392d5b4d93a4f50d7f8a9f7d2379ab8bbebc1b44f7f37a31"
+    },
+    {
+      "id": "c03s01",
+      "expected": "People at the café enjoy music. Leo says enjoyment proves music evolved specifically for that function. Maya asks whether the pattern could involve cultural learning or capacities that evolved in other contexts.",
+      "heard": "People at the cafe enjoy music. Leo says enjoyment proves music evolved specifically for that function. Maya asks whether the pattern could involve cultural learning or capacities that evolved in other contexts.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.101,
+      "wpm": 136.2,
+      "peak": 0.598724365234375,
+      "flags": [],
+      "raw_sha256": "25605a6bdab81d5c6b0df5acc95d660f32f7ed128b684829d770931fbfe43f19"
+    },
+    {
+      "id": "c03s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s music claim?\n\nA. Predictions distinguishing adaptation from alternatives.\n\nB. The fact that some people enjoy music.\n\nC. The assumption that enjoyment proves historical selection.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is missing from Leo's music claim? A, predictions, distinguishing adaptation from alternatives. B, the fact that some people enjoy music. C, the assumption that enjoyment proves historical selection. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.317,
+      "wpm": 154.7,
+      "peak": 0.577972412109375,
+      "flags": [],
+      "raw_sha256": "d7253ae90164b439c7be8376708fa41bc43e7a51986c373377ecbb8e771da715"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "expected": "A current preference is compatible with several origins.",
+      "heard": "A current preference is compatible with several origins.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.285,
+      "wpm": 146.1,
+      "peak": 0.355072021484375,
+      "flags": [],
+      "raw_sha256": "88eb2539cad1e799b05e92ed5e608aeaa2608241a4e0b603fe9163d1e1d5a616"
+    },
+    {
+      "id": "c03s02-feedback-1",
+      "expected": "Enjoyment is already part of the observation and does not settle origin.",
+      "heard": "enjoyment is already part of the observation and does not settle origin.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.565,
+      "wpm": 157.7,
+      "peak": 0.337921142578125,
+      "flags": [],
+      "raw_sha256": "40f2ff5110180864ad1ff51a1765246923eb0262519d0183c2a0e99b5055b544"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "expected": "That is the unsupported inference being examined.",
+      "heard": "That is the unsupported inference being examined.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.901,
+      "wpm": 144.8,
+      "peak": 0.33953857421875,
+      "flags": [],
+      "raw_sha256": "7393780dc8e2709c050d6e9e076cb9493782bbb515e79b63c236e8b761a79efc"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Adaptation: feature shaped by selection for a particular effect. Exaptation: feature used for a role different from an earlier origin.\n\nA present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use, or emerge as a by-product.\n\nThese hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the café anecdote can settle.",
+      "heard": "Adaptation, feature shaped by selection for a particular effect. Exaptation, feature used for a role different from an earlier origin. A present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use or emerge as a by-product. These hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the cafe anecdote can settle.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 28.713,
+      "wpm": 155.4,
+      "peak": 0.46160888671875,
+      "flags": [],
+      "raw_sha256": "017ee65f4e75cad060f08130a09d6280c64183c9b567c52574d220c87c0930f0"
+    },
+    {
+      "id": "c03s03b",
+      "expected": "Special design: features fitting a proposed adaptive problem. Comparative evidence: comparisons across species or populations. Falsifiability: possibility of evidence counting against a claim.\n\nAn adaptation hypothesis should predict a pattern that alternatives do not equally predict. Anatomy, development, comparative work and other evidence can contribute.\n\nIf every possible outcome is explained after the fact, the account is difficult to test. Specify what would reduce confidence before inspecting only supportive cases.",
+      "heard": "Special design features fitting a proposed adaptive problem. Comparative evidence, comparisons across species or populations, falsifiability, possibility of evidence counting against a claim. An adaptation hypothesis should predict a pattern that alternatives do not equally predict. Anatomy, development, comparative work, and other evidence can contribute. If every possible outcome is explained after the fact, The account is difficult to test. Specify what would reduce confidence before inspecting only supportive cases.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 36.095,
+      "wpm": 120.7,
+      "peak": 0.54327392578125,
+      "flags": [],
+      "raw_sha256": "0835124c7e711e613e45153cf7ee6402d770ef5cd2c6a5958039fc4aef5a6215"
+    },
+    {
+      "id": "c03s04",
+      "expected": "Evolutionary mismatch: a feature’s effects differ between relevant ancestral and current conditions. Current function: present effects under present conditions.\n\nMismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle.\n\nA plausible mismatch does not prescribe a diet, relationship or social policy. Clinical and practical recommendations need their own outcome evidence.",
+      "heard": "Evolutionary mismatch, a feature's effects differ between relevant ancestral and current conditions. Current function, present effects under present conditions. mismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle. A plausible mismatch does not prescribe a diet, relationship, or social policy. clinical and practical recommendations need their own outcome evidence.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 32.916,
+      "wpm": 115.8,
+      "peak": 0.5155029296875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "eff962ed071509b4bbcb85df39867bbeecc13d890912879942d7b5fd32983cf4"
+    },
+    {
+      "id": "c03s05",
+      "expected": "Adaptation, by-product and mismatch hypotheses need independent evidence. Scholarly debate concerns how to distinguish them, not whether evolution occurred.\n\nThe music case illustrates alternative explanations. No one origin claim is established by enjoyment or prevalence alone.",
+      "heard": "Adaptation by product and mismatch hypotheses need independent evidence. Scholarly debate concerns how to distinguish them, not whether evolution occurred. The music case illustrates alternative explanations. No one origin claim is established by enjoyment or prevalence alone.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.082,
+      "wpm": 120.4,
+      "peak": 0.430572509765625,
+      "flags": [],
+      "raw_sha256": "a8ba09eb1e8537e8c715f5d195b64383706ef35696801f6f0b9123b59f3d9bfb"
+    },
+    {
+      "id": "c03s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA headline attributes a modern difficulty to evolutionary mismatch.\n\nWhat should the researcher specify?\n\nA. One universal prehistoric lifestyle.\n\nB. The feature, historical contrast and predicted present effect.\n\nC. A moral rule derived from what seems natural.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A headline attributes a modern difficulty to evolutionary mismatch. What should the researcher specify? A, one universal prehistoric lifestyle. B, the feature, historical contrast and predicted present effect. C, a moral rule derived from what seems natural. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 27.257,
+      "wpm": 150.3,
+      "peak": 0.48504638671875,
+      "flags": [],
+      "raw_sha256": "b1f0c9ddfa7b6d80b79d97353d7382438a26d824a6f4824209f8ea985ba2f8f5"
+    },
+    {
+      "id": "c03s06-feedback-0",
+      "expected": "Ancestral conditions varied across time and place.",
+      "heard": "ancestral conditions varied across time and place.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.243,
+      "wpm": 129.5,
+      "peak": 0.422637939453125,
+      "flags": [],
+      "raw_sha256": "528bcaec1e1b9cb4b1cba08c21c299de6e5dc376fd7ba724b56e8493300fbe70"
+    },
+    {
+      "id": "c03s06-feedback-1",
+      "expected": "A mismatch hypothesis needs a defined and evidenced contrast.",
+      "heard": "A mismatch hypothesis needs a defined and evidenced contrast.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.075,
+      "wpm": 132.5,
+      "peak": 0.374847412109375,
+      "flags": [],
+      "raw_sha256": "17d8ab0888fce7f0ce53db6cb3b5870b6a8098a03941fb076dde68b374c4b877"
+    },
+    {
+      "id": "c03s06-feedback-2",
+      "expected": "A descriptive origin claim does not establish an ethical rule.",
+      "heard": "A descriptive origin claim does not establish an ethical rule.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.776,
+      "wpm": 158.9,
+      "peak": 0.42010498046875,
+      "flags": [],
+      "raw_sha256": "d44d1449ef48d286d007b3cc5351a2a297b5351c58bc781620b70c4c6d61d918"
+    },
+    {
+      "id": "c03s07",
+      "expected": "Try these questions without your notes.\n\nHow does a by-product differ from an adaptation?\n\nWhy does mismatch not imply a treatment?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. How does a byproduct differ from an adaptation? Why does mismatch not imply a treatment? Reveal the suggested answers after trying.",
+      "ratio": 0.9455,
+      "model": "tiny.en",
+      "duration": 12.742,
+      "wpm": 171.6,
+      "peak": 0.4814453125,
+      "flags": [],
+      "raw_sha256": "3291c64614afba55b0bd0cce68298b6fff50bde790a1a1cbc950cdd3d6ac9cbc"
+    },
+    {
+      "id": "c03s07-answers",
+      "expected": "An adaptation was shaped for a particular effect; a by-product arises alongside other processes.\n\nA historical explanation does not show that an intervention produces benefit in current conditions.",
+      "heard": "an adaptation was shaped for a particular effect, a by-product arises alongside other processes. A historical explanation does not show that an intervention produces benefit in current conditions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.215,
+      "wpm": 138.5,
+      "peak": 0.539093017578125,
+      "flags": [],
+      "raw_sha256": "ab4c8eb6681e89aac5eaa89496c702056cf55cb678cf517ecbcbc676a5d5ca04"
+    },
+    {
+      "id": "c03s08",
+      "expected": "Choose a fictional adaptation headline. Write one alternative account and one result that would weaken the headline.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Choose a fictional adaptation headline. Write one alternative account and one result that would weaken the headline. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.301,
+      "wpm": 156.5,
+      "peak": 0.53570556640625,
+      "flags": [],
+      "raw_sha256": "47bd9b5aec926d4f305cc5646fa9478acb4c29a6e9b170d42b46cd063996431e"
+    },
+    {
+      "id": "c04s01",
+      "expected": "Jo learns a local greeting quickly. Leo says it must be cultural and therefore not biological. Another visitor says an evolved capacity must appear without learning. Maya questions both claims.",
+      "heard": "Joe learns a local greeting quickly. Leo says it must be cultural and therefore not biological. Another visitor says an evolved capacity must appear without learning. Maya questions both claims.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.928,
+      "wpm": 139.2,
+      "peak": 0.4324951171875,
+      "flags": [],
+      "raw_sha256": "b1f8b7192a01144691a3f53dce0144498aee5a5acf56acd581c558fa696637d9"
+    },
+    {
+      "id": "c04s02",
+      "expected": "First, make a prediction about the café story.\n\nWhich statement best corrects both visitors?\n\nA. An evolved capacity can develop through learned cultural input.\n\nB. Culture means biology is absent.\n\nC. Evolution requires a behaviour to appear without experience.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story, which statement best corrects both visitors. A, an evolved capacity can develop through learned cultural input. B, culture means biology is absent. C, evolution requires a behavior to appear without experience. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.426,
+      "wpm": 151.8,
+      "peak": 0.54534912109375,
+      "flags": [],
+      "raw_sha256": "e682f2cf8c42be5f8eed7fd016aeb1f0686c7b3d3d109a928a4e9926bee15a88"
+    },
+    {
+      "id": "c04s02-feedback-0",
+      "expected": "Development integrates biological resources and experience.",
+      "heard": "Development integrates biological resources and experience.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.032,
+      "wpm": 89.3,
+      "peak": 0.458984375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "c89fdb2905c45cf0f94bc126a4244b5153c2282ef4de0ae4b7419266bb1730fb"
+    },
+    {
+      "id": "c04s02-feedback-1",
+      "expected": "Culture is learned by biological organisms.",
+      "heard": "Culture is learned by biological organisms.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.179,
+      "wpm": 113.3,
+      "peak": 0.34344482421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "06424ec8ce7da30727bc6258500b6703db85d27f9649e3b5ba9ec5bf7f277104"
+    },
+    {
+      "id": "c04s02-feedback-2",
+      "expected": "Many biological capacities depend on appropriate developmental input.",
+      "heard": "Many biological capacities depend on appropriate developmental input.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.672,
+      "wpm": 102.7,
+      "peak": 0.35980224609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3863275b82734946d5b0e14444948ea2e9f26d5e3436e93a3038220ce029a37b"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions.\n\nGenes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input.\n\nThe question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.",
+      "heard": "phenotype and observed characteristic, developmental system, interacting biological and environmental processes, plasticity, capacity for change across relevant conditions. Genes, cells, bodies, and experience interact throughout development, and evolved capacity can depend on learning and culturally structured input. The question is not which influence wins, specify the developmental process, and how it responds to different inputs and opportunities.",
+      "ratio": 0.9649,
+      "model": "tiny.en",
+      "duration": 31.218,
+      "wpm": 115.7,
+      "peak": 0.51617431640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ff47bfa8730ff0e9c9cb17ed17acaa17f494120e235cd1ca1006ed848cb16349"
+    },
+    {
+      "id": "c04s03b",
+      "expected": "Reaction norm: pattern of outcomes across environments for a genotype. Gene–environment interaction: genetic effects differing across environments.\n\nHeritability depends on the population, environmental range and measure. It does not say what percentage of one person’s behaviour is genetic.\n\nA trait can be heritable and responsive to changed conditions. Conversely, a widely shared developmental mechanism may generate little measured variation in one sample.",
+      "heard": "Reaction norm, pattern of outcomes across environments for a genotype. Gene environment interaction, genetic effects differing across environments. Heritability depends on the population, environmental range, and measure. It does not say what percentage of one person's behavior is genetic. A trait can be heritable and responsive to changed conditions. Conversely, a widely shared developmental mechanism may generate little measured variation in one sample.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.231,
+      "wpm": 126.3,
+      "peak": 0.533660888671875,
+      "flags": [],
+      "raw_sha256": "1d65acb681935621f19e5c3e42a269789e490c613c14ff560cead42ed3f770a5"
+    },
+    {
+      "id": "c04s04",
+      "expected": "Preparedness: differential ease of learning some relations under conditions. Learning bias: systematic tendency in acquiring information.\n\nLearning is a biological capability expressed in environments. Research can test whether some associations are acquired differently under controlled conditions.\n\nSuch findings do not establish that every current fear or preference is innate. Prior experience, measurement and cultural input remain alternatives to examine.",
+      "heard": "Preparedness, differential ease of learning some relations under conditions. Learning bias, systematic tendency, and acquiring information. Learning is a biological capability expressed in environments. Research can test whether some associations are acquired differently under controlled conditions. Such findings do not establish that every current fear or preference is innate. Prior experience, measurement and cultural input remain alternatives to examine.",
+      "ratio": 0.9831,
+      "model": "tiny.en",
+      "duration": 30.591,
+      "wpm": 120.9,
+      "peak": 0.455780029296875,
+      "flags": [],
+      "raw_sha256": "37edc31d35df7198949c63682d22d510fc7b267551d9205c4226861dde55586d"
+    },
+    {
+      "id": "c04s05",
+      "expected": "Evolved and learned are not mutually exclusive categories. Developmental and genetic evidence must be interpreted at their appropriate levels.\n\nHeritability does not establish immutability, adaptation or the cause of a specific person’s behaviour.",
+      "heard": "Evolved and learned are not mutually exclusive categories. Developmental and genetic evidence must be interpreted at their appropriate levels. Heritability does not establish a mutability, adaptation, or the cause of a specific person's behavior.",
+      "ratio": 0.9552,
+      "model": "tiny.en",
+      "duration": 16.437,
+      "wpm": 125.4,
+      "peak": 0.58428955078125,
+      "flags": [],
+      "raw_sha256": "9654d977f83f26a4394ad24e5f5b7b0b95fe6791463fa58aa52a2f9187cb2c89"
+    },
+    {
+      "id": "c04s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA study reports heritability for a measured trait in one population.\n\nWhat does the estimate establish?\n\nA. A percentage of each individual’s behaviour.\n\nB. Variation in a specified population under a model.\n\nC. A proof that the trait cannot change.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A study reports heritability for a measured trait in one population. What is the estimate established? A, a percentage of each individual's behavior. B, variation in a specified population under a model. C, a proof that the trait cannot change. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9661,
+      "model": "tiny.en",
+      "duration": 25.977,
+      "wpm": 168.0,
+      "peak": 0.5001220703125,
+      "flags": [],
+      "raw_sha256": "bfd4b3f0adaafb7f8841d32ee09e171e82c029b5850f4da675b4a14f20cd4e09"
+    },
+    {
+      "id": "c04s06-feedback-0",
+      "expected": "The estimate is not an individual decomposition.",
+      "heard": "The estimate is not an individual decomposition.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.157,
+      "wpm": 133.0,
+      "peak": 0.543365478515625,
+      "flags": [],
+      "raw_sha256": "2940ab6491c7fdc3e150a30bbec933cf06ae8de658b66bb0123db639507a67f9"
+    },
+    {
+      "id": "c04s06-feedback-1",
+      "expected": "Population, measure and conditions define its scope.",
+      "heard": "Population, measure and conditions define its scope.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.221,
+      "wpm": 130.4,
+      "peak": 0.366180419921875,
+      "flags": [],
+      "raw_sha256": "2fb26b04cce713fcfd74311eadc53afc0d0022da9d59ae1d69f1bf4607e62fb5"
+    },
+    {
+      "id": "c04s06-feedback-2",
+      "expected": "Modifiability is a separate empirical question.",
+      "heard": "Modifyability is a separate empirical question.",
+      "ratio": 0.8333,
+      "model": "tiny.en",
+      "duration": 4.157,
+      "wpm": 114.0,
+      "peak": 0.336669921875,
+      "flags": [
+        "pace",
+        "words"
+      ],
+      "raw_sha256": "f76b23dc7bce1647bc3dfe312ed28643929a44ec66f168b021a66added0852d3"
+    },
+    {
+      "id": "c04s07",
+      "expected": "Try these questions without your notes.\n\nWhy can an evolved capacity require learning?\n\nWhy does heritability not prove adaptation?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why can an evolved capacity require learning? Why does heritability not prove adaptation? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.233,
+      "wpm": 145.9,
+      "peak": 0.4832763671875,
+      "flags": [],
+      "raw_sha256": "5bae32e64ffdf26fca54fc6196cc79f3867b68f5bb6c26c200168f7254afeace"
+    },
+    {
+      "id": "c04s07-answers",
+      "expected": "Developmental processes can use experience as essential input.\n\nIt concerns variation, not evidence of historical selection for a particular function.",
+      "heard": "Developmental processes can use experience as essential input. It concerns variation, not evidence of historical selection for a particular function.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 11.314,
+      "wpm": 124.2,
+      "peak": 0.6337890625,
+      "flags": [],
+      "raw_sha256": "8e4e75d3005edeee737fdb71c114ecdb9784afb88af90a8c16f0481d33dbf15c"
+    },
+    {
+      "id": "c04s08",
+      "expected": "Rewrite a fictional nature-versus-nurture argument as a question about interacting developmental processes.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "We write a fictional nature versus nurture argument as a question about interacting developmental processes, return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 0.9508,
+      "model": "tiny.en",
+      "duration": 13.023,
+      "wpm": 145.5,
+      "peak": 0.423583984375,
+      "flags": [],
+      "raw_sha256": "9169a8ff6708f4dcac737f0e4936606ad3879cbd4c7f99133b4d6c8fbaabc885"
+    },
+    {
+      "id": "c05s01",
+      "expected": "A visitor helps a sibling move a table, then helps an unrelated neighbour. Leo says kin selection proves people care only about relatives. Maya asks what the theory actually predicts.",
+      "heard": "A visitor helps a sibling move a table, then helps an unrelated neighbor. Leo says Kin's selection proves people care only about relatives. Maya asks what the theory actually predicts.",
+      "ratio": 0.9333,
+      "model": "tiny.en",
+      "duration": 11.904,
+      "wpm": 151.2,
+      "peak": 0.46209716796875,
+      "flags": [],
+      "raw_sha256": "72a67d88784f87ed2fe395737ed061963d079c134b6e7950ff2b513c0d6cbd2f"
+    },
+    {
+      "id": "c05s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is wrong with Leo’s conclusion?\n\nA. Kin selection is a theory of conscious gene counting.\n\nB. One framework does not imply all care is restricted to kin.\n\nC. Helping non-kin proves evolution never matters.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is wrong with Leo's conclusion? A, kin selection is a theory of conscious gene counting. B, one framework does not imply all care is restricted to kin. C, helping non-kin proves evolution never matters. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.935,
+      "wpm": 173.0,
+      "peak": 0.44232177734375,
+      "flags": [],
+      "raw_sha256": "a7992dfd4a977dd3a1e692d3d01a71ef73bdc4ff9b0595082827a30d094e4e5e"
+    },
+    {
+      "id": "c05s02-feedback-0",
+      "expected": "The framework does not require that mental calculation.",
+      "heard": "The framework does not require that mental calculation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.328,
+      "wpm": 144.2,
+      "peak": 0.30712890625,
+      "flags": [],
+      "raw_sha256": "a83b3ebea68a54dd40eba02de79d3f9c238b1086af2ae611fbbefb63e4bbd85d"
+    },
+    {
+      "id": "c05s02-feedback-1",
+      "expected": "Other motives and social processes can support care.",
+      "heard": "Other motives and social processes can support care.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.093,
+      "wpm": 155.2,
+      "peak": 0.3526611328125,
+      "flags": [],
+      "raw_sha256": "0c252a0be570ec7d62ccb1f89d78634c929cd887d77a3429bb1820bfac0a041d"
+    },
+    {
+      "id": "c05s02-feedback-2",
+      "expected": "That observation does not settle every evolutionary contribution.",
+      "heard": "That observation does not settle every evolutionary contribution.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.203,
+      "wpm": 114.2,
+      "peak": 0.450714111328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "50f2419987c57e36dd9ff94e4b2fe3e78f1e0dd8a80685334c7e11cda3ec2f3d"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Kin selection: selection influenced by effects on relatives’ reproductive outcomes. Inclusive fitness: framework including direct and relatedness-weighted effects. Relatedness: genetic association relevant to an evolutionary model.\n\nAn action affecting relatives can influence the propagation of shared genetic variants. Kin-selection models formalize these effects under stated assumptions.\n\nThey do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.",
+      "heard": "Kin selection, selection influenced by effects on relatives' reproductive outcomes, inclusive fitness, framework including direct and relatedness weighted effects, relatedness, genetic association relevant to an evolutionary model. An action affecting relatives can influence the propagation of shared genetic variants. Kin selection models formalize these effects under stated assumptions. They do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 37.332,
+      "wpm": 118.2,
+      "peak": 0.70758056640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "36a1498d6f3b62a673957d4b8a59bfd2d49ef9c4b8cae6813797932841a0519d"
+    },
+    {
+      "id": "c05s03b",
+      "expected": "Hamilton’s rule: condition comparing relatedness-weighted benefit with cost. Fitness cost: reduction in reproductive outcome within a model. Fitness benefit: increase in reproductive outcome within a model.\n\nThe familiar rule compares relatedness times benefit with cost under a specified model. Cost and benefit concern fitness, not simply money or felt effort.\n\nReal applications need appropriate definitions and evidence. A casual act of family help does not measure the terms or prove the model caused it.",
+      "heard": "Hamilton's rule, condition comparing relatedness-weighted benefit with cost, fitness cost, reduction in reproductive outcome within a model, fitness benefit, increase in reproductive outcome within a model. The familiar rule compares relatedness times benefit with cost under a specified model. Cost and benefit concern fitness, not simply money or felt effort. Real applications need appropriate definitions and evidence. A casual act of family help does not measure the terms or prove the model caused it.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 34.559,
+      "wpm": 135.3,
+      "peak": 0.5711669921875,
+      "flags": [],
+      "raw_sha256": "da3fced4ec85d35c32351dd05f06b20d68909262e90d5c60ecbae3f217a9ff13"
+    },
+    {
+      "id": "c05s04",
+      "expected": "Direct benefit: effect on the actor’s own reproductive outcome in a model. Social norm: shared expectation influencing conduct.\n\nCare can involve attachment, norms, reciprocity, institutions and personal values. Several evolutionary and proximate processes may contribute.\n\nThe existence of care for non-relatives does not by itself refute kin selection, nor does kin selection explain every act of care. Ethical obligations need independent reasoning.",
+      "heard": "Direct benefit, effect on the actor's own reproductive outcome in a model. Social norm, shared expectation influencing conduct. Care can involve attachment, norms, reciprocity, institutions, and personal values. Several evolutionary and proximate processes may contribute. The existence of care for non-relatives does not by itself refute kin selection, nor does kin selection explain every act of care. Ethical obligations need independent reasoning.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.913,
+      "wpm": 123.5,
+      "peak": 0.554595947265625,
+      "flags": [],
+      "raw_sha256": "47990c0374f001d522750588d6854b9aff74f1008638dec1311f3d442f9f3b91"
+    },
+    {
+      "id": "c05s05",
+      "expected": "Kin selection is a formal evolutionary framework with extensive biological applications. Applying it to a particular human act requires model assumptions and relevant evidence.\n\nRelatedness does not determine whom someone should help, and a fitness account does not prove selfish conscious motivation.",
+      "heard": "Kin selection is a formal evolutionary framework with extensive biological applications. Applying it to a particular human act requires model assumptions and relevant evidence. Relatedness does not determine who someone should help, and a fitness account does not prove selfish, conscious motivation.",
+      "ratio": 0.9762,
+      "model": "tiny.en",
+      "duration": 19.871,
+      "wpm": 131.1,
+      "peak": 0.41748046875,
+      "flags": [],
+      "raw_sha256": "1ba9209a642e92e38e9f37b505552a154d71776ff5f5119cd9f8e06b4ac241c3"
+    },
+    {
+      "id": "c05s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA commentator applies Hamilton’s rule to a family favour using only its monetary cost.\n\nWhat needs clarification?\n\nA. The model’s fitness benefits, costs and relatedness.\n\nB. Only whether the person felt generous.\n\nC. A moral obligation to favour relatives.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A commentator applies Hamilton's rule to a family favor using only its monetary cost. What needs clarification? A, the model's fitness benefits, costs and relatedness. B, only whether the person felt generous. C, a moral obligation to favor relatives. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9655,
+      "model": "tiny.en",
+      "duration": 27.023,
+      "wpm": 157.3,
+      "peak": 0.497039794921875,
+      "flags": [],
+      "raw_sha256": "5bbea72ff14808a34c4d7b1edca3620397e180891e3dd802ef14e0ad818c6e68"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "expected": "The formal terms need case-appropriate definitions and evidence.",
+      "heard": "The formal terms need case appropriate definitions and evidence.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.776,
+      "wpm": 143.0,
+      "peak": 0.474212646484375,
+      "flags": [],
+      "raw_sha256": "05f45ac3ea3d9aecc9c1e9a108f610a4d640c61841c4769445ed226530183c31"
+    },
+    {
+      "id": "c05s06-feedback-1",
+      "expected": "A subjective motive does not specify the model’s quantities.",
+      "heard": "A subjective motive does not specify the model's quantities.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.733,
+      "wpm": 144.6,
+      "peak": 0.332244873046875,
+      "flags": [],
+      "raw_sha256": "69a33a2d114346a7ed5f445d66b7eefd525c1a411113dce1e65185996011f73e"
+    },
+    {
+      "id": "c05s06-feedback-2",
+      "expected": "The descriptive model does not establish that obligation.",
+      "heard": "The descriptive model does not establish that obligation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.307,
+      "wpm": 145.2,
+      "peak": 0.411346435546875,
+      "flags": [],
+      "raw_sha256": "792d9a731a3847956ac5d31fd81f8e54c3ffd73c8ac227c4fdb91d04c10f8906"
+    },
+    {
+      "id": "c05s07",
+      "expected": "Try these questions without your notes.\n\nWhy does inclusive fitness not imply conscious selfishness?\n\nWhy are monetary and fitness costs different?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does inclusive fitness not imply conscious selfishness? Why are monetary and fitness costs different? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.979,
+      "wpm": 146.9,
+      "peak": 0.4658203125,
+      "flags": [],
+      "raw_sha256": "64337739b5c5efbac6c4b1b8c8344e41d316196700bc1296dd715b6a4da7223f"
+    },
+    {
+      "id": "c05s07-answers",
+      "expected": "Evolutionary consequences and conscious purposes are separate explanatory levels.\n\nFitness costs concern reproductive outcomes under a model, not necessarily money or effort.",
+      "heard": "Evolutionary consequences and conscious purposes are separate explanatory levels. Fitness costs concern reproductive outcomes under a model, not necessarily money or effort.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.743,
+      "wpm": 119.0,
+      "peak": 0.4927978515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a97ff96ee5143d43ebd4d181470416a185803cb2a2dc0aa1d845a97a6a170cb9"
+    },
+    {
+      "id": "c05s08",
+      "expected": "Use a fictional act of family help to write a proximate account and a separate evolutionary question, without assigning a motive.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Use a fictional act of family help to write a proximate account and a separate evolutionary question without assigning a motive. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.919,
+      "wpm": 167.3,
+      "peak": 0.43658447265625,
+      "flags": [],
+      "raw_sha256": "90b6c09c08fb5de1f3585334a4e922e64c1f9682e8958c290c79b9548ce3417f"
+    },
+    {
+      "id": "c06s01",
+      "expected": "At the café, volunteers share tools repeatedly, visitors see who helps, and clear checkout rules reduce losses. Leo explains all cooperation as an unconscious exchange of favours. Maya asks which conditions matter.",
+      "heard": "At the cafe, volunteers share tools repeatedly, visitors see who helps and clear checkout rules reduce losses. Leo explains all co-operation as an unconscious exchange of favors. Maya asks which conditions matter.",
+      "ratio": 0.9231,
+      "model": "tiny.en",
+      "duration": 14.379,
+      "wpm": 133.5,
+      "peak": 0.523040771484375,
+      "flags": [],
+      "raw_sha256": "a04d26e9d635ab1a27884d2e137e1b1a556b83af010372d1f75ac9ee4d573c1a"
+    },
+    {
+      "id": "c06s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat best improves Leo’s explanation?\n\nA. Separate repeated interaction, reputation and institutional rules.\n\nB. Assume every helpful act expects repayment.\n\nC. Treat a public act as proof of a conscious strategy.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What best improves Leo's explanation? A, separate repeated interaction, reputation and institutional rules. B, assume every helpful act expects repayment. C, treat a public act as proof of a conscious strategy. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.383,
+      "wpm": 152.2,
+      "peak": 0.49896240234375,
+      "flags": [],
+      "raw_sha256": "7263d33b45b499095bff32241ee6d608b1876e74c43319d09587a53d9149b9df"
+    },
+    {
+      "id": "c06s02-feedback-0",
+      "expected": "The conditions can support different, testable accounts.",
+      "heard": "The conditions can support different, testable accounts.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.965,
+      "wpm": 141.6,
+      "peak": 0.37103271484375,
+      "flags": [],
+      "raw_sha256": "7f44dc7df61791c33c9814a10d63b7f26b13f9b613caf9015d5eebcdfe8f3826"
+    },
+    {
+      "id": "c06s02-feedback-1",
+      "expected": "The act is compatible with several motives and processes.",
+      "heard": "The act is compatible with several motives and processes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.413,
+      "wpm": 158.2,
+      "peak": 0.636749267578125,
+      "flags": [],
+      "raw_sha256": "79de9067b145570410405c73ff643429b1c91f9a2df69002872c29207e200335"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "expected": "Public consequences do not uniquely identify intention.",
+      "heard": "Public consequences do not uniquely identify intention.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.904,
+      "wpm": 107.6,
+      "peak": 0.414520263671875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "28a5f59e6e6d9325a968d38c345b1506bff71a8089983c12e1393ae672b030ea"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Direct reciprocity: cooperation influenced by repeated interaction between partners. One-shot interaction: interaction modelled without future encounters.\n\nHelping now can affect future treatment when individuals interact again. Models depend on memory, opportunities and costs.\n\nNot all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.",
+      "heard": "Direct reciprocity. Co-operation influenced by repeated interaction between partners. One-shot interaction. Interaction modeled without future encounters. Helping now can affect future treatment when individuals interact again. Models depend on memory, opportunities, and costs. Not all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.",
+      "ratio": 0.955,
+      "model": "tiny.en",
+      "duration": 29.375,
+      "wpm": 117.5,
+      "peak": 0.533203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "41068e802e61bdd3ce072388b5569d9b75a83f593ddd2c2f48b3ba4749035a5e"
+    },
+    {
+      "id": "c06s03b",
+      "expected": "Indirect reciprocity: help influenced by information about others’ social behaviour. Partner choice: selecting whom to interact with.\n\nPeople can use reputation when choosing partners or helping. Information can be incomplete, mistaken or shaped by unequal visibility.\n\nA public act may affect reputation without proving that reputation was the actor’s conscious goal. Compare private and public conditions carefully before inferring motives.",
+      "heard": "indirect reciprocity, help influenced by information about other social behavior, partner choice, selecting whom to interact with. People can use reputation when choosing partners or helping. Information can be incomplete, mistaken, or shaped by unequal visibility. A public act may affect reputation without proving that reputation was the actor's conscious goal. Compare private and public conditions carefully before inferring motives.",
+      "ratio": 0.9833,
+      "model": "tiny.en",
+      "duration": 29.972,
+      "wpm": 125.6,
+      "peak": 0.611114501953125,
+      "flags": [],
+      "raw_sha256": "d0cb49254536d95e2b777c518ac72badbdb62a8c8e8f6690b2d949bbeb35cc35"
+    },
+    {
+      "id": "c06s04",
+      "expected": "Institution: shared rules and practices structuring interaction. Public good: benefit difficult to restrict to contributors. Coordination: aligning actions toward a compatible outcome.\n\nRules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity.\n\nEconomic games isolate selected incentives, but their results depend on instructions, norms and sampling. A game score is not a complete measure of a person’s morality.",
+      "heard": "Institution, shared rules and practices structuring interaction. Public good, benefit difficult to restrict to contributors. Coordination, aligning actions toward a compatible outcome. Rules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity. Economic games isolate selected incentives, but their results depend on instructions, norms, and sampling. A game score is not a complete measure of a person's morality.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 36.5,
+      "wpm": 119.3,
+      "peak": 0.453857421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9e1bab04a80eb131a0e6208f5b6329bc04ae43f47f270c5562abdbe2440b1542"
+    },
+    {
+      "id": "c06s05",
+      "expected": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms and institutions, and experimental games simplify these conditions.\n\nA modern game result does not establish one ancestral origin or reveal a hidden selfish intention.",
+      "heard": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms, and institutions, and experimental games simplify these conditions. A modern game result does not establish one ancestral origin or reveal a hidden selfish intention.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 19.381,
+      "wpm": 112.1,
+      "peak": 0.405792236328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7c274eb0fc64c1e52e1390e67f2bc90a3fdd385a1319e46c26f93a9bf5bfd329"
+    },
+    {
+      "id": "c06s06",
+      "expected": "Apply the idea to this new fictional case.\n\nTool losses fall after the café introduces a clear, accessible checkout system.\n\nWhich conclusion is proportionate?\n\nA. Rules permanently changed everyone’s moral character.\n\nB. The system improved this coordination outcome under these conditions.\n\nC. The result proves one evolutionary origin.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. Tool losses fall after the cafe, introduces a clear, accessible checkout system. Which conclusion is proportionate? A, rules permanently changed everyone's moral character. B, the system improved this coordination outcome under these conditions. C, the result proves one evolutionary origin. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 29.028,
+      "wpm": 146.7,
+      "peak": 0.50543212890625,
+      "flags": [],
+      "raw_sha256": "d0d5080503303e2919bc1b4b6fd0117b41b260074353ea3c4a2428961843c708"
+    },
+    {
+      "id": "c06s06-feedback-0",
+      "expected": "A local outcome does not establish a character transformation.",
+      "heard": "A local outcome does not establish a character transformation.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.755,
+      "wpm": 143.8,
+      "peak": 0.48992919921875,
+      "flags": [],
+      "raw_sha256": "a6103cced8a03d66f84b03902a5ddd1d8100e502a611063907cea1720b64680e"
+    },
+    {
+      "id": "c06s06-feedback-1",
+      "expected": "The conclusion matches the intervention and measured context.",
+      "heard": "The conclusion matches the intervention and measured context.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.563,
+      "wpm": 134.7,
+      "peak": 0.366943359375,
+      "flags": [],
+      "raw_sha256": "3fbf6351b3f3a7ed7388be830a5e8c1318c4d74ad25d956cdd9d69cbba70709d"
+    },
+    {
+      "id": "c06s06-feedback-2",
+      "expected": "An institution’s current effect does not identify historical origins.",
+      "heard": "an institution's current effect does not identify historical origins.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.459,
+      "wpm": 121.1,
+      "peak": 0.31597900390625,
+      "flags": [],
+      "raw_sha256": "eb13f807a79f58b52769bf2ab6f90ad68949fa9519133e74944088b8c8789568"
+    },
+    {
+      "id": "c06s07",
+      "expected": "Try these questions without your notes.\n\nHow does indirect reciprocity differ from direct reciprocity?\n\nWhy can institutions matter independently of generosity?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. How does indirect reciprocity differ from direct reciprocity? Why can institutions matter independently of generosity? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.366,
+      "wpm": 130.5,
+      "peak": 0.476898193359375,
+      "flags": [],
+      "raw_sha256": "b820c45692de173cd1dab36e8600c8083aac2e59eaf94648c23503377f204c54"
+    },
+    {
+      "id": "c06s07-answers",
+      "expected": "Indirect reciprocity uses social information or reputation; direct reciprocity concerns interactions between partners.\n\nRules can change opportunities, trust and coordination even without changing preferences.",
+      "heard": "Indirect reciprocity uses social information or reputation. Direct reciprocity concerns interactions between partners. Rules can change opportunities, trust and coordination even without changing preferences.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.837,
+      "wpm": 101.5,
+      "peak": 0.527099609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5a1c75cff4007509e18223e79b4cee772a881d856518f1fad7efb429398b270b"
+    },
+    {
+      "id": "c06s08",
+      "expected": "For a fictional shared-resource problem, identify partner, network and rule-based influences without judging anyone’s morality.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "For a fictional shared resource problem, identify partner, network and rule-based influences without judging anyone's morality. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.41,
+      "wpm": 143.9,
+      "peak": 0.416351318359375,
+      "flags": [],
+      "raw_sha256": "b2eded81abb0682e7107ca672ab1b2dc836bf0a545bdddf2531bc930262d7a98"
+    },
+    {
+      "id": "c07s01",
+      "expected": "A headline claims that one ancestral story explains what every person wants in a relationship. Maya asks about variation, cultural conditions and whether an average result can identify an individual preference.",
+      "heard": "A headline claims that one ancestral story explains what every person wants in a relationship. Maya asks about variation, cultural conditions, and whether an average result can identify an individual preference.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.696,
+      "wpm": 135.8,
+      "peak": 0.537353515625,
+      "flags": [],
+      "raw_sha256": "6e739fccaddb321d483c519a3fabd4bef37fed202e8eaf5e984c505af8937c32"
+    },
+    {
+      "id": "c07s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is wrong with the universal headline?\n\nA. It treats a conditional population account as every individual’s preference.\n\nB. Evolutionary models never make predictions.\n\nC. Every observed group difference proves one genetic cause.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is wrong with the universal headline? A, it treats a conditional population account as every individual's preference. B, evolutionary models never make predictions. C, every observed group difference, proves one genetic cause. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 22.066,
+      "wpm": 153.1,
+      "peak": 0.578338623046875,
+      "flags": [],
+      "raw_sha256": "1df83abe9f90fc4cac9e316f25b3e095bda7e74e9a797866088c2d2738100363"
+    },
+    {
+      "id": "c07s02-feedback-0",
+      "expected": "The claim discards variation, context and alternative explanations.",
+      "heard": "The claim discards variation, context, and alternative explanations.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.523,
+      "wpm": 106.1,
+      "peak": 0.348602294921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5f054277a77e516dfc8c8bf29c1cc44e7dd1eacdbbffdd97609fefcc2846d0fc"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "Models can make testable conditional predictions.",
+      "heard": "Models can make testable conditional predictions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.859,
+      "wpm": 125.9,
+      "peak": 0.317047119140625,
+      "flags": [],
+      "raw_sha256": "624a3325d98fd799b7e3fb7d2d89ef45d94a7c9a318cd96252b3913f5558b263"
+    },
+    {
+      "id": "c07s02-feedback-2",
+      "expected": "A difference alone does not identify its developmental or historical cause.",
+      "heard": "A difference alone does not identify its developmental or historical cause.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.013,
+      "wpm": 131.6,
+      "peak": 0.37103271484375,
+      "flags": [],
+      "raw_sha256": "1814ae150489b62756e16af527decdf0fec3079f48b2128b641972b451123c38"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Sexual selection: selection associated with differences in mating or fertilization success. Mate choice: preferences or decisions affecting mating. Competition: interaction over limited opportunities or resources.\n\nSexual-selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems.\n\nHuman relationships also involve affection, learning, institutions and individual identity. A reproductive model does not capture every form or purpose of a relationship.",
+      "heard": "Sexual selection, selection associated with differences in mating or fertilization success, mate choice, preferences or decisions affecting mating, competition, interaction over limited opportunities or resources. Sexual selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems. Human relationships also involve affection, learning, institutions, and individual identity. A reproductive model does not capture every form or purpose of a relationship.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 37.524,
+      "wpm": 111.0,
+      "peak": 0.57513427734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "551e1680a91baed35176e68f90fcc33d71c1ffe4c487199c8eff9eda6c094676"
+    },
+    {
+      "id": "c07s03b",
+      "expected": "Parental investment: resources benefiting offspring at a cost to other reproductive opportunities. Life-history trade-off: allocation among growth, maintenance and reproduction. Ecological condition: environmental resource or risk affecting outcomes.\n\nModels examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies.\n\nDo not turn a model average into a fixed claim about every woman, man or family. Sex, gender, sexuality, resources and social roles require careful distinction in human research.",
+      "heard": "parental investment, resources benefiting offspring at a cost to other reproductive opportunities, life history trade-off, allocation among growth, maintenance, and reproduction, ecological condition, environmental resource or risk affecting outcomes. Models examine how costs, resources, and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies. do not turn a model average into a fixed claim about every woman, man, or family. Sex, gender, sexuality, resources, and social roles require careful distinction in human research.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 41.492,
+      "wpm": 117.9,
+      "peak": 0.51605224609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1a522969c6dab9c818cbd47a80a693426bc94c6117ecd85899c5ff9f58c761c4"
+    },
+    {
+      "id": "c07s04",
+      "expected": "Within-group variation: differences among members of a group. Effect size: magnitude of a measured difference or relation. Measurement equivalence: evidence that a measure has comparable meaning across groups.\n\nReport the magnitude, overlap and uncertainty of a difference, and check sampling and cultural context. A group average is not an individual prediction.\n\nA descriptive evolutionary hypothesis does not justify coercion, discrimination or a prescribed relationship arrangement. Ethics and practical decisions need independent reasons.",
+      "heard": "Within group variation, differences among members of a group, effect size, magnitude of a measured difference or relation, measurement equivalence, evidence that a measure has comparable meaning across groups. Report the magnitude, overlap and uncertainty of a difference, and check sampling and cultural context. A group average is not an individual prediction. A descriptive evolutionary hypothesis does not justify coercion, discrimination or a prescribed relationship arrangement. Ethics and practical decisions need independent reasons.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 36.905,
+      "wpm": 123.0,
+      "peak": 0.557952880859375,
+      "flags": [],
+      "raw_sha256": "34ee1760a8476e2b2ddb5ab01547248fb4297a2fe08a7c55b59ba146d2d4dc67"
+    },
+    {
+      "id": "c07s05",
+      "expected": "Sexual-selection and life-history models are established frameworks; particular human preference hypotheses have varying support and active debate. Cross-cultural evidence and alternative accounts matter.\n\nThis lesson provides neither dating advice nor a normative model for family life.",
+      "heard": "Sexual selection and life history models are established frameworks. Particular human preference hypotheses have varying support and active debate. Cross-cultural evidence and alternative accounts matter. This lesson provides neither dating advice, nor a normative model for family life.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.698,
+      "wpm": 129.7,
+      "peak": 0.49176025390625,
+      "flags": [],
+      "raw_sha256": "ff5b2537a7ea0c10292a66be88bb2b8a32cfdb7c4f00155dda769554afdacd50"
+    },
+    {
+      "id": "c07s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA survey reports an average preference difference between two sampled groups.\n\nWhat should be reported?\n\nA. Only whether the difference is statistically significant.\n\nB. Effect size, overlap, uncertainty and sampling limits.\n\nC. A rule assigning each person a preference.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A survey reports an average preference difference between two sampled groups. What should be reported? A, only whether the difference is statistically significant. B, effect size, overlap uncertainty in sampling limits. C, a rule assigning each person a preference. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9828,
+      "model": "tiny.en",
+      "duration": 26.468,
+      "wpm": 161.4,
+      "peak": 0.5302734375,
+      "flags": [],
+      "raw_sha256": "1331835cf607e79b80878af1efc07ea52f00bca705cce77194d9642240ac5dce"
+    },
+    {
+      "id": "c07s06-feedback-0",
+      "expected": "Significance alone does not show magnitude or individual predictability.",
+      "heard": "Significance alone does not show magnitude or individual predictability.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.736,
+      "wpm": 114.0,
+      "peak": 0.372344970703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b162d287d192214c4b805155b6c7df7043cdd6bd4ce4e7b45b6671faead68b36"
+    },
+    {
+      "id": "c07s06-feedback-1",
+      "expected": "These details clarify how far the result can be interpreted.",
+      "heard": "These details clarify how far the result can be interpreted.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.52,
+      "wpm": 170.5,
+      "peak": 0.4158935546875,
+      "flags": [],
+      "raw_sha256": "c4a2ade281e3440fd4645385c18ee6ff3e47390a998f28ffe81ddedc726ab964"
+    },
+    {
+      "id": "c07s06-feedback-2",
+      "expected": "A group summary cannot prescribe an individual choice.",
+      "heard": "A group summary cannot prescribe an individual choice.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.179,
+      "wpm": 151.0,
+      "peak": 0.348480224609375,
+      "flags": [],
+      "raw_sha256": "623ffdfc92089a151ffa6c8df147f5aaeae6b40058510e487bb063377967b624"
+    },
+    {
+      "id": "c07s07",
+      "expected": "Try these questions without your notes.\n\nWhat does parental investment mean in the model?\n\nWhy does a group difference not establish an individual preference?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What does parental investment mean in the model? Why does a group difference not establish an individual preference? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.873,
+      "wpm": 164.8,
+      "peak": 0.460601806640625,
+      "flags": [],
+      "raw_sha256": "fbf00187bb5984527a13e1809cfa1b568703be034a087536436da1ccebcdcf57"
+    },
+    {
+      "id": "c07s07-answers",
+      "expected": "Resources benefiting offspring at a cost to other reproductive opportunities.\n\nDistributions can overlap and individuals differ in history, context and goals.",
+      "heard": "Resources benefiting offspring at a cost to other reproductive opportunities. Distributions can overlap an individual's differ in history, context, and goals.",
+      "ratio": 0.9524,
+      "model": "tiny.en",
+      "duration": 11.591,
+      "wpm": 126.7,
+      "peak": 0.519287109375,
+      "flags": [],
+      "raw_sha256": "9537977f6e657a58f0bbdabe2063b1fcbce639ce869d8eaf3bd4802d654cb343"
+    },
+    {
+      "id": "c07s08",
+      "expected": "Critique a fictional relationship headline for population, measurement, effect size and the jump from description to prescription.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Critique a fictional relationship headline for population, measurement, effect size, and the jump from description to prescription. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.218,
+      "wpm": 145.9,
+      "peak": 0.416046142578125,
+      "flags": [],
+      "raw_sha256": "2da6dc6fa6683c2363d97d110d27db3138f4aafba898b296ca6b22456d5081fb"
+    },
+    {
+      "id": "c08s01",
+      "expected": "One café adopts a useful repair technique from a neighbour, then several others copy it. Leo says this must be a genetic change because the practice spread. Maya asks what was transmitted.",
+      "heard": "One cafe adopts a useful repair technique from a neighbor, then several others copy it. Leo says this must be a genetic change because the practice spread. Maya asks what was transmitted.",
+      "ratio": 0.9688,
+      "model": "tiny.en",
+      "duration": 11.861,
+      "wpm": 161.9,
+      "peak": 0.531341552734375,
+      "flags": [],
+      "raw_sha256": "d9d389246ab392dd1c9393481e201d6f8b571a0c48ebe4ed5b1073d55a00eaf1"
+    },
+    {
+      "id": "c08s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat spread in the café example?\n\nA. A socially learned technique.\n\nB. Necessarily a new genetic variant.\n\nC. A proof that popular methods are always best.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What spread in the cafe example? A, a socially learned technique. B, necessarily, a new genetic variant. C, a proof that popular methods are always best. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 17.671,
+      "wpm": 170.6,
+      "peak": 0.4134521484375,
+      "flags": [],
+      "raw_sha256": "0f5310cbca3876b84bc6ff4daba78bf46c529b533c55981b6778e65366a9fa6a"
+    },
+    {
+      "id": "c08s02-feedback-0",
+      "expected": "The observed transmission concerns information and practice.",
+      "heard": "The observe transmission concerns information and practice.",
+      "ratio": 0.8571,
+      "model": "tiny.en",
+      "duration": 3.627,
+      "wpm": 115.8,
+      "peak": 0.38299560546875,
+      "flags": [
+        "pace",
+        "words"
+      ],
+      "raw_sha256": "ec7a4b75a14482757bb5b095cb8566c014e1f3c5dfcd8c4e2237d4d822d2ef3f"
+    },
+    {
+      "id": "c08s02-feedback-1",
+      "expected": "Rapid social spread is not evidence of changing gene frequencies.",
+      "heard": "Rapid social spread is not evidence of changing gene frequencies.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.16,
+      "wpm": 144.2,
+      "peak": 0.4901123046875,
+      "flags": [],
+      "raw_sha256": "a1a4b90aa4153b54a85cf3604bad76ddb465d2bf7f52f3dea937da5c63afc4af"
+    },
+    {
+      "id": "c08s02-feedback-2",
+      "expected": "Popularity leaves quality and fairness open.",
+      "heard": "Popularity leaves quality and fairness open.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 2.731,
+      "wpm": 131.8,
+      "peak": 0.36181640625,
+      "flags": [],
+      "raw_sha256": "e22316145d2a690def982b3a92b4a7a6ebc51ee3a8c6dd2b78d0e67b01151cdb"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Cultural transmission: socially mediated acquisition of information or practice. Social learning: learning influenced by observing or interacting with others.\n\nA technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them.\n\nCultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.",
+      "heard": "Cultural transmission, socially mediated acquisition of information or practice, social learning, learning influenced by observing or interacting with others. A technique can spread through teaching, observation, or imitation without a change in gene frequencies. Variants can change as people modify and combine them. Cultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 31.039,
+      "wpm": 129.1,
+      "peak": 0.496490478515625,
+      "flags": [],
+      "raw_sha256": "052c1eff6d9e48132b65366dc256ac994fcadd6d401e58e655f497de685605be"
+    },
+    {
+      "id": "c08s03b",
+      "expected": "Conformist transmission: disproportionate copying of a common variant under a model. Prestige-biased transmission: copying influenced by a model’s social standing. Content bias: transmission influenced by features of the information.\n\nPeople may attend to common practices, respected models or memorable content. These are hypotheses about transmission that need appropriate comparison.\n\nA popular method may be effective, fashionable or simply more visible. Test actual outcomes rather than equating prevalence with quality.",
+      "heard": "Conformous transmission, disproportionate copying of a common variant under a model, prestige bias transmission, copying influenced by a model's social standing. Content bias, transmission influenced by features of the information. People may attend to common practices, respected models, or memorable content. These are hypotheses about transmission that need appropriate comparison. A popular method may be effective, fashionable, or simply more visible. Test actual outcomes, rather than equating prevalence with quality.",
+      "ratio": 0.9714,
+      "model": "tiny.en",
+      "duration": 34.964,
+      "wpm": 124.8,
+      "peak": 0.4434814453125,
+      "flags": [],
+      "raw_sha256": "d91887e6136b7c144d9998d5a6a3e758acc6681a0b13c9c237b645254f778814"
+    },
+    {
+      "id": "c08s04",
+      "expected": "Gene–culture coevolution: interacting genetic and cultural changes over generations. Niche construction: organisms modify environments affecting subsequent development or selection. Cumulative culture: building on earlier socially transmitted contributions.\n\nSocial practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales.\n\nDo not infer a genetic change from rapid cultural spread. A coevolution claim needs historical and biological evidence beyond a modern trend.",
+      "heard": "gene culture coevolution, interacting genetic and cultural changes over generations. Nitch construction, organisms modify environments affecting subsequent development or selection. Cumulative culture, building on earlier socially transmitted contributions. Social practices can change environments and opportunities while biological capacities support learning and participation. These interactions can unfold over different time scales. Do not infer a genetic change from rapid cultural spread. A co-evolution claim needs historical and biological evidence beyond a modern trend.",
+      "ratio": 0.9444,
+      "model": "tiny.en",
+      "duration": 40.575,
+      "wpm": 108.5,
+      "peak": 0.457183837890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "153f306110e99b8beb45d5b50beb29d3c4aaa566ce9a1ab6ee2845bad621a068"
+    },
+    {
+      "id": "c08s05",
+      "expected": "Cultural-evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality.\n\nA popular practice is not automatically adaptive, optimal or ethically desirable.",
+      "heard": "Cultural evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality. A popular practice is not automatically adaptive, optimal or ethically desirable.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 18.399,
+      "wpm": 114.9,
+      "peak": 0.578948974609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1f6bb727f44a43e572f964af50425723eab4be53c22199163c5e54762b2be2d1"
+    },
+    {
+      "id": "c08s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked.\n\nWhat evidence would distinguish the accounts?\n\nA. The teacher’s confidence alone.\n\nB. Transmission patterns and independent outcomes of the technique.\n\nC. An assumption that every copied practice is beneficial.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A repair method spreads after a respected visitor demonstrates it, but its accuracy has not been checked. What evidence would distinguish the accounts? A, the teacher's confidence alone. B, transmission patterns, and independent outcomes of the technique. C, an assumption that every copied practice is beneficial. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 28.943,
+      "wpm": 162.2,
+      "peak": 0.630889892578125,
+      "flags": [],
+      "raw_sha256": "f0a058c217315d3cd7121e5af3d50da3270888076bfb0dff424f699a2fc42a24"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "expected": "Confidence does not identify the transmission process or benefit.",
+      "heard": "Confidence does not identify the transmission process or benefit.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.139,
+      "wpm": 130.5,
+      "peak": 0.41229248046875,
+      "flags": [],
+      "raw_sha256": "c753e0d5369de6c0ce74b9d7f1ed100f52bca2d0beb58d2d2df1d50d03473ac0"
+    },
+    {
+      "id": "c08s06-feedback-1",
+      "expected": "Copying pathways and actual effectiveness are distinct measurable questions.",
+      "heard": "Copying pathways and actual effectiveness are distinct measurable questions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.672,
+      "wpm": 115.6,
+      "peak": 0.429962158203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7072d07c536e7b68d1b82bdf66cbbbacd22875af2101196b7450db5b5b087ffd"
+    },
+    {
+      "id": "c08s06-feedback-2",
+      "expected": "Spread does not guarantee utility.",
+      "heard": "Spread does not guarantee utility.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.091,
+      "wpm": 143.5,
+      "peak": 0.33172607421875,
+      "flags": [],
+      "raw_sha256": "10047f9a7d825d32d8bff80b30a91cf18cacfcbabb15e6e014ac4d98cf9c1613"
+    },
+    {
+      "id": "c08s07",
+      "expected": "Try these questions without your notes.\n\nHow does cultural transmission differ from genetic inheritance?\n\nWhy does popularity not prove adaptation?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. How does cultural transmission differ from genetic inheritance? Why does popularity not prove adaptation? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.278,
+      "wpm": 137.7,
+      "peak": 0.471923828125,
+      "flags": [],
+      "raw_sha256": "dd0c7f39e94092da9927587a65f9e20bdd629da4c7cdf00e58c6f77e5c06b0f0"
+    },
+    {
+      "id": "c08s07-answers",
+      "expected": "It transmits information socially rather than genetic variants through reproduction.\n\nPractices can spread through visibility, biases or institutions without improving the relevant outcome.",
+      "heard": "It transmits information, socially rather than genetic variants, through reproduction. Practices can spread through visibility, biases, or institutions, without improving the relevant outcome.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.042,
+      "wpm": 121.1,
+      "peak": 0.42913818359375,
+      "flags": [],
+      "raw_sha256": "192af8dc564a8f24f6cea209746235b0b9fa59b7bf1c48c5cd63ee47e280b24c"
+    },
+    {
+      "id": "c08s08",
+      "expected": "Use a fictional technique to describe how it spreads, why people copy it and how usefulness could be tested separately.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Use a fictional technique to describe how it spreads. Why people copy it and how usefulness could be tested separately. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.173,
+      "wpm": 172.5,
+      "peak": 0.41705322265625,
+      "flags": [],
+      "raw_sha256": "9ce915638c2d96f4f28496a5b7504d3086b4be9da734a3671ee5b8647974dd15"
+    },
+    {
+      "id": "c09s01",
+      "expected": "A study surveys students at one university and announces a universal human adaptation. Leo is persuaded by the evolutionary story. Maya asks whether the prediction distinguishes alternatives and whether other populations were studied.",
+      "heard": "A study survey students at one university and announces a universal human adaptation. Leo is persuaded by the evolutionary story. Maya asks whether the prediction distinguishes alternatives and whether other populations were studied.",
+      "ratio": 0.9697,
+      "model": "tiny.en",
+      "duration": 15.104,
+      "wpm": 131.1,
+      "peak": 0.490234375,
+      "flags": [],
+      "raw_sha256": "0489a49fc00ddf20695e269c8837562826f3509e4f675c6c951a010874ca5f8c"
+    },
+    {
+      "id": "c09s02",
+      "expected": "First, make a prediction about the café story.\n\nWhat is the main scope problem?\n\nA. A narrow sample is insufficient for the universal claim.\n\nB. Student research can never be informative.\n\nC. An evolutionary story removes the need for sampling.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. What is the main scope problem? A, a narrow sample is insufficient for the universal claim. B, student research can never be informative. C, an evolutionary story removes the need for sampling. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 20.21,
+      "wpm": 166.3,
+      "peak": 0.57275390625,
+      "flags": [],
+      "raw_sha256": "d3ed0eb13dba0da864ba87ad95dc5e387db8b5f158b44ac8c0f1c451ae12704b"
+    },
+    {
+      "id": "c09s02-feedback-0",
+      "expected": "The finding can inform a bounded claim while broader evidence is sought.",
+      "heard": "The finding can inform a bounded claim, while broader evidence is sought.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.075,
+      "wpm": 176.7,
+      "peak": 0.52142333984375,
+      "flags": [],
+      "raw_sha256": "db7b853d1b59c03ee94a0e618faf452fe4ea8f6fb5a86b60e05560e3ab149c80"
+    },
+    {
+      "id": "c09s02-feedback-1",
+      "expected": "A student sample can answer appropriately limited questions.",
+      "heard": "A student sample can answer appropriately limited questions.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.669,
+      "wpm": 130.8,
+      "peak": 0.36663818359375,
+      "flags": [],
+      "raw_sha256": "b0f6d8b105a88fc251cdaa57a1c7d5bdd8bb913e19832868c53db767139a2885"
+    },
+    {
+      "id": "c09s02-feedback-2",
+      "expected": "A theory does not make an unrepresentative sample universal.",
+      "heard": "A theory does not make an unrepresentative sample universal.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.755,
+      "wpm": 143.8,
+      "peak": 0.395721435546875,
+      "flags": [],
+      "raw_sha256": "4e01787955d88d00bae2397bf328c6d2b12ea5bc9d2a9212dbe3b9825ea66d46"
+    },
+    {
+      "id": "c09s03",
+      "expected": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations.\n\nA convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting.\n\nCross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
+      "heard": "Weird sampling, sampling concentrated in western, educated, industrialized, rich, and democratic settings. Generalizability, applicability beyond studied conditions. Cross-cultural comparison, comparison across culturally situated populations. A convenient sample may differ from much of the world in institutions, education, and experience. A universal claim needs evidence beyond one narrow setting. Cross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 39.38,
+      "wpm": 111.9,
+      "peak": 0.473724365234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3a06eb70d28cfb3dc5dface11ef61c466caf8753b00ce13490b59535b37c88c1"
+    },
+    {
+      "id": "c09s03b",
+      "expected": "Competing prediction: outcome distinguishing alternative accounts.\n\nA strong hypothesis states what pattern should occur and what would count against it. Compare adaptation, learning, institutional and by-product accounts where relevant.\n\nPreregistration can reduce selective storytelling but does not fix a poor measure. Replication and converging designs strengthen a claim when the tests address its actual prediction.",
+      "heard": "Competing prediction, outcome distinguishing alternative accounts. A strong hypothesis states what pattern should occur and what would count against it. Compare adaptation, learning, institutional, and by-product accounts were relevant. Pre-registration can reduce selective storytelling, but does not fix a poor measure. Replication and converging designs strengthen a claim when the test address its actual prediction.",
+      "ratio": 0.9381,
+      "model": "tiny.en",
+      "duration": 27.135,
+      "wpm": 130.1,
+      "peak": 0.53515625,
+      "flags": [],
+      "raw_sha256": "c14c6fdf2f77a12f303987db6682660e4ff87691c554d88493a63718ce63cde0"
+    },
+    {
+      "id": "c09s04",
+      "expected": "Converging evidence: support from different relevant methods. Publication bias: selective visibility of findings according to results. Researcher flexibility: choices in analysis that can affect conclusions.\n\nComparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation.\n\nA modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature.",
+      "heard": "Converging evidence, support from different relevant methods, publication bias, selective visibility of findings according to results, researcher flexibility, choices in analysis that can affect conclusions. Comparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation. A modern correlation may fit several histories, seek independent predictions, and consider how selective publication or flexible analysis could shape the visible literature.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 37.759,
+      "wpm": 118.5,
+      "peak": 0.510345458984375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9c6f4a04d9bf0563c400d6270a8c56c90ea034f727ab7d7024e76bd8c12e91b0"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike.\n\nEvolution’s general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.",
+      "heard": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike. Evolution's general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.151,
+      "wpm": 105.4,
+      "peak": 0.502166748046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "05fa1b29bb496534a2b33a2d079a495cd8317204893b40749f9d4e412cb1f252"
+    },
+    {
+      "id": "c09s06",
+      "expected": "Apply the idea to this new fictional case.\n\nResearchers want to test a specific adaptation account against a learning-based alternative.\n\nWhich result most strengthens the hypothesis?\n\nA. Any outcome reinterpreted after the event.\n\nB. A preregistered discriminating prediction replicated with suitable varied samples.\n\nC. Only supportive anecdotes selected from one setting.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. Researchers want to test a specific adaptation account against a learning-based alternative, which result most strengthens the hypothesis. A, any outcome reinterpreted after the event. B, a pre-registered discriminating prediction replicated with suitable varied samples. C, only supportive anecdotes selected from one setting. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 0.9764,
+      "model": "tiny.en",
+      "duration": 30.671,
+      "wpm": 146.7,
+      "peak": 0.564971923828125,
+      "flags": [],
+      "raw_sha256": "d75792eae59b9ce63507023d3f99b10f0b0eab4564fe98d93c4b29800ace2351"
+    },
+    {
+      "id": "c09s06-feedback-0",
+      "expected": "An account compatible with every result is difficult to test.",
+      "heard": "An account compatible with every result is difficult to test.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.605,
+      "wpm": 166.4,
+      "peak": 0.421173095703125,
+      "flags": [],
+      "raw_sha256": "2fb9c1cd9c1948309248d598cc3939282fdd68127b4dd7e0dc6ea525a3185bdf"
+    },
+    {
+      "id": "c09s06-feedback-1",
+      "expected": "The design reduces some alternatives and supports the intended scope.",
+      "heard": "The design reduces some alternatives and supports the intended scope.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.053,
+      "wpm": 148.0,
+      "peak": 0.387237548828125,
+      "flags": [],
+      "raw_sha256": "b67d60a3af503301540927bbbd8bb23bfda0e1d3e7379a76d9c709c2cc689931"
+    },
+    {
+      "id": "c09s06-feedback-2",
+      "expected": "Selection can make several incompatible stories appear convincing.",
+      "heard": "Selection can make several incompatible stories appear convincing.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.075,
+      "wpm": 117.8,
+      "peak": 0.371337890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "851ce330455fb546af8902f51f7ce34d548fe2ceebb07bdd780b79760a2d87e4"
+    },
+    {
+      "id": "c09s07",
+      "expected": "Try these questions without your notes.\n\nWhy does translation not guarantee measurement equivalence?\n\nWhat makes a prediction discriminating?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does translation not guarantee measurement equivalents? What makes a prediction discriminating? Reveal the suggested answers after trying.",
+      "ratio": 0.9583,
+      "model": "tiny.en",
+      "duration": 13.361,
+      "wpm": 138.3,
+      "peak": 0.53863525390625,
+      "flags": [],
+      "raw_sha256": "b278156a07bee792cfb546de70aaa2a288fbb86620fdba5bbdda657e745cf0fa"
+    },
+    {
+      "id": "c09s07-answers",
+      "expected": "Words and tasks can have different meanings and social demands across settings.\n\nAlternative accounts predict different outcomes under the specified comparison.",
+      "heard": "Words and tasks can have different meanings and social demands across settings. Alternative accounts predict different outcomes under the specified comparison.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 10.909,
+      "wpm": 136.1,
+      "peak": 0.505157470703125,
+      "flags": [],
+      "raw_sha256": "ecbdf0ce4640e15496a352768d64eeff24d5440c78d938f94b89923b28ba0bc1"
+    },
+    {
+      "id": "c09s08",
+      "expected": "Draft a fictional research proposal with two competing accounts, a distinguishing prediction, sample limits and a possible disconfirming result.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Draft a fictional research proposal with two competing accounts, a distinguishing prediction, sample limits, and a possible disconfirming result. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 15.221,
+      "wpm": 144.1,
+      "peak": 0.437286376953125,
+      "flags": [],
+      "raw_sha256": "8aa6af0551e11f6d89f9516f85780022572b99a07edf472e608b77963328e567"
+    },
+    {
+      "id": "c10s01",
+      "expected": "The café drafts a public article about cooperation and conflict. Leo wants to conclude that any evolved behaviour is natural, unavoidable and morally acceptable. Maya asks which of those claims the evidence actually supports.",
+      "heard": "The cafe drafts a public article about cooperation and conflict. Leo wants to conclude that any evolved behavior is natural, unavoidable, and morally acceptable. Maya asks which of those claims the evidence actually supports?",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 14.997,
+      "wpm": 136.0,
+      "peak": 0.4163818359375,
+      "flags": [],
+      "raw_sha256": "e8d3e97613447645e0a0ba68421f7a8f01ee57f3de0649e4db343d4848994fb8"
+    },
+    {
+      "id": "c10s02",
+      "expected": "First, make a prediction about the café story.\n\nWhich conclusion is invalid?\n\nA. An evolved contribution can interact with learning.\n\nB. A historical explanation automatically makes an action acceptable.\n\nC. A practical policy needs evidence of current effects.\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. Which conclusion is invalid? A, an evolved contribution can interact with learning. B, a historical explanation automatically makes an action acceptable. C, a practical policy, needs evidence of current effects. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.703,
+      "wpm": 146.3,
+      "peak": 0.4754638671875,
+      "flags": [],
+      "raw_sha256": "c74c4a07e1ba546c87f9ab5008857d461af864230555df2e6b60e9628abf3692"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "expected": "Development and evolutionary influence are compatible.",
+      "heard": "Development and evolutionary influence are compatible.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.435,
+      "wpm": 104.8,
+      "peak": 0.446929931640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "91cedebb71c272f5f1427aef5faa4a58da780e325de6b481cb4c0224ac164b37"
+    },
+    {
+      "id": "c10s02-feedback-1",
+      "expected": "Description does not establish a moral justification.",
+      "heard": "Description does not establish a moral justification.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.349,
+      "wpm": 125.4,
+      "peak": 0.3682861328125,
+      "flags": [],
+      "raw_sha256": "ffc73f24a0a0db165ffe4459d70bf02169fb7977d2b809716493acffdcc7ab38"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "expected": "Current effectiveness is a separate empirical question.",
+      "heard": "Current effectiveness is a separate empirical question.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 3.157,
+      "wpm": 133.0,
+      "peak": 0.375152587890625,
+      "flags": [],
+      "raw_sha256": "602482f24582e2cd3d2c3ef1112acf54da37379c646315a2d4b4a915debf2721"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations.\n\nA historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions.\n\nEthical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own.",
+      "heard": "Is ought gap, descriptive claims alone do not establish moral conclusions, biological determinism, treating biology as fixing an unavoidable outcome? Moral reasoning, evaluating actions using ethical considerations. A historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behavior cannot change through learning or institutions. Real judgments require reasons about welfare, rights, fairness, and other values. Science can inform likely consequences without choosing those values on its own.",
+      "ratio": 0.9861,
+      "model": "tiny.en",
+      "duration": 38.719,
+      "wpm": 115.5,
+      "peak": 0.479736328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a7cab57da6a32515b0e7d09548c40fb26255d2dce0eb0b903a763119633f4033"
+    },
+    {
+      "id": "c10s03b",
+      "expected": "Hypothesis scope: conditions and outcomes a claim addresses. Alternative model: another explanation with distinct assumptions. Revision: changing confidence or account in response to evidence.\n\nSpecify the behaviour, level of explanation, proposed history and distinguishing predictions. Include development, culture and alternative evolutionary processes.\n\nA good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.",
+      "heard": "Hypothesis scope, conditions and outcomes acclaim addresses, alternative model, another explanation with distinct assumptions, revision, changing confidence or account in response to evidence. Specify the behavior, level of explanation, proposed history and distinguishing predictions. Include development, culture, and alternative evolutionary processes. A good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.",
+      "ratio": 0.9756,
+      "model": "tiny.en",
+      "duration": 33.876,
+      "wpm": 114.2,
+      "peak": 0.50518798828125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "eac0029cf4f3544e56b015d96d33d1e6f331fec633a14e429731fdce03b72d59"
+    },
+    {
+      "id": "c10s04",
+      "expected": "Intervention evidence: data on the effect of a proposed change. Individual variation: differences within a population. Agency: capacity for meaningful choice and action.\n\nA hypothesis about cooperation may suggest a practical question, but changing a policy needs evidence about current outcomes and harms. Preserve individual rights and choice.\n\nUse this course to read research more carefully, not to assign hidden motives, rank groups or justify discrimination. An unfamiliar final case tests reasoning rather than professional authority.",
+      "heard": "Intervention evidence, data on the effect of a proposed change. Individual variation, differences within a population. Agency, capacity for meaningful choice and action. A hypothesis about cooperation may suggest a practical question, but changing a policy needs evidence about current outcomes and harms. Preserve individual rights and choice. Use this course to read research more carefully. not to assign hidden motives, rank groups, or justified discrimination. An unfamiliar final case tests reasoning rather than professional authority.",
+      "ratio": 0.9868,
+      "model": "tiny.en",
+      "duration": 37.247,
+      "wpm": 126.9,
+      "peak": 0.443450927734375,
+      "flags": [],
+      "raw_sha256": "2049c26857a063891de4b1a8bbec1c550b5e092e0e774b06a131e9b37fd85fac"
+    },
+    {
+      "id": "c10s05",
+      "expected": "Evolutionary psychology contains testable proposals, contested claims and methodological debates. Credibility depends on the evidence for each specific claim.\n\nThis course does not establish one ancestral lifestyle, fixed human roles or a policy agenda. Its final case is a self-check, not certification.",
+      "heard": "Evolutionary psychology contains testable proposals, contested claims, and methodological debates. Credibility depends on the evidence for each specific claim. This course does not establish one ancestral lifestyle, fixed human roles or a policy agenda. Its final case is a self-check, not certification.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 21.045,
+      "wpm": 126.5,
+      "peak": 0.46142578125,
+      "flags": [],
+      "raw_sha256": "95752b0acab098b1c99522fc8b5103a8f44289d0fab45e0a3809fa9c2537f9d8"
+    },
+    {
+      "id": "c10s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA modern cooperation study fits several theories and has not evaluated a proposed policy.\n\nWhat should the article conclude?\n\nA. The observed pattern proves one universal adaptation.\n\nB. Biology makes institutions irrelevant.\n\nC. Several accounts remain; policy choices need current evidence and ethical reasons.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A modern cooperation study fits several theories and has not evaluated a proposed policy. What should the article conclude? A, the observed pattern proves one universal adaptation. B, biology makes institutions irrelevant. C, several accounts remain. Policy choices need current evidence and ethical reasons. Choose an option and write your reasoning before checking the feedback.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 30.927,
+      "wpm": 145.2,
+      "peak": 0.56280517578125,
+      "flags": [],
+      "raw_sha256": "9231e50b456083c250717683478be78e9962480e802645075ca99e9cc2508e7e"
+    },
+    {
+      "id": "c10s06-feedback-0",
+      "expected": "The evidence does not resolve every origin account.",
+      "heard": "The evidence does not resolve every origin account.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.136,
+      "wpm": 153.1,
+      "peak": 0.501800537109375,
+      "flags": [],
+      "raw_sha256": "bbefc6ba2bff64428110cd7d0cdc38a7b8def88ac27ec9d3a093768173cc622d"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "expected": "Institutions can influence development, incentives and outcomes.",
+      "heard": "Institutions can influence development, incentives and outcomes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 4.989,
+      "wpm": 105.3,
+      "peak": 0.466583251953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ef5466ba664a17db2b82196778b50767517729112e82667909c7666c5b6ded00"
+    },
+    {
+      "id": "c10s06-feedback-2",
+      "expected": "The conclusion separates uncertain explanation from practical justification.",
+      "heard": "The conclusion separates uncertain explanation from practical justification.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 5.928,
+      "wpm": 97.4,
+      "peak": 0.441253662109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "10bdbdea048b079ae6c07db2d3324837f03d5f5e38f77ecf0af36828d43f8631"
+    },
+    {
+      "id": "c10s07",
+      "expected": "Try these questions without your notes.\n\nWhy does evolved not mean inevitable?\n\nWhat evidence would justify a practical change?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. Why does evolved not mean inevitable? What evidence would justify a practical change? Reveal the suggested answers after trying.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.891,
+      "wpm": 150.9,
+      "peak": 0.4708251953125,
+      "flags": [],
+      "raw_sha256": "2f27b7c8ed87a15fd21fc0619be531007709b3d4af552578e6bdb3d8b1ec9da9"
+    },
+    {
+      "id": "c10s07-answers",
+      "expected": "Development, learning and institutions can alter expression and conditions.\n\nA suitable test of current meaningful outcomes and harms, considered alongside rights and preferences.",
+      "heard": "Development, learning, and institutions can alter expression and conditions. A suitable test of current meaningful outcomes and harms considered alongside rights and preferences.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 12.359,
+      "wpm": 128.9,
+      "peak": 0.46148681640625,
+      "flags": [],
+      "raw_sha256": "7c0790f7b9c91862835223259ac3cc69198fbdecd80eea8ba7dd0f935f5aa87f"
+    },
+    {
+      "id": "c10s08",
+      "expected": "Write a short critique of a fictional evolved-therefore-right claim, naming the empirical gap and the independent ethical question.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Write a short critique of a fictional evolved therefore right claim, naming the empirical gap and the independent ethical question. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "ratio": 1.0,
+      "model": "tiny.en",
+      "duration": 13.919,
+      "wpm": 162.8,
+      "peak": 0.418701171875,
+      "flags": [],
+      "raw_sha256": "dff4d350063aa644316f87fa6b44d42109d7467f931c2f31f034769e5662d27b"
+    }
+  ],
+  "flagged": 38
+}

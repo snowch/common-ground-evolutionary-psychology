@@ -1,0 +1,28 @@
+{
+  "c06s03": {
+    "raw_sha256": "41068e802e61bdd3ce072388b5569d9b75a83f593ddd2c2f48b3ba4749035a5e",
+    "accept": true,
+    "reason": "Modelled/modeled is British/American spelling of the same spoken word. The additional transcript agrees otherwise. Automated evidence; not human listening approval."
+  },
+  "c08s04": {
+    "raw_sha256": "153f306110e99b8beb45d5b50beb29d3c4aaa566ce9a1ab6ee2845bad621a068",
+    "accept": true,
+    "reason": "Coevolution/co-evolution is tokenization of the same spoken term. Both occurrences and the rest of the additional transcript agree. Automated evidence; not human listening approval."
+  },
+  "c10s03": {
+    "raw_sha256": "a7cab57da6a32515b0e7d09548c40fb26255d2dce0eb0b903a763119633f4033",
+    "accept": true,
+    "reason": "The current additional transcript recovers Ethical judgments correctly after pronunciation clarification. Is–ought is transcribed phonetically as Is Ot; ought/Ot have the same spoken syllable. All other words agree. Current phoneme trace and bounded waveform reviewed. Automated evidence, not human listening approval."
+  },
+  "c04s03": {
+    "raw_sha256": "ff47bfa8730ff0e9c9cb17ed17acaa17f494120e235cd1ca1006ed848cb16349",
+    "accept": true,
+    "reason": "The full additional transcript omits Specify, but the independent final-ten-second check of this exact regenerated WAV clearly recovers Specify the developmental process and how it responds to different inputs and opportunities. Remaining an/and variants concern reduced unstressed word boundaries; the phoneme trace has an observed characteristic and An evolved capacity, with unchanged definitions. Current bounded waveform reviewed. Automated transcription evidence, not human listening approval.",
+    "crop_check": {
+      "id": "c04s03",
+      "crop": "Final ten seconds to reduce earlier semantic context.",
+      "heard": "structured input. The question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.",
+      "raw_sha256": "ff47bfa8730ff0e9c9cb17ed17acaa17f494120e235cd1ca1006ed848cb16349"
+    }
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s02-feedback-1",
+      "expected": "Historical fitness consequences do not reveal conscious intent.",
+      "heard": "Historical fitness consequences do not reveal conscious intent.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.075,
+      "wpm": 117.8,
+      "peak": 0.341033935546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b6d3f434256ae0f433bff074f9bd6b0ea79c91f8fb1b66dc50beb49025ec5def"
+    },
+    {
+      "id": "c01s03",
+      "expected": "Proximate explanation: account of mechanisms and development. Ultimate explanation: account concerning evolutionary history or function. Level of explanation: the kind of question an account addresses.\n\nA present motive, a learning history and an evolutionary hypothesis can concern the same behaviour without being interchangeable.\n\nA person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person’s conscious purpose.",
+      "heard": "proximate explanation, account of mechanisms and development, ultimate explanation, account concerning evolutionary history or function, level of explanation, the kind of question an account addresses. A present motive, a learning history, and an evolutionary hypothesis can concern the same behavior without being interchangeable. A person may help from genuine concern regardless of a proposed evolutionary history. Explaining a possible history does not reveal the person's conscious purpose.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 34.452,
+      "wpm": 121.3,
+      "peak": 0.5179443359375,
+      "flags": [],
+      "raw_sha256": "74fce00522284295ba947c2ef3edc76f10fca7d2713f9156a007abd6e49cf82e"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "Ontogeny: development within an individual lifetime. Phylogeny: evolutionary history across lineages.\n\nTinbergen distinguished mechanism, development, evolutionary history and adaptive function. A complete research programme can investigate several questions with different methods.\n\nDo not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.",
+      "heard": "ontogeny, development within an individual lifetime, phylogeny, evolutionary history across lineages, tinbergen distinguished mechanism, development, evolutionary history, and adaptive function. A complete research program can investigate several questions with different methods. Do not substitute one answer for the others. Learning a practice during life does not rule out biological influences, and a biological account does not remove culture.",
+      "ratio": 0.9828,
+      "model": "small.en",
+      "duration": 31.145,
+      "wpm": 116.6,
+      "peak": 0.47796630859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a59aa6dfe163e21d9c7a9d027bba62380775e0405f441d92148516d51374270e"
+    },
+    {
+      "id": "c01s07-answers",
+      "expected": "Mechanisms operating now and development over an individual lifetime.\n\nHistorical consequences and present mental purposes are different explanatory questions.",
+      "heard": "mechanisms operating now, and development over an individual lifetime. Historical consequences and present mental purposes are different explanatory questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 11.954,
+      "wpm": 110.6,
+      "peak": 0.4239501953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "782478bd0e4b5bea6aa1637fe6c63352a7dfe3342ec233a1dc20b6f7f86d49aa"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "expected": "The explanation concerns heritable variation and reproductive consequences.",
+      "heard": "The explanation concerns heritable variation and reproductive consequences.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.907,
+      "wpm": 97.8,
+      "peak": 0.39349365234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "34c84a140bc87e07cbf6bd99fd88bf67a32c17cec36160d333d98155d9ee0307"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Variation: differences among individuals. Heritable variation: variation partly transmitted across generations. Natural selection: change associated with differential reproduction of heritable variants.\n\nWhen heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention.\n\nIndividuals develop and learn during life; populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.",
+      "heard": "variation, differences among individuals, heritable variation, variation partly transmitted across generations, natural selection, change associated with differential reproduction of heritable variants. When heritable differences affect reproductive outcomes under particular conditions, their frequencies can change across generations. Selection has no foresight or intention. Individuals develop and learn during life. populations evolve across generations. A useful habit acquired by one person is not automatically a genetic evolutionary change.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 38.079,
+      "wpm": 107.7,
+      "peak": 0.543609619140625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d754799dbfcfdd1dc864c6a09d89684c0c12d63c972424499c0337d2af689999"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioural adaptation claim requires additional evidence about variation, inheritance, history and function.\n\nA modern preference or group difference does not identify its evolutionary origin by itself.",
+      "heard": "Natural selection is a general mechanism supported by converging biological evidence. A particular behavioral adaptation claim requires additional evidence about variation, inheritance, history, and function. A modern preference or group difference does not identify its evolutionary origin by itself.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 21.173,
+      "wpm": 114.0,
+      "peak": 0.488037109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e44ba73a2655a235861ac68d9374d4c70829e6d62c9b3965a37d82efe69758ce"
+    },
+    {
+      "id": "c02s06-feedback-2",
+      "expected": "Alternative evolutionary and developmental accounts need comparison.",
+      "heard": "alternative evolutionary and developmental accounts need comparison.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.523,
+      "wpm": 92.9,
+      "peak": 0.438446044921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "8cf4a580a928a35c576c854d672324954403a4876028305aabac8e88ccf83892"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Adaptation: feature shaped by selection for a particular effect. Exaptation: feature used for a role different from an earlier origin.\n\nA present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use, or emerge as a by-product.\n\nThese hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the café anecdote can settle.",
+      "heard": "Adaptation, features shaped by selection for a particular effect. Exaptation, feature used for a role different from an earlier origin. A present benefit does not establish the historical cause of a feature. A capacity can be recruited for a new use or emerge as a byproduct. These hypotheses can overlap in a complex trait. Music is a debated research topic, not an example whose origin the cafe anecdote can and settle.",
+      "ratio": 0.9577,
+      "model": "small.en",
+      "duration": 28.713,
+      "wpm": 155.4,
+      "peak": 0.46160888671875,
+      "flags": [],
+      "raw_sha256": "017ee65f4e75cad060f08130a09d6280c64183c9b567c52574d220c87c0930f0"
+    },
+    {
+      "id": "c03s04",
+      "expected": "Evolutionary mismatch: a feature’s effects differ between relevant ancestral and current conditions. Current function: present effects under present conditions.\n\nMismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle.\n\nA plausible mismatch does not prescribe a diet, relationship or social policy. Clinical and practical recommendations need their own outcome evidence.",
+      "heard": "Evolutionary mismatch. A feature's effects differ between relevant ancestral and current conditions. Current function, present effects under present conditions. Mismatch hypotheses compare a specified feature and environmental change. There was no single uniform ancestral environment or one universally natural lifestyle. A plausible mismatch does not prescribe a diet, relationship, or social policy. Clinical and practical recommendations need their own outcome evidence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 32.916,
+      "wpm": 115.8,
+      "peak": 0.5155029296875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "eff962ed071509b4bbcb85df39867bbeecc13d890912879942d7b5fd32983cf4"
+    },
+    {
+      "id": "c04s02-feedback-0",
+      "expected": "Development integrates biological resources and experience.",
+      "heard": "Development integrates biological resources and experience.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.032,
+      "wpm": 89.3,
+      "peak": 0.458984375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "c89fdb2905c45cf0f94bc126a4244b5153c2282ef4de0ae4b7419266bb1730fb"
+    },
+    {
+      "id": "c04s02-feedback-1",
+      "expected": "Culture is learned by biological organisms.",
+      "heard": "Culture is learned by biological organisms.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.179,
+      "wpm": 113.3,
+      "peak": 0.34344482421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "06424ec8ce7da30727bc6258500b6703db85d27f9649e3b5ba9ec5bf7f277104"
+    },
+    {
+      "id": "c04s02-feedback-2",
+      "expected": "Many biological capacities depend on appropriate developmental input.",
+      "heard": "Many biological capacities depend on appropriate developmental input.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.672,
+      "wpm": 102.7,
+      "peak": 0.35980224609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3863275b82734946d5b0e14444948ea2e9f26d5e3436e93a3038220ce029a37b"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions.\n\nGenes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input.\n\nThe question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.",
+      "heard": "phenotype and observed characteristic, developmental system interacting biological and environmental processes, plasticity, capacity for change across relevant conditions, genes, cells, bodies and experience interact throughout development, and evolved capacity can depend on learning and culturally structured input. The question is not which influence wins. the developmental process and how it responds to different inputs and opportunities.",
+      "ratio": 0.9558,
+      "model": "small.en",
+      "duration": 31.218,
+      "wpm": 115.7,
+      "peak": 0.51617431640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ff47bfa8730ff0e9c9cb17ed17acaa17f494120e235cd1ca1006ed848cb16349"
+    },
+    {
+      "id": "c04s06-feedback-2",
+      "expected": "Modifiability is a separate empirical question.",
+      "heard": "Modifiability is a separate empirical question.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.157,
+      "wpm": 114.0,
+      "peak": 0.336669921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f76b23dc7bce1647bc3dfe312ed28643929a44ec66f168b021a66added0852d3"
+    },
+    {
+      "id": "c05s02-feedback-2",
+      "expected": "That observation does not settle every evolutionary contribution.",
+      "heard": "That observation does not settle every evolutionary contribution.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.203,
+      "wpm": 114.2,
+      "peak": 0.450714111328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "50f2419987c57e36dd9ff94e4b2fe3e78f1e0dd8a80685334c7e11cda3ec2f3d"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Kin selection: selection influenced by effects on relatives’ reproductive outcomes. Inclusive fitness: framework including direct and relatedness-weighted effects. Relatedness: genetic association relevant to an evolutionary model.\n\nAn action affecting relatives can influence the propagation of shared genetic variants. Kin-selection models formalize these effects under stated assumptions.\n\nThey do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.",
+      "heard": "Kin selection, selection influenced by effects on relatives' reproductive outcomes. Inclusive fitness, framework including direct and relatedness-weighted effects. Relatedness, genetic association relevant to an evolutionary model. An action affecting relatives can influence the propagation of shared genetic variants. Kin selection models formalize these effects under stated assumptions. They do not claim that people consciously count genes or care only about relatives. Present motives and historical fitness consequences remain different questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 37.332,
+      "wpm": 118.2,
+      "peak": 0.70758056640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "36a1498d6f3b62a673957d4b8a59bfd2d49ef9c4b8cae6813797932841a0519d"
+    },
+    {
+      "id": "c05s07-answers",
+      "expected": "Evolutionary consequences and conscious purposes are separate explanatory levels.\n\nFitness costs concern reproductive outcomes under a model, not necessarily money or effort.",
+      "heard": "Evolutionary consequences and conscious purposes are separate explanatory levels. Fitness costs concern reproductive outcomes under a model, not necessarily money or effort.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 12.743,
+      "wpm": 119.0,
+      "peak": 0.4927978515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a97ff96ee5143d43ebd4d181470416a185803cb2a2dc0aa1d845a97a6a170cb9"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "expected": "Public consequences do not uniquely identify intention.",
+      "heard": "Public consequences do not uniquely identify intention.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.904,
+      "wpm": 107.6,
+      "peak": 0.414520263671875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "28a5f59e6e6d9325a968d38c345b1506bff71a8089983c12e1393ae672b030ea"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Direct reciprocity: cooperation influenced by repeated interaction between partners. One-shot interaction: interaction modelled without future encounters.\n\nHelping now can affect future treatment when individuals interact again. Models depend on memory, opportunities and costs.\n\nNot all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.",
+      "heard": "Direct reciprocity, cooperation influenced by repeated interaction between partners. One-shot interaction, interaction modeled without future encounters. Helping now can affect future treatment when individuals interact again. Models depend on memory, opportunities, and costs. Not all cooperation is delayed repayment. Mutual benefit, genuine concern and social rules can support action without one simple exchange account.",
+      "ratio": 0.9818,
+      "model": "small.en",
+      "duration": 29.375,
+      "wpm": 117.5,
+      "peak": 0.533203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "41068e802e61bdd3ce072388b5569d9b75a83f593ddd2c2f48b3ba4749035a5e"
+    },
+    {
+      "id": "c06s04",
+      "expected": "Institution: shared rules and practices structuring interaction. Public good: benefit difficult to restrict to contributors. Coordination: aligning actions toward a compatible outcome.\n\nRules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity.\n\nEconomic games isolate selected incentives, but their results depend on instructions, norms and sampling. A game score is not a complete measure of a person’s morality.",
+      "heard": "Institution, shared rules and practices structuring interaction. Public good, benefit difficult to restrict to contributors. Coordination, aligning actions toward a compatible outcome. Rules, trust, accountability and fair access can support cooperation. A shared checkout system changes the interaction rather than merely changing individual generosity. Economic games isolate selected incentives, but their results depend on instructions, norms, and sampling. A game score is not a complete measure of a person's morality.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 36.5,
+      "wpm": 119.3,
+      "peak": 0.453857421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9e1bab04a80eb131a0e6208f5b6329bc04ae43f47f270c5562abdbe2440b1542"
+    },
+    {
+      "id": "c06s05",
+      "expected": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms and institutions, and experimental games simplify these conditions.\n\nA modern game result does not establish one ancestral origin or reveal a hidden selfish intention.",
+      "heard": "Reciprocity models generate conditional predictions. Human cooperation also involves development, norms, and institutions, and experimental games simplify these conditions. A modern game result does not establish one ancestral origin or reveal a hidden selfish intention.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 19.381,
+      "wpm": 112.1,
+      "peak": 0.405792236328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7c274eb0fc64c1e52e1390e67f2bc90a3fdd385a1319e46c26f93a9bf5bfd329"
+    },
+    {
+      "id": "c06s07-answers",
+      "expected": "Indirect reciprocity uses social information or reputation; direct reciprocity concerns interactions between partners.\n\nRules can change opportunities, trust and coordination even without changing preferences.",
+      "heard": "Indirect reciprocity uses social information or reputation. Direct reciprocity concerns interactions between partners. Rules can change opportunities, trust and coordination even without changing preferences.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 15.837,
+      "wpm": 101.5,
+      "peak": 0.527099609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5a1c75cff4007509e18223e79b4cee772a881d856518f1fad7efb429398b270b"
+    },
+    {
+      "id": "c07s02-feedback-0",
+      "expected": "The claim discards variation, context and alternative explanations.",
+      "heard": "The claim discards variation, context, and alternative explanations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.523,
+      "wpm": 106.1,
+      "peak": 0.348602294921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5f054277a77e516dfc8c8bf29c1cc44e7dd1eacdbbffdd97609fefcc2846d0fc"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Sexual selection: selection associated with differences in mating or fertilization success. Mate choice: preferences or decisions affecting mating. Competition: interaction over limited opportunities or resources.\n\nSexual-selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems.\n\nHuman relationships also involve affection, learning, institutions and individual identity. A reproductive model does not capture every form or purpose of a relationship.",
+      "heard": "Sexual selection, selection associated with differences in mating or fertilization success. Mate choice, preferences or decisions affecting mating. Competition, interaction over limited opportunities or resources. Sexual selection models examine variation in reproductive outcomes under particular conditions. They apply across diverse organisms and mating systems. Human relationships also involve affection, learning, institutions, and individual identity. A reproductive model does not capture every form or purpose of a relationship.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 37.524,
+      "wpm": 111.0,
+      "peak": 0.57513427734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "551e1680a91baed35176e68f90fcc33d71c1ffe4c487199c8eff9eda6c094676"
+    },
+    {
+      "id": "c07s03b",
+      "expected": "Parental investment: resources benefiting offspring at a cost to other reproductive opportunities. Life-history trade-off: allocation among growth, maintenance and reproduction. Ecological condition: environmental resource or risk affecting outcomes.\n\nModels examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies.\n\nDo not turn a model average into a fixed claim about every woman, man or family. Sex, gender, sexuality, resources and social roles require careful distinction in human research.",
+      "heard": "Parental investment, resources benefiting offspring at a cost to other reproductive opportunities. Life history trade-off, allocation among growth, maintenance and reproduction. Ecological condition, environmental resource or risk affecting outcomes. Models examine how costs, resources and opportunities affect reproductive strategies. Constraints and care arrangements vary across species and human societies. do not turn a model average into a fixed claim about every woman, man, or family. Sex, gender, sexuality, resources, and social roles require careful distinction in human research.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 41.492,
+      "wpm": 117.9,
+      "peak": 0.51605224609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1a522969c6dab9c818cbd47a80a693426bc94c6117ecd85899c5ff9f58c761c4"
+    },
+    {
+      "id": "c07s06-feedback-0",
+      "expected": "Significance alone does not show magnitude or individual predictability.",
+      "heard": "Significance alone does not show magnitude or individual predictability.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.736,
+      "wpm": 114.0,
+      "peak": 0.372344970703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b162d287d192214c4b805155b6c7df7043cdd6bd4ce4e7b45b6671faead68b36"
+    },
+    {
+      "id": "c08s02-feedback-0",
+      "expected": "The observed transmission concerns information and practice.",
+      "heard": "The observed transmission concerns information and practice.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.627,
+      "wpm": 115.8,
+      "peak": 0.38299560546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ec7a4b75a14482757bb5b095cb8566c014e1f3c5dfcd8c4e2237d4d822d2ef3f"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Cultural transmission: socially mediated acquisition of information or practice. Social learning: learning influenced by observing or interacting with others.\n\nA technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them.\n\nCultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.",
+      "heard": "Cultural transmission, socially mediated acquisition of information or practice. Social learning, learning influenced by observing or interacting with others. A technique can spread through teaching, observation or imitation without a change in gene frequencies. Variants can change as people modify and combine them. Cultural evolution studies these transmission processes and population patterns. Spread alone does not show that a practice is useful or fair.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 31.039,
+      "wpm": 129.1,
+      "peak": 0.496490478515625,
+      "flags": [],
+      "raw_sha256": "052c1eff6d9e48132b65366dc256ac994fcadd6d401e58e655f497de685605be"
+    },
+    {
+      "id": "c08s04",
+      "expected": "Gene–culture coevolution: interacting genetic and cultural changes over generations. Niche construction: organisms modify environments affecting subsequent development or selection. Cumulative culture: building on earlier socially transmitted contributions.\n\nSocial practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales.\n\nDo not infer a genetic change from rapid cultural spread. A coevolution claim needs historical and biological evidence beyond a modern trend.",
+      "heard": "gene culture co-evolution, interacting genetic and cultural changes over generations, niche construction, organisms modify environments affecting subsequent development or selection, cumulative culture, building on earlier socially transmitted contributions. Social practices can change environments and opportunities, while biological capacities support learning and participation. These interactions can unfold over different timescales. Do not infer a genetic change from rapid cultural spread. A co-evolution claim needs historical and biological evidence beyond a modern trend.",
+      "ratio": 0.9583,
+      "model": "small.en",
+      "duration": 40.575,
+      "wpm": 108.5,
+      "peak": 0.457183837890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "153f306110e99b8beb45d5b50beb29d3c4aaa566ce9a1ab6ee2845bad621a068"
+    },
+    {
+      "id": "c08s05",
+      "expected": "Cultural-evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality.\n\nA popular practice is not automatically adaptive, optimal or ethically desirable.",
+      "heard": "Cultural evolution models formalize transmission and change, but particular applications depend on assumptions and data. Cultural variation can also test claims about universality. A popular practice is not automatically adaptive, optimal, or ethically desirable.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 18.399,
+      "wpm": 114.9,
+      "peak": 0.578948974609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "1f6bb727f44a43e572f964af50425723eab4be53c22199163c5e54762b2be2d1"
+    },
+    {
+      "id": "c08s06-feedback-1",
+      "expected": "Copying pathways and actual effectiveness are distinct measurable questions.",
+      "heard": "Copying pathways and actual effectiveness are distinct measurable questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.672,
+      "wpm": 115.6,
+      "peak": 0.429962158203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7072d07c536e7b68d1b82bdf66cbbbacd22875af2101196b7450db5b5b087ffd"
+    },
+    {
+      "id": "c09s03",
+      "expected": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations.\n\nA convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting.\n\nCross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
+      "heard": "Weird sampling, sampling concentrated in Western, educated, industrialized, rich, and democratic settings Generalizability, applicability beyond studied conditions Cross-cultural comparison, comparison across culturally situated populations A convenient sample may differ from much of the world in institutions, education, and experience A universal claim needs evidence beyond one narrow setting Cross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 39.38,
+      "wpm": 111.9,
+      "peak": 0.473724365234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3a06eb70d28cfb3dc5dface11ef61c466caf8753b00ce13490b59535b37c88c1"
+    },
+    {
+      "id": "c09s04",
+      "expected": "Converging evidence: support from different relevant methods. Publication bias: selective visibility of findings according to results. Researcher flexibility: choices in analysis that can affect conclusions.\n\nComparative, developmental, historical and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation.\n\nA modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature.",
+      "heard": "converging evidence, support from different relevant methods, publication bias, selective visibility of findings according to results, researcher flexibility, choices in analysis that can affect conclusions. Comparative, developmental, historical, and experimental evidence can each address parts of a claim. Their limitations should be stated rather than counted as automatic confirmation. A modern correlation may fit several histories. Seek independent predictions and consider how selective publication or flexible analysis could shape the visible literature.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 37.759,
+      "wpm": 118.5,
+      "peak": 0.510345458984375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9c6f4a04d9bf0563c400d6270a8c56c90ea034f727ab7d7024e76bd8c12e91b0"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike.\n\nEvolution’s general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.",
+      "heard": "Psychological research has documented substantial sampling and replication concerns. These affect evolutionary and non-evolutionary hypotheses alike. Evolution's general validity does not establish every specific psychological adaptation claim, and one weak hypothesis does not invalidate evolution.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 21.151,
+      "wpm": 105.4,
+      "peak": 0.502166748046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "05fa1b29bb496534a2b33a2d079a495cd8317204893b40749f9d4e412cb1f252"
+    },
+    {
+      "id": "c09s06-feedback-2",
+      "expected": "Selection can make several incompatible stories appear convincing.",
+      "heard": "Selection can make several incompatible stories appear convincing.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.075,
+      "wpm": 117.8,
+      "peak": 0.371337890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "851ce330455fb546af8902f51f7ce34d548fe2ceebb07bdd780b79760a2d87e4"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "expected": "Development and evolutionary influence are compatible.",
+      "heard": "Development and evolutionary influence are compatible.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.435,
+      "wpm": 104.8,
+      "peak": 0.446929931640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "91cedebb71c272f5f1427aef5faa4a58da780e325de6b481cb4c0224ac164b37"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations.\n\nA historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions.\n\nEthical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own.",
+      "heard": "Is Ot Gap? Descriptive claims alone do not establish moral conclusions, biological determinism, treating biology as fixing an unavoidable outcome, moral reasoning, evaluating actions using ethical considerations. A historical explanation cannot by itself justify an action, nor does evolutionary influence imply that behavior cannot change through learning or institutions. Ethical judgments require reasons about welfare, rights, fairness, and other values. Science can inform likely consequences without choosing those values on its own.",
+      "ratio": 0.9861,
+      "model": "small.en",
+      "duration": 38.719,
+      "wpm": 115.5,
+      "peak": 0.479736328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a7cab57da6a32515b0e7d09548c40fb26255d2dce0eb0b903a763119633f4033"
+    },
+    {
+      "id": "c10s03b",
+      "expected": "Hypothesis scope: conditions and outcomes a claim addresses. Alternative model: another explanation with distinct assumptions. Revision: changing confidence or account in response to evidence.\n\nSpecify the behaviour, level of explanation, proposed history and distinguishing predictions. Include development, culture and alternative evolutionary processes.\n\nA good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.",
+      "heard": "Hypothesis scope, conditions and outcomes a claim addresses. Alternative model, another explanation with distinct assumptions. Revision, changing confidence or account in response to evidence. Specify the behavior, level of explanation, proposed history and distinguishing predictions. Include development, culture, and alternative evolutionary processes. A good account admits where evidence is unavailable. Do not replace missing historical data with certainty based on modern intuition.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 33.876,
+      "wpm": 114.2,
+      "peak": 0.50518798828125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "eac0029cf4f3544e56b015d96d33d1e6f331fec633a14e429731fdce03b72d59"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "expected": "Institutions can influence development, incentives and outcomes.",
+      "heard": "Institutions can influence development, incentives, and outcomes.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.989,
+      "wpm": 105.3,
+      "peak": 0.466583251953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ef5466ba664a17db2b82196778b50767517729112e82667909c7666c5b6ded00"
+    },
+    {
+      "id": "c10s06-feedback-2",
+      "expected": "The conclusion separates uncertain explanation from practical justification.",
+      "heard": "The conclusion separates uncertain explanation from practical justification.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.928,
+      "wpm": 97.4,
+      "peak": 0.441253662109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "10bdbdea048b079ae6c07db2d3324837f03d5f5e38f77ecf0af36828d43f8631"
+    }
+  ]
+}

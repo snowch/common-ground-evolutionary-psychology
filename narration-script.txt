@@ -179,7 +179,7 @@ Reveal the suggested answers after trying.
 c02s07-answers Chapter 2: recall answers
 Frequency changes arise from current conditions and reproduction, not planning toward a goal.
 
-Drift concerns random frequency change; selection concerns differential reproductive consequences of variants.
+Drift concerns random frequency change. Selection concerns differences in survival and reproduction linked to inherited traits.
 
 c02s08 Chapter 2: Take the idea into everyday life
 Rewrite a fictional nature-wanted-it claim using variation, inheritance and conditions, with no moral conclusion.

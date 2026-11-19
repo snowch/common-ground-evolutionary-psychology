@@ -182,8 +182,8 @@
   {
     "id": "c02s07-answers",
     "step": "Chapter 2: recall answers",
-    "text": "Frequency changes arise from current conditions and reproduction, not planning toward a goal.\n\nDrift concerns random frequency change; selection concerns differential reproductive consequences of variants.",
-    "say": "Frequency changes arise from current conditions and reproduction, not planning toward a goal. [pause 0.65] Drift concerns random frequency change; selection concerns differential reproductive consequences of variants. [pause 1.0]"
+    "text": "Frequency changes arise from current conditions and reproduction, not planning toward a goal.\n\nDrift concerns random frequency change. Selection concerns differences in survival and reproduction linked to inherited traits.",
+    "say": "Frequency changes arise from current conditions and reproduction, not planning toward a goal. [pause 0.65] Drift concerns random frequency change. Selection concerns differences in survival and reproduction linked to inherited traits. [pause 1.0]"
   },
   {
     "id": "c02s08",
@@ -321,7 +321,7 @@
     "id": "c04s03",
     "step": "Chapter 4: Development constructs the phenotype.",
     "text": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions.\n\nGenes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input.\n\nThe question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities.",
-    "say": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions. [pause 0.65] Genes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input. [pause 0.65] The question is not which influence wins. Specify the developmental process and how it responds to different inputs and opportunities."
+    "say": "Phenotype: an observed characteristic. Developmental system: interacting biological and environmental processes. Plasticity: capacity for change across relevant conditions. [pause 0.65] Genes, cells, bodies and experience interact throughout development. An evolved capacity can depend on learning and culturally structured input. [pause 0.65] The question is not which influence wins. [pause 0.35] [Specify](/spˈɛsɪfˌaɪ/) the developmental process and how it responds to different inputs and opportunities."
   },
   {
     "id": "c04s03b",
@@ -801,7 +801,7 @@
     "id": "c09s03",
     "step": "Chapter 9: Sampling limits the conclusion.",
     "text": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations.\n\nA convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting.\n\nCross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured.",
-    "say": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations. [pause 0.65] A convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting. [pause 0.65] Cross-cultural work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured."
+    "say": "WEIRD sampling: sampling concentrated in Western, educated, industrialized, rich and democratic settings. Generalizability: applicability beyond studied conditions. Cross-cultural comparison: comparison across culturally situated populations. [pause 0.65] A convenient sample may differ from much of the world in institutions, education and experience. A universal claim needs evidence beyond one narrow setting. [pause 0.65] [Cross-cultural](/krˌɔːskˈʌltʃɚɹəl/) work also needs comparable measures and local understanding. Translating words alone does not guarantee the same psychological construct was measured."
   },
   {
     "id": "c09s03b",
@@ -897,7 +897,7 @@
     "id": "c10s03",
     "step": "Chapter 10: Natural does not mean good or inevitable.",
     "text": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations.\n\nA historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions.\n\nEthical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own.",
-    "say": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations. [pause 0.65] A historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions. [pause 0.65] Ethical judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own."
+    "say": "Is–ought gap: descriptive claims alone do not establish moral conclusions. Biological determinism: treating biology as fixing an unavoidable outcome. Moral reasoning: evaluating actions using ethical considerations. [pause 0.65] A historical explanation cannot by itself justify an action. Nor does evolutionary influence imply that behaviour cannot change through learning or institutions. [pause 0.65] [Ethical](/ˈɛθɪkəl/) judgments require reasons about welfare, rights, fairness and other values. Science can inform likely consequences without choosing those values on its own."
   },
   {
     "id": "c10s03b",
